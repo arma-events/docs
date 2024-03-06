@@ -28,11 +28,11 @@ Various image file formats are supported. You can zoom into your image with the 
 
 ### Display Name vs. Handle
 
-The display name and the handle are identical after first login. But they can be changed later individually.
+The **display name** and the **handle** are identical after first login. But they can be changed later individually.
 
-Set your display name to any string that is less or equal 50 unicode characters. The regular name is the one that is displayed on **arma.events** most of the time. You can share the same name with other users.
+Set your **display name** to any string that is less or equal 50 unicode characters. The display name is the one that is displayed on **arma.events** most of the time. You can share the same display name with other users.
 
-The handle is a string with 32 or less web-safe characters that has to be unique on our platform. The availability of the handle is checked every time you try to change it. The handle is used mostly in URLs. In all other cases the display name is shown.
+The **handle** is a string with 32 or less web-safe characters that has to be unique on our platform. The availability of the handle is checked every time you try to change it. The handle is mostly used in URLs. In all other cases the display name is shown.
 
 ![Name vs. Username](images/name-vs-username.png "Name vs. Username")
 
