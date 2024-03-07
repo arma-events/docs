@@ -3,8 +3,8 @@
 layout: home
 
 hero:
-  name: "Arma Events Documentation"
-  text: "Arma Events Documentation"
+  name: "docs.arma.events"
+  text: "Read the fu*$ing manual"
   tagline: My great project tagline
   actions:
     - theme: brand
@@ -15,11 +15,11 @@ hero:
       link: /api-examples
 
 features:
-  - title: Feature A
+  - title: Users
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
+  - title: Communities
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
+  - title: Events
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
 ---
 

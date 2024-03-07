@@ -14,11 +14,11 @@ The **unique-ID** is a string with 32 or less web-safe characters that has to be
 
 The **tag** of your community is a string that is 10 or less characters long. ***TO CLARIFY: Current use of the tag is unclear. Perhaps the tag will be used as a prefix on users's display names in events mit multiple communities with format `[TAG] user display name`. I'm not sure.***
 
-![Community Name Types](images/community-name-types.png "Community Name Types")
+![Community Name Types](../images/community-name-types.png "Community Name Types")
 
 ### Logo and Color
 
-![Community Logo](images/community-logo.png "Community Logo")
+![Community Logo](../images/community-logo.png "Community Logo")
 
 ## Invite Members
 
