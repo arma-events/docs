@@ -48,7 +48,7 @@ Keep in mind that the community will be deleted if you are the only/last member.
 
 Session management is a security feature. It lists every active browser session on your devices. Feel free to close/revoke all sessions you no longer need or all sessions at once. A revoked session means that you need to login again on that specific device/browser combination.
 
-![Sessions](images/games-and-dlcs.png "Sessions")
+![Sessions](images/sessions.png "Sessions")
 
 ### Games and DLCs
 
