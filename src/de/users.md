@@ -2,7 +2,7 @@
 outline: deep
 ---
 
-# User
+# Users
 
 ## Login with Steam SSO
 
