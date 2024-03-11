@@ -21,8 +21,13 @@ export default defineConfig({
         items: [
           { text: 'Users', link: '/en/users' },
           { text: 'Communities', link: '/en/communities' },
-          { text: 'Events', link: '/en/events' },
-          { text: 'Markdown', link: '/en/markdown' }
+          {
+            text: 'Events', 
+            link: '/en/events', 
+            items: [
+              { text: 'Markdown', link: '/en/markdown' }
+            ]
+          }
         ]
       },
       {

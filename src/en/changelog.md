@@ -4,7 +4,9 @@ outline: deep
 
 # Changelog
 
-## v1.0 2024 (Initial Release and Minimum Viable Product)
+## v1.0 XX-2024
+
+Initial Release and Minimum Viable Product
 
 - User Management
   - Steam SSO
