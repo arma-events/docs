@@ -19,13 +19,15 @@ export default defineConfig({
       {
         text: 'Articles',
         items: [
+          { text: 'Explore', link: '/en/explore' },
           { text: 'Users', link: '/en/users' },
           { text: 'Communities', link: '/en/communities' },
           {
             text: 'Events', 
             link: '/en/events', 
             items: [
-              { text: 'Markdown', link: '/en/markdown' }
+              { text: 'Markdown', link: '/en/markdown' },
+              { text: 'Slotslist', link: '/en/slotlist' }
             ]
           }
         ]

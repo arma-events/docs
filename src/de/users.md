@@ -30,7 +30,7 @@ Various image file formats are supported. You can zoom into your image with the 
 
 ![Avatar](../images/avatar.png "Avatar")
 
-### Display Name vs. Handle
+### Naming
 
 The **display name** and the **handle** are identical after first login. But they can be changed later individually.
 
