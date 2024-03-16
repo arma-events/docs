@@ -26,6 +26,22 @@ Finally, you will be redirected to the profile page of your community. Here you 
 
 ![Fresh Community](../images/fresh-community.png "Fresh Community")
 
+## Invite Members
+
+Players can join your community only with a valid invitation. An inviation is a link combined with an expiration time and a max number of uses. By default the invitation is valid for 7 days and with an unlimited number of uses. You can change these settings by pressing **Edit invite link**.
+
+The format will be always `https://arma.events/[INVITE-CODE]` like for example `https://arma.events/1YOtETcO`
+
+![Invites Overview](../images/invites-overview.png "Invites Overview")
+
+The remaining time and the number of uses is reported in the invites overview. You can open a platform dependent **share** menu or delete an active invitation via the three dots symbol. Send the created link to your designated members via your prefered sharing method.
+
+![Edit Invite Links](../images/edit-invite-links.png "Edit Invite Links")
+
+The recipient only needs to open the URL, use the Steam SSO to login and accept the invite.
+
+![Use Invite](../images/use-invite.png "Use Invite")
+
 ## Delete a Community
 
 You can simply delete your community by hitting the the **Delete Community** button in the settings of your community. You will get a warning before the deletion will take affect. Keep these consequences in mind:
@@ -37,7 +53,7 @@ You can simply delete your community by hitting the the **Delete Community** but
 
 ![Delete Community](../images/delete-community.png "Delete Community")
 
-## Manage Community Settings
+## Edit Community Settings
 
 You can access your communites by chossing **Communities** from your avatar menu.
 
@@ -49,6 +65,9 @@ You will be redirected to the communities list in your user profile. Here you ca
 
 On the community profile page you can search/manage members, see events and manage the community.
 
+> [!IMPORTANT]
+> You need admin rights to manage members, events and community settings.
+
 ![Manage Community](../images/manage-community.png "Manage Community")
 
 ### Members
@@ -59,10 +78,11 @@ In the members tab you can search for members in the members list (1), grant adm
 
 | Role       | Desciption |
 | ----       | ---------- |
-| Everybody  | Basic role of all **arma-events** users. Non-Members can see your community and user profile pages and events if set to visible. |
-| Guest      | Guests (single users or whole communities) can join events. Need to be setup in event settings. |
-| Member     | Basic role of all members of a community. Members can join events and leave the community. |
-| Admin      | (Crown Symbol) Admins can delete the community, change community settings, remove members and admins from community, manage community events, manage community invitations and grant or revoke admin rights |
+| Everybody  | Basic role for all **arma-events** users. Everybody (non-members) can see your community and user profile pages and events if set to visible. |
+| Guest      | Guests (single users or whole communities) can join events. Needs to be configured in event settings. |
+| Member     | Basic role for all members of a community. Members can create events, join events and leave the community. |
+| Author     | If you created an event or have been invited for co-authoring then you can manage these specific event |
+| Admin      | (Crown Symbol) Admins can delete the community, change community settings, remove members and admins from community, manage all community events (authored by every member), manage community invitations and grant or revoke admin rights |
 
 ### Events
 
@@ -95,19 +115,3 @@ Various image file formats are supported. You can zoom into your image with the 
 You can define a base color for your community. It is used in variuos cases as a background color like for events without an image or on the community profile page. A modified version of your background color with a higher text contrast is created as a background for the community tag. Light colors will get lighter and dark colors will get darker. Also the saturation increases. Keep that in mind and choose a background color that fits best your needs.
 
 ![Community Colors](../images/community-colors.png "Community Colors")
-
-## Invite Members
-
-Players can join your community only with a valid invitation. An inviation is a link combined with an expiration time and a max number of uses. By default the invitation is valid for 7 days and with an unlimited number of uses. You can change these settings by pressing **Edit invite link**.
-
-The format will be always `https://arma.events/[INVITE-CODE]` like for example `https://arma.events/1YOtETcO`
-
-![Invites Overview](../images/invites-overview.png "Invites Overview")
-
-The remaining time and the number of uses is reported in the invites overview. You can open a platform dependent **share** menu or delete an active invitation via the three dots symbol. Send the created link to your designated members via your prefered sharing method.
-
-![Edit Invite Links](../images/edit-invite-links.png "Edit Invite Links")
-
-The recipient only needs to open the URL, use the Steam SSO to login and accept the invite.
-
-![Use Invite](../images/use-invite.png "Use Invite")

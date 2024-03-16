@@ -4,22 +4,33 @@ layout: home
 
 hero:
   name: "docs.arma.events"
-  text: "Read the fu*$ing manual"
-  tagline: My great project tagline
+  text: "Slotlists made easy"
+  tagline: Keep your community events organized
+  image:
+    src: /images/landing-page-image.png
+    alt: arma.events ORBAT slotlist
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
+      text: Users
+      link: /en/users
+    - theme: brand
+      text: Communities
+      link: /en/communities
+    - theme: brand
+      text: Events
+      link: /en/events
     - theme: alt
-      text: API Examples
-      link: /api-examples
+      text: Markdown
+      link: /en/markdown
+    - theme: alt
+      text: Slotlist
+      link: /en/slotlist
 
 features:
-  - title: Users
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Communities
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Events
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: Event Creation
+    details: Brief your team with our WYSIWYG block editor, upload maps and pictures and create a beautiful ORBAT slotlist.
+  - title: Multi Community Events
+    details: Invite other communities to play with you. Share individual slots or whole teams for them to sign up to.
+  - title: Steam SSO
+    details: Just sign in with Steam and you are ready to go. No additional account needed.
 ---
-
