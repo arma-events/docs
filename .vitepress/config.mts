@@ -49,7 +49,11 @@ export default defineConfig({
       { icon: 'youtube', link: 'https://www.youtube.com/@arma.events' },
       { icon: 'discord', link: 'https://discord.gg/b2aABzh8xJ' },
       { icon: 'x', link: 'https://x.com/arma_events' }
-    ]
+    ],
+
+    search: {
+      provider: 'local'
+    }
   },
 
   locales: {
