@@ -6,17 +6,17 @@ Every new slotlist starts with a faction and a company in it. This is the requir
 
 You can **undo or redo** (1) every change inside the slotlist editor. The history has a limit of 20 steps. You can **add more factions, companies or groups** by pressing the `+` button. You can **change the order** (4) of factions, companies inside factions, groups inside companies and groups inside groups by using the four dots handle. As long as the names (5) are not set (grey heading) they will be hidden in the final slotlist. Every round `+` button in the slotlist indicates a position where **player slots can be added** (6).
 
-## Factions vs. Companies vs. Groups vs. Fireteams vs. Units
+## Organisational Units
 
-| OU*      | Optional | Parent                     | Children       | Slots | Properties   | Characteristics |
-| ---      | -------- | ------                     | --------       | ----- | ----------   | --------------- |
-| Faction  | no       | none                       | Company        | no    | Color, Name  | Parties that are part of the conflict like OPFOR, BLUFOR, Independant |
-| Company  | no       | Faction                    | Group or Slot  | yes   | Name, Symbol | Highest organisational unit in a faction; can be Company, Platoon, Squad, Group or anything else |
-| Group    | yes      | Company or Group           | Group or Slot  | yes   | Name, Symbol | Lower/Middle organisational unit; can host other groups; can be Platoon, Squad, Group or anything else |
-| Fireteam | yes      | Group                      | Slot           | yes   | none         | Smallest organisational unit |
-| Slot     | no       | Company, Group or Fireteam | none           | no    | Name         | The player's slot |
+| OU       | Parent                     | Children       | Slots | Properties   | Characteristics |
+| ---      | ------                     | --------       | ----- | ----------   | --------------- |
+| Faction* | none                       | Company        | no    | Color, Name  | Parties that are part of the conflict like OPFOR, BLUFOR, Independant |
+| Company* | Faction                    | Group or Slot  | yes   | Name, Symbol | Highest organisational unit in a faction; can be Company, Platoon, Squad, Group or anything else |
+| Group    | Company or Group           | Group or Slot  | yes   | Name, Symbol | Lower/Middle organisational unit; can host other groups; can be Platoon, Squad, Group or anything else |
+| Fireteam | Group                      | Slot           | yes   | none         | Smallest organisational unit |
+| Slot     | Company, Group or Fireteam | none           | no    | Name         | The player's slot |
 
-\**Organisational Unit*
+\**There is always one dummy faction and one dummy company*
 
 ## Create Factions, Companies and Groups
 
@@ -36,9 +36,20 @@ Fireteams are a special type of unit. You can create fireteams only inside of gr
 
 ![Create Fireteams](../videos/create-fireteams.gif "Create Fireteams")
 
-## Moving Factions, Companies, Groups
+## Move Factions, Companies, Groups
 
-## Moving Slots
+You can move factions, companies and groups by using the four dots icons. Grey drop zone bars indicate the valid positions where you can move the items to. The currently selected drop zone is rendered darker and bigger then the not selected ones.
+
+![Move Factions, Companies and Groups](../videos/move-factions-companies-groups.gif "Move Factions, Companies and Groups")
+
+## Move Slots
+
+You can move slots around by dragging and dropping them onto the highlighted drop zones. The currently selected drop zone is rendered darker and bigger then the not selected ones.
+
+![Move Slots](../videos/move-slots.gif "Move Slots")
+
+> [!IMPORTANT]
+> You can't move fireteams around. If you want to move a fireteam then you need to swap slots.
 
 ## Rename Factions, Companies and Groups
 
@@ -50,10 +61,13 @@ WIP
 
 ## Delete Factions, Companies and Groups
 
+You can delete factions, companies and groups by dragging and dropping them on the trash can symbol. Child elements will be deleted as well. If you for example delete a faction then all companies and groups in that faction will be deleted accordingly.
+
+![Delete Factions, Companies and Groups](../videos/delete-factions-companies-groups.gif "Delete Factions, Companies and Groups")
+
 ## Delete Slots
 
 WIP
 
-## Delete Fireteams
-
-## Complex Slotlists
+> [!IMPORTANT]
+> You can't delete fireteams. If you want to delete a fireteam then you need to delete it's slots.

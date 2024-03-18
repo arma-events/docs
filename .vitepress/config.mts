@@ -35,12 +35,14 @@ export default defineConfig({
       {
         text: 'Other Stuff',
         items: [
+          { text: 'Team', link: '/en/team' },
           { text: 'FAQ', link: '/en/faq' },
           { text: 'Support', link: '/en/support' },
           { text: 'Feedback', link: '/en/feedback' },
           { text: 'Contribution', link: '/en/contribution' },
           { text: 'Roadmap', link: '/en/roadmap' },
-          { text: 'Changelog', link: '/en/changelog' }
+          { text: 'Changelog', link: '/en/changelog' },
+          { text: 'Tech Stack', link: '/en/tech-stack' }
         ]
       }
     ],
