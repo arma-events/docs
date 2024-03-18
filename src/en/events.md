@@ -25,13 +25,15 @@ The last step is to choose a date and time for your event to start. You can setu
 
 ![Create Event Workflow](../images/create-event-workflow.png "Create Event Workflow")
 
-After finishing the workflow your event is in **draft** state. Now you can setup your event details. While in draft state the event is not listed or visible anywhere. Only the authors can access the event. 
+After finishing the workflow your event is in **draft** state. Now you can setup your event details. While in draft state the event is not listed or visible anywhere. Only the authors can access the event.
 
-Save your changes by pressing the **Save draft** button and see your changes in preview mode by pressing the **Preview** button. You can close your draft any time by pressing the `X` button or publish your event by pressing the **Publish** button. By that your event leaves the draft state and is visible to all **arma.events** users and especially to your community and your guests.
+You can close your draft any time by pressing the `X` button or publish your event by pressing the **Publish** button. By that your event leaves the draft state and is visible to all **arma.events** users and especially to your community and your guests.
+
+Save your changes by pressing the **Save draft** button and see your changes in preview mode by pressing the **Preview** button.
+
+![Preview Toggle](../images/preview-toggle.png "Preview Toggle")
 
 ### Event Details
-
-![Event Details](../images/event-details.png "Event Details")
 
 Your given **event title** (1) was used to create an **event handle** (2) that is restricted to min. 5 and max. 32 web-friendly characters. Both can be changed but the event handle needs to be unique. You get a feedback if the chosen name is available every time you try to change it.
 
@@ -49,31 +51,47 @@ It's a good choice to add a teaser **image** (8). If you leave the image blank t
 
 You can also add **tags** to organize your event. In the future tags will be usesd as quick search terms.
 
+![Event Details](../images/event-details.png "Event Details")
+
 ### Block Editor
 
 The Block Editor finally allows you to create your event briefing or any kind of description or documentation that you want to privide with your newly created event.
 
-Creating text blocks and image blocks by pressing the corresponding buttons **Add Text** and **Add Image**. You can create as much blocks asa you want. Use the four dots symbol to move the blocks around and change their order.
+Creating text blocks and image blocks by pressing the corresponding buttons **Add Text** and **Add Image**. You can create as much blocks as you want. Use the four dots symbol to move the blocks around and change their order.
+
+![Block Editor Order](../videos/block-editor-order.gif "Block Editor Order")
 
 For every block you can decide to collapse or expand it by default. That way you can hide more detailed information and only show the most significant blocks. The user can expand or collapse every block while reading through the event documentation.
 
 Every block consists of a heading part and a content part. Using the heading is completely optional.
 
-### Text Blocks
+#### Text Blocks
 
 The text block supports Markdown in it's content part which enables you to use subheadlines, lists, links, images, text attributes and many more. See the [Markdown](./markdown "Markdown") article for more information.
 
-### Image Blocks
+The Text block ist resizeable while editing but will automatically adjust it's size in preview and when published based on it's content.
 
-Image blocks allow you to embed one or more images. You can choose between minature previews or a sliding image preview. You can setup an image title for every image separately.
+![Text Block](../images/text-block.png "Text Block")
+
+#### Image Blocks
+
+Image blocks allow you to embed one or more images. You can setup an image title for every image separately.
 
 > [!IMPORTANT]
-> Multi-Image upload is currently not supported
+> Multi-Image upload is currently not supported. Upload your images separately.
 
-## Author Event
+![Image Block](../images/image-block.png "Image Block")
 
-You can only author/change events that you have created yourself. If you've been added as an author to an event then you can access that event too. Admins can manage all community events.
+You can change the order of your images inside the image block.
+
+![Image Block Order](../videos/image-block-order.gif "Image Block Order")
+
+## Manage Slotlist
+
+WIP
 
 ## Delete Event
 
-Event Details --> Button
+You can simply delete your event by pressing the **Delete Event** button.
+
+![Delete Event](../images/delete-event.png "Delete Event")

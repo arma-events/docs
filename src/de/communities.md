@@ -96,7 +96,7 @@ Set the **display name** of your community to any string that is less or equal 5
 
 The **unique-ID** is a string with 32 or less web-safe characters that has to be unique on our platform. The availability of the unique-ID is checked every time you try to change it. The unique-ID is mostly used in URLs. In all other cases the display name is shown.
 
-The **tag** of your community is a string that is 10 or less characters long.
+The **tag** of your community is a string that is 10 or less characters long. It's currently not used but will be in the future.
 
 ![Community Name Types](../images/community-name-types.png "Community Name Types")
 
