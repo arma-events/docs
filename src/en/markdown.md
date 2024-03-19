@@ -78,7 +78,7 @@ Enclose your URL or email address in `<` and `>` to create an automatic link wit
 
 ![Autolinks](../images/autolinks.png "Autolinks")
 
-## Code Block (monospaced text)
+## Code Block
 
 Beginn every line with ` ` 4 blank spaces to create a code block. Alternatively, enclose the text in ` ``` ` to create a code block. No support for syntax highlighting.
 
@@ -102,7 +102,7 @@ Markdown alerts are created like blockquotes but the first line contains a keywo
 
 ![Alerts 3](../images/alerts-3.png "Alerts 3")
 
-## Escaping Markdown characters
+## Escape Markdown Characters
 
 If you want to treat Markdown characters as normal text then you can escape these characters with the `\` prefix.
 
