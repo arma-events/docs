@@ -29,35 +29,35 @@ After finishing the workflow your event is in **draft** state. Now you can setup
 
 You can close your draft any time by pressing the `X` button or publish your event by pressing the **Publish** button. By that your event leaves the draft state and is visible to all **arma.events** users and especially to your community and your guests.
 
-Save your changes by pressing the **Save draft** button and see your changes in preview mode by pressing the **Preview** button.
+Save your changes by pressing the **Save Draft** button and see your changes in preview mode by pressing the **Preview** button.
 
 ![Preview Toggle](../images/preview-toggle.png "Preview Toggle")
 
 ### Event Details
 
-Your given **event title** (1) was used to create an **event handle** (2) that is restricted to min. 5 and max. 32 web-friendly characters. Both can be changed but the event handle needs to be unique. You get a feedback if the chosen name is available every time you try to change it.
+Your given **event title** (1) was used in the event creation process to create an **event handle** (2) that is restricted to min. 5 and max. 32 web-friendly characters. Both can be changed but the event handle needs to be unique. You will get a feedback if the chosen name is available every time you try to change it.
 
 The **summary** (3) is a max 280 unicode characters long description of your event. It's used in overviews but not in the detailed view of your event.
 
-Every event can have one or more **authors** (4). Only authors and admins can change/manage the event settings. Add more authors by pressing the `+` button.
+Every event can have one or more **authors** (4). Only authors and admins can change/manage the event settings. Add more authors by pressing the `+` button or remove existing authors including yourself by hovering with the mouse over the avatar image and pressing the trash can icon.
 
-By default only members of your community can join your event but you can allow/invite more **communities** by clicking on the communities fold-out menu and hitting the **Add Community" button. You will get a search field to search for the community you want to invite. Guest communities can join your events like members.
+By default only members of your community can join your event but you can allow/invite more **communities** by clicking on the communities fold-out menu and hitting the **Add Community** button. You will get a search field to search for the community you want to invite. Guest community members can join your events like your origin community members.
 
-If the chosen game supports DLCs like for example Arma 3 then you can set them as required for this event by clicking on the **DLCs** (6) fold-out menu. Here you can specify all required DLCs. Only DLCs that need to be purchased will be listed here. For example the Arma 3 Zeus DLC is not listed here because it's free.
+If the chosen game supports DLCs like for example Arma 3 then you can set some or all of them as required for this event by clicking on the **DLCs** (6) fold-out menu. Here you can specify all required DLCs. Only DLCs that need to be purchased will be listed here. For example the Arma 3 Zeus DLC is not listed here because it's free.
 
 The **date and time** (7) your event starts can be changed in the according fold-out menu. Choose a date that is in the future.
 
 It's a good choice to add a teaser **image** (8). If you leave the image blank then the space is filled with the custom background color of your community.
 
-You can also add **tags** to organize your event. In the future tags will be usesd as quick search terms.
+You can also add **tags** to organize your event. In the future tags will be used as quick search terms.
 
 ![Event Details](../images/event-details.png "Event Details")
 
 ### Block Editor
 
-The Block Editor finally allows you to create your event briefing or any kind of description or documentation that you want to privide with your newly created event.
+The Block Editor finally allows you to create your event briefing or any kind of description or documentation that you want to provide with your newly created event.
 
-Creating text blocks and image blocks by pressing the corresponding buttons **Add Text** and **Add Image**. You can create as much blocks as you want. Use the four dots symbol to move the blocks around and change their order.
+Create text blocks and image blocks by pressing the corresponding buttons **Add Text** and **Add Image**. You can create as much blocks as you want. Use the four dots symbol to move the blocks around and change their order.
 
 ![Block Editor Order](../videos/block-editor-order.gif "Block Editor Order")
 

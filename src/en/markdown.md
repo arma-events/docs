@@ -10,7 +10,7 @@ Markdown is a plain text lightweight markup language for creating formatted text
 
 ## Paragraphs and Line Breaks
 
-Each return in your text will create a line manual break. Each blank line will create a new paragraph.
+Each return in your text will create a manual line break. Each blank line will create a new paragraph.
 
 ![Paragraphs and Line Breaks](../images/paragraphs-and-line-breaks.png "Paragraphs and Line Breaks")
 
@@ -46,7 +46,7 @@ With three dashes `---` you can create a horizontal line. Keep a blank line befo
 
 ## Unsorted Lists
 
-Add two blank spaces in front of your list item for intendation. You can use `-`,`+` or `*` as list sign.
+Add two blank spaces in front of your list item for intendation. You can use `-`,`+` or `*` as a list sign.
 
 ![Unsorted Lists](../images/unsorted-lists.png "Unsorted Lists")
 
@@ -88,7 +88,7 @@ Beginn every line with ` ` 4 blank spaces to create a code block. Alternatively,
 
 ## Blockquote
 
-Beginn every line with `>` and a ` ` blank space to create a blockquote.
+Beginn every line or your paragraph with `>` and a ` ` blank space to create a blockquote.
 
 ![Blockquote](../images/blockquote.png "Blockquote")
 
