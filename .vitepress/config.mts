@@ -7,6 +7,7 @@ export default defineConfig({
   srcDir: './src', // all *.md files in a subfolder called 'src'
   cleanUrls: true, // without extension like .html
   lastUpdated: true,
+  head: [['link', { rel: 'icon', href: '/favicon.ico' }]],
   themeConfig: {
     search: {
       provider: 'local'
