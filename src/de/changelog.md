@@ -4,30 +4,10 @@ outline: deep
 
 # Changelog
 
-## v1.0 XX-2024
+| Version               | Date    | Codename            |
+| -------               | ----    | --------            |
+| [v1.0](./v1.0 "v1.0") | XX-2024 | Decurion            |
 
-Initial Release and Minimum Viable Product (MVP)
+## Codename Scheme
 
-- User Management
-  - Steam SSO
-  - User Profile
-  - Games and DLCs
-- Community Management
-  - Member Invitations
-  - Community Profile
-  - Grant/Revoke Admin Rights
-  - Role and Permission Management (MISSING)
-- Event Management
-  - Multi Community Events (MISSING)
-  - ORBAT Slotlist (WIP)
-  - Markdown Briefings
-  - Mission Attributes (WIP)
-  - Multi Author Editing
-
-- WIP
-  - ORBAT Slotlist
-  - Mission Attributes (Add DLC Requirements, Mission Date & Time and other attributes like mods, gameserver and much more.)
-
-- MISSING
-  - Multi Community Events (Invite other communities to play with you. Share individual slots or whole teams for them to sign up to.)
-  - Roles & Permissions (Show the structure of your community and assign permissions accordingly.)
+Roman army unit types, see [here](https://en.wikipedia.org/wiki/List_of_Roman_army_unit_types "Roman Army Unit Types") for reference.
