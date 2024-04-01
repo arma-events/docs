@@ -2,18 +2,18 @@
 
 ![Slotlist Overview](../images/slotlist/slotlist-overview.png "Slotlist Overview")
 
-Every new slotlist starts with a faction and a company in it. This is the required minimum. As long as you do not set the name of the dummy faction and the dummy company they will be hidden in the slotlist. You can't delete the dummy faction and the dummy company or move them around. They are always the last items. The dummy faction and the dummy company are always indicated by a grey heading. All other factions and companies are deleteable and moveable.
+Every new slotlist starts with a faction and a company in it. This is the required minimum. As long as you do not set the name of the dummy faction and the dummy company they will be hidden in the slotlist. You can't delete the dummy faction and the dummy company or move them around. They are always the last items. The dummy faction and the dummy company are always indicated by a grey heading. All other factions and companies are deletable and moveable.
 
 You can **undo or redo** (1) every change inside the slotlist editor. The history has a limit of 20 steps. You can **add more factions, companies or groups** by pressing the `+` button. You can **change the order** (4) of factions, companies inside factions, groups inside companies and groups inside groups by using the four dots handle. As long as the **names** (5) are not set (grey heading) they will be hidden in the final slotlist. Every round `+` button in the slotlist indicates a position where **player slots can be added** (6).
 
-## Organisational Units
+## Organizational Units
 
 | OU       | Parent                     | Children       | Slots | Properties   | Characteristics |
 | ---      | ------                     | --------       | ----- | ----------   | --------------- |
-| Faction* | none                       | Company        | no    | Color, Name  | Parties that are part of the conflict like OPFOR, BLUFOR, Independant |
-| Company* | Faction                    | Group or Slot  | yes   | Name, Symbol | Highest organisational unit in a faction; can be Company, Platoon, Squad, Group or anything else |
-| Group    | Company or Group           | Group or Slot  | yes   | Name, Symbol | Lower/Middle organisational unit; can host other groups; can be Platoon, Squad, Group or anything else |
-| Fireteam | Group                      | Slot           | yes   | none         | Smallest organisational unit |
+| Faction* | none                       | Company        | no    | Color, Name  | Parties that are part of the conflict like OPFOR, BLUFOR, Independent |
+| Company* | Faction                    | Group or Slot  | yes   | Name, Symbol | Highest organizational unit in a faction; can be Company, Platoon, Squad, Group or anything else |
+| Group    | Company or Group           | Group or Slot  | yes   | Name, Symbol | Lower/Middle organizational unit; can host other groups; can be Platoon, Squad, Group or anything else |
+| Fireteam | Group                      | Slot           | yes   | none         | Smallest organizational unit |
 | Slot     | Company, Group or Fireteam | none           | no    | Name         | The player's slot |
 
 \**There is always one dummy faction and one dummy company*
@@ -32,7 +32,7 @@ Slots are created by pressing the round `+` symbol one or multiple times. There 
 
 ## Create Fireteams
 
-Fireteams are a special type of unit. You can create fireteams only inside of groups by dragging existing slots at the bottom drop zone. One group can devide into multiple fireteams.
+Fireteams are a special type of unit. You can create fireteams only inside of groups by dragging existing slots at the bottom drop zone. One group can divide into multiple fireteams.
 
 ![Create Fireteams](../videos/slotlist/create-fireteams.gif "Create Fireteams")
 

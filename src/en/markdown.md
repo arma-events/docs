@@ -80,7 +80,7 @@ Enclose your URL or email address in `<` and `>` to create an automatic link wit
 
 ## Code Block
 
-Beginn every line with ` ` 4 blank spaces to create a code block. Alternatively, enclose the text in ` ``` ` to create a code block. No support for syntax highlighting.
+Begin every line with ` ` 4 blank spaces to create a code block. Alternatively, enclose the text in ` ``` ` to create a code block. No support for syntax highlighting.
 
 ![Code Block](../images/markdown/code-block.png "Code Block")
 
@@ -88,7 +88,7 @@ Beginn every line with ` ` 4 blank spaces to create a code block. Alternatively,
 
 ## Blockquote
 
-Beginn every line or your paragraph with `>` and a ` ` blank space to create a blockquote.
+Begin every line or your paragraph with `>` and a ` ` blank space to create a blockquote.
 
 ![Blockquote](../images/markdown/blockquote.png "Blockquote")
 

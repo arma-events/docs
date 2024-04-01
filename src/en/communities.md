@@ -33,13 +33,13 @@ Finally, you will be redirected to the profile page of your community. Here you 
 
 ![Invites Overview](../images/communities/invites-overview.png "Invites Overview")
 
-Players can join your community only with a valid invitation. An inviation is a link combined with an expiration time and a max number of uses. By default the invitation is valid for 7 days and with an unlimited number of uses. You can change these settings by pressing **Edit invite link** in the window that pops up when you hit the **+ Create Invite** button.
+Players can join your community only with a valid invitation. An invitation is a link combined with an expiration time and a max number of uses. By default the invitation is valid for 7 days and with an unlimited number of uses. You can change these settings by pressing **Edit invite link** in the window that pops up when you hit the **+ Create Invite** button.
 
 ![Edit Invite Links](../images/communities/edit-invite-links.png "Edit Invite Links")
 
 The remaining time and the number of uses is reported in the invites overview. You can open a platform dependent **Share** menu, **Delete** an active invitation or use **Copy Link** via the three dots symbol. You can also quick copy the link to your clipboard by clicking on the invite code.
 
-Now send the created link to your designated members via your prefered sharing method. The format of invitation links is always `https://arma.events/[INVITE-CODE]` like for example `https://arma.events/1YOtETcO`
+Now send the created link to your designated members via your preferred sharing method. The format of invitation links is always `https://arma.events/[INVITE-CODE]` like for example `https://arma.events/1YOtETcO`
 
 The recipient only needs to open the URL, login via Steam SSO and accept the invite.
 
@@ -58,7 +58,7 @@ You can simply delete your community by hitting the **Delete Community** button 
 
 ## Edit Community Settings
 
-You can access the communities you are member of by chossing **Communities** from your avatar menu.
+You can access the communities you are member of by choosing **Communities** from your avatar menu.
 
 ![Access Communities](../images/communities/access-communities.png "Access Communities")
 
@@ -79,8 +79,8 @@ In the members tab you can search for members in the members list (1), grant/rev
 
 ### Roles
 
-| Role       | Desciption |
-| ----       | ---------- |
+| Role       | Description |
+| ----       | ----------  |
 | Everybody  | Basic role for all **arma-events** users. Everybody (non-members) can see your community, your user profile page and all events if set to visible. |
 | Guest      | Guests (single users or whole communities) can join events. Needs to be configured in event settings. |
 | Member     | Basic role for all members of a community. Members can create events, join events and leave the community. |

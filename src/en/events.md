@@ -67,9 +67,9 @@ Every block consists of a heading part and a content part. Using the heading is 
 
 #### Text Blocks
 
-The text block supports Markdown in it's content part which enables you to use subheadlines, lists, links, images, text attributes and many more. See the [Markdown](./markdown "Markdown") article for more information.
+The text block supports Markdown in it's content part which enables you to use headlines, lists, links, images, text attributes and many more. See the [Markdown](./markdown "Markdown") article for more information.
 
-The Text block ist resizeable while editing but will automatically adjust it's size in preview and when published based on it's content.
+The Text block ist resizable while editing but will automatically adjust it's size in preview and when published based on it's content.
 
 ![Text Block](../images/events/text-block.png "Text Block")
 

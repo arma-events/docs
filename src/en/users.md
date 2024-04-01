@@ -6,15 +6,15 @@ outline: deep
 
 ## Login with Steam SSO
 
-It is very likely that every player that wants to use our platform has a Steam account. That is why we decided to link accounts on **arma.events** to the players Steam account. You simply need to login with your Steam account. That's all it takes. There is currently no way to create an account based on email address and password. Steam takes care of the login process for us. We can neither see your passord nor access your steam account.
+It is very likely that every player that wants to use our platform has a Steam account. That is why we decided to link accounts on **arma.events** to the players Steam account. You simply need to login with your Steam account. That's all it takes. There is currently no way to create an account based on email address and password. Steam takes care of the login process for us. We can neither see your password nor access your steam account.
 
 ## Create User Account
 
-It takes only three simple assistant-driven steps to create an **arma.events** user account. First, login with your existing Steam account. You will be redirected automatically to Steam and back whithin this process. Second, confirm or change your display name. Third, choose your avatar or leave it blank.
+It takes only three simple assistant-driven steps to create an **arma.events** user account. First, login with your existing Steam account. You will be redirected automatically to Steam and back within this process. Second, confirm or change your display name. Third, choose your avatar or leave it blank.
 
 ![Create Account](../images/users/create-account.png "Create Account")
 
-That's it. You are now succcessfully logged into **arma.events** with your Steam account. You can change everything later in your profile settings. Now you can create your own community or ask your community manager to send you an invite to your community. As a member of a community you can join the events of that community. See [Communities](./communities "Communities") for more information.
+That's it. You are now successfully logged into **arma.events** with your Steam account. You can change everything later in your profile settings. Now you can create your own community or ask your community manager to send you an invite to your community. As a member of a community you can join the events of that community. See [Communities](./communities "Communities") for more information.
 
 ![User Profile](../images/users/user-profile.png "User Profile")
 

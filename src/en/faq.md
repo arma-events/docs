@@ -26,4 +26,4 @@ Although we are still a long way off (and therefore this is still subject to cha
 
 ## Will **arma.events** be open source?
 
-We are big supporters of open source, but **arma.events** won't be open sourced in the near future. Since one of our biggest goals is to encourage collaboration between communities, **arma.events** only really comes to shime when many communities are on the same platform. So we want to make sure that there is one platform and not one platform per community. That being said: There are many small open source projects and libraries that have sprung from the development of **arma.events**, and many more are likely to follow.
+We are big supporters of open source, but **arma.events** won't be open sourced in the near future. Since one of our biggest goals is to encourage collaboration between communities, **arma.events** only really comes to shine when many communities are on the same platform. So we want to make sure that there is one platform and not one platform per community. That being said: There are many small open source projects and libraries that have sprung from the development of **arma.events**, and many more are likely to follow.
