@@ -81,7 +81,7 @@ export default defineConfig({
           {
             text: 'Articles',
             items: [
-              { text: 'Explore', link: '/en/explore' },
+              { text: 'Overview', link: '/en/overview' },
               { text: 'Users', link: '/en/users' },
               { text: 'Communities', link: '/en/communities' },
               {
@@ -166,7 +166,7 @@ export default defineConfig({
           {
             text: 'Artikel',
             items: [
-              { text: 'Erkunden', link: '/de/explore' },
+              { text: 'Überblick', link: '/de/overview' },
               { text: 'Benutzer', link: '/de/users' },
               { text: 'Communities', link: '/de/communities' },
               {
