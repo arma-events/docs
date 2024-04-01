@@ -13,7 +13,7 @@ export default defineConfig({
       provider: 'local'
     },
     externalLinkIcon: true,
-    logo: "/images/ae-logo.svg",
+    logo: "/ae-logo.svg",
     footer: {
       message: "This website is not affiliated or authorized by Bohemia Interactive a.s. Bohemia Interactive, ARMA, DAYZ and all associated logos and designs are trademarks or registered trademarks of Bohemia Interactive a.s.",
       copyright: "Copyright © 2024-present arma.events",
