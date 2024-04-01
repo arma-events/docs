@@ -20,9 +20,9 @@ Remove your events from the public eye, only for your community to see.
 
 Automatic unlocking of slots after time or player count reached. Manual locking for individuals or groups.
 
-## Discord Bot Support
+## Discord Support
 
-Old habits die hard. Why not keep your slot bot and enhance the output over our platform.
+Automatic Discord events, reminders, synced posts and maybe event attendance.
 
 ## Mission Evaluation
 
