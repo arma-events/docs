@@ -7,7 +7,7 @@ hero:
   text: "Slotlisten einfach erstellt"
   tagline: Bleibe mit deinen Community Events organisiert
   image:
-    src: /images/landing-page-image.png
+    src: /landing-page-image.png
     alt: arma.events ORBAT slotlist
   actions:
     - theme: brand
