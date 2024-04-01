@@ -1,91 +1,92 @@
 ---
 outline: deep
+cSpell: locale de
 ---
 
 # Communities
 
-## Create a Community
+## Community erstellen
 
-You can create your own community at any time by pressing the `+` symbol next to your profile avatar and selecting **Create Community**.
+Du kannst jederzeit deine eigene Community erstellen indem du auf das `+` Symbol neben deinem Profil-Avatar klickst und **Community erstellen** auswählst.
 
-![Create Community](../images/communities/create-community.png "Create Community")
+![Community erstellen](../images/communities/create-community.png "Community erstellen")
 
-Creating a community is done in four simple steps. Everything you setup here can be changed later.
+Eine Community erstellst du in vier einfachen Schritten. Alles, was du hier einstellst, kann später geändert werden.
 
-First choose a display name and a tag for your community. The name should contain 50 or less unicode characters. The tag is limited to 10 characters. The display name is used most of the time to identify your community.
+Zuerst wähle einen Anzeigenamen und ein Clan-Tag für deine Community. Der Name sollte 50 oder weniger Unicode-Zeichen enthalten. Das Clan-Tag ist auf 10 Zeichen limitiert. In der Regel wird der Anzeigename verwendet um deine Community zu identifizieren.
 
-Next step is to set the logo of your community. The perfect size is 256x256 pixel but if you want to zoom in then you should use an image with higher resolution. See [Logo](#logo) for more information about logo modifications.
+Der nächste Schritt ist das Erstellen des Logos deiner Community. Die ideale Größe beträgt 256x256 Pixel aber falls du hineinzoomen möchtest dann solltest du ein höher aufgelöstes Bild verwenden. Siehe [Logo](#logo) für weitere Informationen zur Anpassung deines Logos.
 
-Now you choose the base color of the community. Parts of your logo that were left blank will be filled with this color. It is also used in various other places like the community profile page as the background color or as a community color to distinguish members of multiple communities within the slotlist feature.
+Nun kannst du die Grundfarbe deiner Community wählen. Transparente Teile deines Logos werden mit dieser Farbe gefüllt. Sie wird außerdem an verschiedenen Stellen verwendet wie z.B. als Hintergrundfarbe auf der Community-Profilseite oder als Community-Farbe um Mitglieder verschiedener Communities innerhalb einer Slotliste zu unterscheiden.
 
-The last step is to setup/confirm the handle of your community. This is a max. 32 web-friendly characters long string that is mostly used in URLs. Keep it short and easy. Because this string needs to be unique we will tell you if it is already used by another community.
+Der letzte Schritt ist das auswählen/bestätigen deines Community-Handle. Dieser ist eine aus max. 32 web-freundlichen Zeichen bestehende Zeichenkette die überwiegend in URLs verwendet wird. Halte das Handle einfach und kurz. Da diese Zeichenkette einmalig sein muss, werden wir dich informieren falls sie bereits von einer anderen Community verwendet wird.
 
-![Create Community Workflow](../images/communities/create-community-workflow.png "Create Community Workflow")
+![Workflow Community erstellen](../images/communities/create-community-workflow.png "Workflow Community erstellen")
 
-Finally, you will be redirected to the profile page of your community. Here you can change everything, add an introduction and manage your community. An invitation link is automatically created for you to share with your community members. See [Invite Members](#invite-members) for more information about player invitations.
-
-> [!IMPORTANT]
-> You need an invitation (link) to join a community. There is no other way of joining.
-
-![Fresh Community](../images/communities/fresh-community.png "Fresh Community")
-
-## Invite Members
-
-![Invites Overview](../images/communities/invites-overview.png "Invites Overview")
-
-Players can join your community only with a valid invitation. An inviation is a link combined with an expiration time and a max number of uses. By default the invitation is valid for 7 days and with an unlimited number of uses. You can change these settings by pressing **Edit invite link** in the window that pops up when you hit the **+ Create Invite** button.
-
-![Edit Invite Links](../images/communities/edit-invite-links.png "Edit Invite Links")
-
-The remaining time and the number of uses is reported in the invites overview. You can open a platform dependent **Share** menu, **Delete** an active invitation or use **Copy Link** via the three dots symbol. You can also quick copy the link to your clipboard by clicking on the invite code.
-
-Now send the created link to your designated members via your prefered sharing method. The format of invitation links is always `https://arma.events/[INVITE-CODE]` like for example `https://arma.events/1YOtETcO`
-
-The recipient only needs to open the URL, login via Steam SSO and accept the invite.
-
-![Use Invite](../images/communities/use-invite.png "Use Invite")
-
-## Delete a Community
-
-You can simply delete your community by hitting the **Delete Community** button in the settings of your community. You will get a warning before the deletion will take affect. You need admin rights to delete a community. Keep these consequences in mind:
-
-- Membership for all members will be revoked.
-- Events of this community will be deleted.
-- Invites for this community will be cancelled.
-- Slots reserved for this community will be opened.
-
-![Delete Community](../images/communities/delete-community.png "Delete Community")
-
-## Edit Community Settings
-
-You can access the communities you are member of by chossing **Communities** from your avatar menu.
-
-![Access Communities](../images/communities/access-communities.png "Access Communities")
-
-You will be redirected to the communities list in your user profile. Here you can select the community you want to manage.
-
-![Communities List](../images/communities/communities-list.png "Communities List")
-
-On the community profile page you can search/manage members, see events and manage the community.
+Schlussendlich wirst du auf die Profilseite deiner Community weitergeleitet. Hier kannst du alles ändern, eine Vorstellung hinzufügen und deine Community verwalten. Ein Einladungs-Link wird automatisch für dich erstellt um ihn mit deinen Community-Mitgliedern zu teilen. Siehe [Mitglieder einladen](#mitglieder-einladen) für weitere Informationen zu Mitgliedereinladungen.
 
 > [!IMPORTANT]
-> You need admin rights to manage members, events and community settings.
+> Du brauchst eine Einladung (Link) um einer Community beizutreten. Es gibt keinen anderen Weg für den Beitritt.
 
-![Manage Community](../images/communities/manage-community.png "Manage Community")
+![Gerade erstellte Community](../images/communities/fresh-community.png "Gerade erstellte Community")
 
-### Members
+## Mitglieder einladen
 
-In the members tab you can search for members in the members list (1), grant/revoke admin rights to a member or remove a member from the community (2). Only admins can remove members or other admins. Only admins can promote members to admins. If you create a community you are automatically the first admin. Every admin has a crown symbol right next to his name. See [Roles](#roles) for more information.
+![Überblick Einladungen](../images/communities/invites-overview.png "Überblick Einladungen")
 
-### Roles
+Spieler können deiner Community nur mit einer gültigen Einladung betreten. Eine Einladung ist ein Link, kombiniert mit einem Ablaufdatum und einer Höchstanzahl an Verwendungen. Standardmäßig ist eine Einladung für 7 Tage gültig und unbegrenzt nutzbar. Du kannst diese Einstellungen ändern durch klicken auf **Einladungs-Link bearbeiten** in dem Fenster das erscheint wenn du auf **+ Einladung erstellen** klickst.
 
-| Role       | Desciption |
-| ----       | ---------- |
-| Everybody  | Basic role for all **arma-events** users. Everybody (non-members) can see your community, your user profile page and all events if set to visible. |
-| Guest      | Guests (single users or whole communities) can join events. Needs to be configured in event settings. |
-| Member     | Basic role for all members of a community. Members can create events, join events and leave the community. |
-| Author     | If you created an event or have been invited for co-authoring then you can manage this specific event |
-| Admin      | (Crown Symbol) Admins can delete the community, change community settings, remove members and admins from community, manage all community events (authored by every member), manage community invitations and grant or revoke admin rights |
+![Einladungs-Links bearbeiten](../images/communities/edit-invite-links.png "Einladungs-Links bearbeiten")
+
+Die verbleibende Zeit und die Anzahl der Verwendungen wird in der Einladungsübersicht angezeigt. Über das Drei-Punkte-Symbol kannst du das plattformabhängige **Teilen**-Menü öffnen, eine aktive Einladung **löschen** oder **Link kopieren** benutzen. Außerdem kannst du den Link schnell kopieren indem du auf den Einladungs-Code klickst.
+
+Sende nun den erstellten Link über deine bevorzugte Methode an deine Community-Mitglieder. Das Format eines Einladungslinks ist stets `https://arma.events/[EINLADUNGS-CODE]` also z.B. `https://arma.events/1YOtETcO`
+
+Der Empfänger muss nur die URL öffnen, sich per Steam SSO einloggen und die Einladung akzeptieren.
+
+![Einladung benutzen](../images/communities/use-invite.png "Einladung benutzen")
+
+## Community löschen
+
+Du kannst deine Community einfach löschen indem du in den Einstellungen deiner Community auf **Community löschen** klickst. Du erhältst eine Warnung bevor die Löschung durchgeführt wird. Um eine Community löschen zu können benötigst du Admin-Rechte. Beachte folgende Konsequenzen:
+
+- Die Mitgliedschaft für alle Mitglieder wird widerrufen.
+- Events dieser Community werden gelöscht.
+- Einladungen für diese Community werden storniert.
+- Für diese Community reservierte Slots werden geöffnet.
+
+![Community löschen](../images/communities/delete-community.png "Community löschen")
+
+## Community-Einstellungen bearbeiten
+
+Du kannst über den Punkt **Communities** in deinem Avatar-Menü auf die Communities, deren Mitglied du bist, zugreifen.
+
+![Auf Communities zugreifen](../images/communities/access-communities.png "Auf Communities zugreifen")
+
+Du wirst auf die Communities-Liste in deinem Benutzerprofil weitergeleitet. Hier kannst du die Community auswählen, die du verwalten möchtest.
+
+![Community-Liste](../images/communities/communities-list.png "Community-Liste")
+
+Auf der Community-Profilseite kannst du Mitglieder suchen/verwalten, Events einsehen und deine Community verwalten.
+
+> [!IMPORTANT]
+> Du benötigst Admin-Rechte um Mitglieder, Events und die Community-Einstellungen zu verwalten.
+
+![Community verwalten](../images/communities/manage-community.png "Community verwalten")
+
+### Mitglieder
+
+Im Mitglieder-Tab kannst du nach Mitgliedern in der Mitgliederliste suchen (1), einem Mitglied Admin-Rechte erteilen/entziehen oder ein Mitglied aus der Community entfernen (2). Nur Admins können Mitglieder oder andere Admins entfernen. Nur Admins können Mitglieder zu Admins befördern. Wenn du eine Community erstellst, wirst du automatisch der erste Admin. Jeder Admin hat ein Kronensymbol direkt neben seinem Namen. Siehe [Rollen](#rollen) für weitere Informationen.
+
+### Rollen
+
+| Rolle       | Beschreibung |
+| -----       | ------------ |
+| Jeder       | Standardrolle für alle **arma-events** Benutzer. Jeder kann deine Community- und Benutzer-Profilseiten sowie alle öffentlich einsehbaren Events sehen. |
+| Gast        | Gäste (einzelne Benutzer oder ganze Communities) können Events fremder Communities per Einladung Events beitreten. Muss in den Event-Einstellungen festgelegt werden. |
+| Mitglied    | Standardrolle für alle Mitglieder einer Community. Mitglieder können Events erstellen, Events beitreten und die Community verlassen. |
+| Autor       | Wenn du ein Event erstellt hast, order als Co-Autor eingeladen wurdest dann kannst du dieses bestimmte Event verwalten. |
+| Admin       | (Kronen-Symbol) Admins können die Community löschen, die Community-Einstellungen ändern, Mitglieder und Admins entfernen aus der Community entfernen, alle Community-Events verwalten, Community-Einladungen verwalten und Admin-Rechte gewähren oder zurückziehen. |
 
 ### Events
 

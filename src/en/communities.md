@@ -4,7 +4,7 @@ outline: deep
 
 # Communities
 
-## Create a Community
+## Create Community
 
 You can create your own community at any time by pressing the `+` symbol next to your profile avatar and selecting **Create Community**.
 
@@ -16,13 +16,13 @@ First choose a display name and a tag for your community. The name should contai
 
 Next step is to set the logo of your community. The perfect size is 256x256 pixel but if you want to zoom in then you should use an image with higher resolution. See [Logo](#logo) for more information about logo modifications.
 
-Now you choose the base color of the community. Parts of your logo that were left blank will be filled with this color. It is also used in various other places like the community profile page as the background color or as a community color to distinguish members of multiple communities within the slotlist feature.
+Now you choose the base color of the community. Transparent parts of your logo will be filled with this color. It is also used in various other places like the community profile page as the background color or as a community color to distinguish members of multiple communities within the slotlist feature.
 
-The last step is to setup/confirm the handle of your community. This is a max. 32 web-friendly characters long string that is mostly used in URLs. Keep it short and easy. Because this string needs to be unique we will tell you if it is already used by another community.
+The last step is to setup/confirm the handle of your community. This is a max. 32 web-friendly characters long string that is mostly used in URLs. Keep the handle short and easy. Because this string needs to be unique we will tell you if it is already used by another community.
 
 ![Create Community Workflow](../images/communities/create-community-workflow.png "Create Community Workflow")
 
-Finally, you will be redirected to the profile page of your community. Here you can change everything, add an introduction and manage your community. An invitation link is automatically created for you to share with your community members. See [Invite Members](#invite-members) for more information about player invitations.
+Finally, you will be redirected to the profile page of your community. Here you can change everything, add an introduction and manage your community. An invitation link is automatically created for you to share with your community members. See [Invite Members](#invite-members) for more information about member invitations.
 
 > [!IMPORTANT]
 > You need an invitation (link) to join a community. There is no other way of joining.
@@ -39,13 +39,13 @@ Players can join your community only with a valid invitation. An invitation is a
 
 The remaining time and the number of uses is reported in the invites overview. You can open a platform dependent **Share** menu, **Delete** an active invitation or use **Copy Link** via the three dots symbol. You can also quick copy the link to your clipboard by clicking on the invite code.
 
-Now send the created link to your designated members via your preferred sharing method. The format of invitation links is always `https://arma.events/[INVITE-CODE]` like for example `https://arma.events/1YOtETcO`
+Now send the created link to your community members via your preferred sharing method. The format of invitation links is always `https://arma.events/[INVITE-CODE]` like for example `https://arma.events/1YOtETcO`
 
 The recipient only needs to open the URL, login via Steam SSO and accept the invite.
 
 ![Use Invite](../images/communities/use-invite.png "Use Invite")
 
-## Delete a Community
+## Delete Community
 
 You can simply delete your community by hitting the **Delete Community** button in the settings of your community. You will get a warning before the deletion will take affect. You need admin rights to delete a community. Keep these consequences in mind:
 
@@ -66,7 +66,7 @@ You will be redirected to the communities list in your user profile. Here you ca
 
 ![Communities List](../images/communities/communities-list.png "Communities List")
 
-On the community profile page you can search/manage members, see events and manage the community.
+On the community profile page you can search/manage members, see events and manage your community.
 
 > [!IMPORTANT]
 > You need admin rights to manage members, events and community settings.
@@ -81,11 +81,11 @@ In the members tab you can search for members in the members list (1), grant/rev
 
 | Role       | Description |
 | ----       | ----------  |
-| Everybody  | Basic role for all **arma-events** users. Everybody (non-members) can see your community, your user profile page and all events if set to visible. |
-| Guest      | Guests (single users or whole communities) can join events. Needs to be configured in event settings. |
-| Member     | Basic role for all members of a community. Members can create events, join events and leave the community. |
-| Author     | If you created an event or have been invited for co-authoring then you can manage this specific event |
-| Admin      | (Crown Symbol) Admins can delete the community, change community settings, remove members and admins from community, manage all community events (authored by every member), manage community invitations and grant or revoke admin rights |
+| Everybody  | Default role for all **arma-events** users. Everybody can see your community or user profile page and all your publicly visible events. |
+| Guest      | Guests (single users or whole communities) can join events of foreign communities if invited. Needs to be configured in event settings. |
+| Member     | Default role for all members of a community. Members can create events, join events and leave the community. |
+| Author     | If you created an event or have been invited for co-authoring then you can manage this specific event. |
+| Admin      | (Crown Symbol) Admins can delete the community, change community settings, remove members and admins from community, manage all community events, manage community invitations and grant or revoke admin rights. |
 
 ### Events
 
