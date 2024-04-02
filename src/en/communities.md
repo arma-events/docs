@@ -1,5 +1,6 @@
 ---
 outline: deep
+cSpell: locale en
 ---
 
 # Communities

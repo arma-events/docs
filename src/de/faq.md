@@ -1,29 +1,30 @@
 ---
 outline: deep
+cSpell: locale de
 ---
 
-# Frequently Asked Questions (FAQ)
+# Häufig gestellte Fragen (FAQ)
 
-## What features do you have planned already?
+## Welche Features habt ihr bereits geplant?
 
-You can find a list of things we've planned on our [roadmap](./roadmap "Roadmap"), but haven't come around to implement.
+Du findest eine Liste aller geplanten Dinge, zu deren Umsetzung wir noch nicht gekommen sind, auf unserer [roadmap](./roadmap "Roadmap").
 
-## Will there be a dark theme?
+## Wird es einen dunklen Modus geben?
 
-Of course! We have (almost) everything in place to support adding other themes, but for now we want to focus on adding features without worrying about how they look with different colors.
+Natürlich! Wir haben (nahezu) alles vorbereitet um weitere Themes unterstützen zu können, aber im Moment möchten wir uns auf das Hinzufügen neuer Features konzentrieren ohne uns Sorgen machen zu müssen wie sie in anderen Farben aussehen.
 
-## Will there be a Discord integration of **arma.events**?
+## Wird es eine Discord-Integration von **arma.events** geben?
 
-Yes! We plan to develop a sophisticated Discord bot that integrates with Discord's Scheduled Events and may even allow you to participate in events directly in Discord.
+Ja! Wir planen die Entwicklung eines raffinierten Discord-Bots, der sich mit den geplanten Events bei Discord integriert und möglicherweise sogar erlaubt direkt in Discord an Events teilzunehmen.
 
-## Can I integrate **arma.events** data into my own forum / software?
+## Kann ich Daten aus **arma.events** in mein eigenes Forum oder meine eigene Software integrieren?
 
-We plan to add the ability to generate access tokens for our API, to allow you to integrate data from your **arma.events** community via our GraphQL API & webhooks into your own website, forum or discord bot.
+Wir planen die Möglichkeit der Erzeugung von Zugangs-Token zu unserer API, um dir die Integration von Daten aus deiner **arma.events** Community per GraphSQL API und Webhooks in deine eigene Webseite, dein eigenes Forum oder deinen eigenen Discord-Bot zu erlauben.
 
-## Will the use of **arma.events** cost money?
+## Wird die Nutzung von **arma.events** kostenpflichtig sein?
 
-Although we are still a long way off (and therefore this is still subject to change), we are currently planning to offer a small monthly subscription for communities at a very low price (>$5) to cover our server costs. Since we probably hate the typical freemium offers as much as you do, this will only include features that are "nice-to-have" but absolutely no "must-haves", such as community-wide presets for events / slotlists / slotlist units, etc. Our goal for communities is that you do not pay for the subscription to be able to use **arma.events** just as well as communities that do pay, albeit with some missing quality-of-life features.
+Obwohl wir noch ein ganzes Stück davon entfernt sind (und sich dies daher noch ändern kann), sieht die aktuelle Planung vor zukünftig ein kleines, monatliches Abo für Communities zu einem sehr niedrigen Preis (<5€) anzubieten, um unsere Serverkosten zu decken. Da wir die typischen Freemium-Angebote genauso sehr hassen wie du, werden im Abo nur Features enthalten sein, die Nice-To-Have sind, wie z.B. Community-weite Vorlagen für Events / Slotlisten / Slotlisten-Einheiten usw., jedoch keine zwingend notwendigen Features. Unser Ziel für Communities ist, dass du nicht für ein Abo zahlen musst, um genauso gut **arma.events** nutzen zu können, wie dies zahlende Communities tun, abgesehen von ein paar fehlenden Quality-Of-Life Features.
 
-## Will **arma.events** be open source?
+## Wird **arma.events** Open-Source sein?
 
-We are big supporters of open source, but **arma.events** won't be open sourced in the near future. Since one of our biggest goals is to encourage collaboration between communities, **arma.events** only really comes to shime when many communities are on the same platform. So we want to make sure that there is one platform and not one platform per community. That being said: There are many small open source projects and libraries that have sprung from the development of **arma.events**, and many more are likely to follow.
+Wir sind große Unterstützer von Open-Source, aber **arma.events** wird in naher Zukunft nicht Open-Source. Da eines unserer größten Ziele die Förderung der Zusammenarbeit zwischen Communities ist, wird **arma.events** nur glänzen können wenn viele Communities dieselbe Plattform nutzen. Daher wollen wir sicherstellen, dass es nur eine Plattform gibt und nicht eine Plattform pro Community. Davon abgesehen: Es gibt viele, kleine Open-Source Projekte und Bibliotheken, die aus der Entwicklung von **arma.events** hervorgegangen sind und viele weitere werden wahrscheinlich folgen.

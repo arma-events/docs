@@ -1,3 +1,8 @@
+---
+outline: deep
+cSpell: disable
+---
+
 # Team
 
 ## Concept

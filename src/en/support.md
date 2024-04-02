@@ -1,3 +1,8 @@
+---
+outline: deep
+cSpell: locale en
+---
+
 # Support
 
 If you experience any problems when using **arma.events** or you have any questions, suggestions or offers then please get in touch with us and we will try to fix your issue, answer your question, discuss your suggestion or check your offer.

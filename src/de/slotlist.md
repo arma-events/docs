@@ -1,3 +1,8 @@
+---
+outline: deep
+cSpell: locale de
+---
+
 # Slotlist
 
 ![Slotlist Overview](../images/slotlist/slotlist-overview.png "Slotlist Overview")

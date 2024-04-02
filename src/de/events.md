@@ -34,65 +34,65 @@ Speichere deine Änderungen durch klicken auf die **Entwurf speichern** Schaltfl
 
 ![Preview-Wechsel](../images/events/preview-toggle.png "Preview-Wechsel")
 
-### Event Details
+### Event-Details
 
-Your given **event title** (1) was used in the event creation process to create an **event handle** (2) that is restricted to min. 5 and max. 32 web-friendly characters. Both can be changed but the event handle needs to be unique. You will get a feedback if the chosen name is available every time you try to change it.
+Der von dir angegebene **Event-Name** (1) wurde während des Event-Erstellungsprozesses verwendet um ein **Event-Handle** (2) zu erzeugen, das auf min. 5 und max. 32 web-freundliche Zeichen begrenzt ist. Beides kann geändert werden aber der Event-Handle muss einmalig sein. Du bekommst bei jedem Änderungsversuch ein Feedback über die Verfügbarkeit des Event-Handle.
 
-The **summary** (3) is a max 280 unicode characters long description of your event. It's used in overviews but not in the detailed view of your event.
+Die **Zusammenfassung** (3) ist eine max. 280 Unicode-Zeichen lange Beschreibung deines Events. Sie wird in Übersichten verwendet ist aber in der Detailansicht deines Events nicht sichtbar.
 
-Every event can have one or more **authors** (4). Only authors and admins can change/manage the event settings. Add more authors by pressing the `+` button or remove existing authors including yourself by hovering with the mouse over the avatar image and pressing the trash can icon.
+Jedes Event kann einen oder mehrere **Autoren** (4) haben. Nur Autoren und Admins können die Event-Einstellungen ändern/verwalten. Füge weitere Autoren durch anklicken der `+` Schaltfläche hinzu oder entferne existierende Autoren, dich selbst eingeschlossen, indem du mit der Maus über das Avatar-Bild eines Autors fährst und das Mülleimer-Symbol anklickst.
 
-By default only members of your community can join your event but you can allow/invite more **communities** by clicking on the communities fold-out menu and hitting the **Add Community** button. You will get a search field to search for the community you want to invite. Guest community members can join your events like your origin community members.
+Standardmäßig können nur Mitglieder deiner Community an deinem Event teilnehmen aber du kannst weitere **Communities** (5) erlauben/einladen indem du auf das Community-Ausklappmenü klickst und die Schaltfläche **Community hinzufügen** anwählst. Du erhältst ein Suchfeld um nach der einzuladenden Community zu suchen. Mitglieder einer Gast-Community können genauso wie deine eigentlichen Community-Mitglieder an dem Event teilnehmen.
 
-If the chosen game supports DLCs like for example Arma 3 then you can set some or all of them as required for this event by clicking on the **DLCs** (6) fold-out menu. Here you can specify all required DLCs. Only DLCs that need to be purchased will be listed here. For example the Arma 3 Zeus DLC is not listed here because it's free.
+Wenn das gewählte Spiel DLCs unterstützt, wie z.B. bei Arma 3, dann kannst du einige oder alle davon als verpflichtend für das Event deklarieren, indem du auf das **benötigte DLCs** Ausklappmenü klickst. Nur zahlungspflichtige DLCs werden hier gelistet. Zum Beispiel wird der Arma 3 Zeus DLC nicht aufgeführt, da er kostenlos ist.
 
-The **date and time** (7) your event starts can be changed in the according fold-out menu. Choose a date that is in the future.
+**Datum & Uhrzeit** (7) für den Start deines Events kann im entsprechenden Ausklappmenü geändert werden. Wähle ein Datum, das in der Zukunft liegt.
 
-It's a good choice to add a teaser **image** (8). If you leave the image blank then the space is filled with the custom background color of your community.
+Es ist eine gute Idee ein **Bild** (8) als Teaser hinzuzufügen. Lässt du das Bild leer dann wird der Bereich mit der benutzerdefinierten Hintergrundfarbe deiner Community gefüllt.
 
-You can also add **tags** to organize your event. In the future tags will be used as quick search terms.
+Außerdem kannst du **Tags** (9) zur Organisation deines Events hinzufügen. Zukünftig werden Tags für die Schnellsuche verwendet.
 
-![Event Details](../images/events/event-details.png "Event Details")
+![Event-Details](../images/events/event-details.png "Event-Details")
 
-### Block Editor
+### Block-Editor
 
-The Block Editor finally allows you to create your event briefing or any kind of description or documentation that you want to provide with your newly created event.
+Schlussendlich erlaubt dir der Block-Editor dein Event-Briefing oder sonstige Art von Beschreibung oder Dokumentation hinzuzufügen, die du zusammen mit deinem kürzlich angelegten Event zur Verfügung stellen willst.
 
-Create text blocks and image blocks by pressing the corresponding buttons **Add Text** and **Add Image**. You can create as much blocks as you want. Use the four dots symbol to move the blocks around and change their order.
+Erstelle Text- und Bildblöcke durch anklicken der entsprechenden Schaltflächen **Text hinzufügen** und **Bild hinzufügen**. Die Schaltflächen sind sind nur vor der Erstellung deines ersten Blocks sichtbar. Später erscheinen diese Schaltflächen wenn du mit der Maus über den Kopf- oder Fußbereich eines existierenden Blocks fährst. Du kannst so viele Blöcke erstellen wie du möchtest. Nutze das Vier-Punkte-Symbol um die Blöcke zu verschieben und ihre Reihenfolge zu ändern.
 
-![Block Editor Order](../videos/events/block-editor-order.gif "Block Editor Order")
+![Block-Editor Reihenfolge](../videos/events/block-editor-order.gif "Block-Editor Reihenfolge")
 
-For every block you can decide to collapse or expand it by default. That way you can hide more detailed information and only show the most significant blocks. The user can expand or collapse every block while reading through the event documentation.
+Du kannst für jeden Block entscheiden ob er standardmäßig ein- oder ausgeklappt sein soll. Auf diese Weise kannst du detailliertere Informationen verbergen und nur die wichtigsten Blöcke anzeigen. Der Nutzer kann jeden Block ein- oder ausklappen während er die Event-Dokumentation liest.
 
-Every block consists of a heading part and a content part. Using the heading is completely optional.
+Jeder Block besteht aus einem Überschrifts- und einem Inhaltsteil. Die Benutzung der Überschrift ist optional.
 
-#### Text Blocks
+#### Textblöcke
 
-The text block supports Markdown in it's content part which enables you to use subheadlines, lists, links, images, text attributes and many more. See the [Markdown](./markdown "Markdown") article for more information.
+In seinem Inhaltsteil unterstützt der Textblock Markdown als Auszeichnungssprache und erlaubt damit die Verwendung von Überschriften, Listen, Links, Bildern, Textattributen und vielem mehr. Sieh dir den [Markdown](./markdown "Markdown") Artikel für weitere Informationen an.
 
-The Text block ist resizeable while editing but will automatically adjust it's size in preview and when published based on it's content.
+Während der Bearbeitung ist der Textblock in seiner Größe veränderlich, jedoch wird seine Größe in der Vorschau und bei der Veröffentlichung automatisch an die Größe des Inhalts angepasst.
 
-![Text Block](../images/events/text-block.png "Text Block")
+![Textblock](../images/events/text-block.png "Textblock")
 
-#### Image Blocks
+#### Bildblöcke
 
-Image blocks allow you to embed one or more images. You can setup an image title for every image separately.
+Bildblöcke erlauben dir ein oder mehrere Bilder einzubetten. Du kannst für jeden Bild separat einen Bildtitel festlegen.
 
 > [!IMPORTANT]
-> Multi-Image upload is currently not supported. Upload your images separately.
+> Das gleichzeitige Hochladen mehrerer Bilder wird aktuell nicht unterstützt. Lade deine Bilder einzeln hoch.
 
-![Image Block](../images/events/image-block.png "Image Block")
+![Bildblock](../images/events/image-block.png "Bildblock")
 
-You can change the order of your images inside the image block.
+Du kannst die Reihenfolge deiner Bilder innerhalb eines Bildblocks verändern.
 
-![Image Block Order](../videos/events/image-block-order.gif "Image Block Order")
+![Reihenfolge Bildblock](../videos/events/image-block-order.gif "Reihenfolge Bildblock")
 
-## Manage Slotlist
+## Slotliste verwalten
 
 WIP
 
-## Delete Event
+## Event löschen
 
-You can simply delete your event by pressing the **Delete Event** button.
+Du kannst dein Event einfach löschen indem du auf die Schaltfläche **Event löschen** klickst. Aus Sicherheitsgründen musst du deine Absicht das Event zu löschen noch einmal bestätigen.
 
-![Delete Event](../images/events/delete-event.png "Delete Event")
+![Event löschen](../images/events/delete-event.png "Event löschen")

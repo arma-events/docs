@@ -1,8 +1,13 @@
+---
+outline: deep
+cSpell: locale de
+---
+
 # Overview
 
 ## Global Search Bar
 
-Our global search bar is accessible on every page on the very top. There you can search for events, communities and users.
+Our global search bar is accessable on every page on the very top. There you can seach for events, communities and users.
 
 ![Global Search Bar](../images/overview/global-search-bar.png "Global Search Bar")
 

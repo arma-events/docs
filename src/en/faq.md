@@ -1,5 +1,6 @@
 ---
 outline: deep
+cSpell: locale en
 ---
 
 # Frequently Asked Questions (FAQ)
@@ -18,11 +19,11 @@ Yes! We plan to develop a sophisticated Discord bot that integrates with Discord
 
 ## Can I integrate **arma.events** data into my own forum / software?
 
-We plan to add the ability to generate access tokens for our API, to allow you to integrate data from your **arma.events** community via our GraphQL API & webhooks into your own website, forum or discord bot.
+We plan to add the ability to generate access tokens for our API, to allow you to integrate data from your **arma.events** community via our GraphQL API and webhooks into your own website, forum or discord bot.
 
 ## Will the use of **arma.events** cost money?
 
-Although we are still a long way off (and therefore this is still subject to change), we are currently planning to offer a small monthly subscription for communities at a very low price (>$5) to cover our server costs. Since we probably hate the typical freemium offers as much as you do, this will only include features that are "nice-to-have" but absolutely no "must-haves", such as community-wide presets for events / slotlists / slotlist units, etc. Our goal for communities is that you do not pay for the subscription to be able to use **arma.events** just as well as communities that do pay, albeit with some missing quality-of-life features.
+Although we are still a long way off (and therefore this is still subject to change), we are currently planning to offer a small monthly subscription for communities at a very low price (<$5) to cover our server costs. Since we probably hate the typical freemium offers as much as you do, this will only include features that are "nice-to-have" but absolutely no "must-haves", such as community-wide presets for events / slotlists / slotlist units, etc. Our goal for communities is that you do not pay for the subscription to be able to use **arma.events** just as well as communities that do pay, albeit with some missing quality-of-life features.
 
 ## Will **arma.events** be open source?
 

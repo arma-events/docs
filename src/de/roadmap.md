@@ -1,5 +1,6 @@
 ---
 outline: deep
+cSpell: locale de
 ---
 
 # Roadmap
