@@ -90,32 +90,32 @@ Im Mitglieder-Tab kannst du nach Mitgliedern in der Mitgliederliste suchen (1), 
 
 ### Events
 
-In the events tab you get lists of your past and upcoming community events for direct access.
+Im Events-Tab befindet sich eine Liste der vergangenen und anstehenden Community Events für den direkten Zugriff.
 
 ![Community Events](../images/communities/community-events.png "Community Events")
 
-### Naming
+### Benennung
 
-Set the **display name** of your community to any string that is less or equal 50 unicode characters. The display name is the one that is displayed on **arma.events** most of the time. You can share the same display name with other communities.
+Lege den **Anzeigename** deiner Community auf eine beliebige Zeichenkette fest, die nicht länger als 50 Unicode-Zeichen ist. Der Anzeigename wird die meiste Zeit auf **arma.events** genutzt um deine Community zu identifizieren. Mehrere Communities können denselben Namen tragen.
 
-The **handle** is a string with 32 or less web-safe characters that has to be unique on our platform. The availability of the handle is checked every time you try to change it. The handle is mostly used in URLs. In all other cases the display name is shown.
+Der **Handle** ist eine Zeichenkette mit 32 oder weniger web-sicheren Zeichen, die einmalig auf unserer Plattform sein müssen. Die Verfügbarkeit des Handle wird bei jeder Änderung geprüft. Der Handle wird überwiegend in URLs verwendet. In allen anderen Fällen wird der Anzeigename genutzt.
 
-The **tag** of your community is a string that is 10 or less characters long. It's currently not used but will be in the future.
+Der **Clan-Tag** deiner Community ist eine Zeichenkette mit 10 oder weniger Zeichen. Aktuell wird der Clan-Tag noch nicht verwendet aber in der Zukunft.
 
-![Community Naming](../images/communities/community-naming.png "Community Naming")
+![Community-Benennung](../images/communities/community-naming.png "Community-Benennung")
 
-### Description
+### Vorstellung
 
-The community description is a 280 characters long text field. Use it to describe your community to non-members who visit your community page on **arma.events**.
+Die Community-Vorstellung ist ein 280 Zeichen umfassendes Textfeld. Nutze es um deine Community Nicht-Mitgliedern vorzustellen, die deine Community Seite auf **arma.events** besuchen.
 
 ### Logo
 
-Various image file formats are supported. You can zoom into your image with the **scroll wheel** of your mouse and move the image while holding the **left mouse button**. The logo is always displayed in a circle. We store your image with a resolution of 256x256 pixels. Using a very low-res image or zooming in can lead to a blurry image.
+Verschiedene Bilddateiformate werden unterstützt. Du kannst in dein Bild mit dem **Scrollrad** deiner Maus hineinzoomen und dein Bild verschieben während du die **linke Maustaste** gedrückt hältst. Meist wird das Logo in einem Kreis dargestellt jedoch ist es auf der Community-Profilseite ein Quadrat. Wir speichern dein Bild mit einer Auflösung von 256x256 Pixeln. Die Verwendung von niedrig aufgelösten Bildern oder das Hineinzoomen kann zu einem verwaschenen Bild führen.
 
-![Community Logo](../images/communities/community-logo.png "Community Logo")
+![Community-Logo](../images/communities/community-logo.png "Community-Logo")
 
-### Color
+### Farbe
 
-You can define a base color for your community. It is used in various cases as a background color like for events without that have no main image or on the community profile page. A modified version of your background color with a higher text contrast is created as a background for the community tag. Light colors will get lighter and dark colors will get darker. Keep that in mind and choose a background color that fits best your needs.
+Du kannst eine Basisfarbe für deine Community festlegen. Sie kommt in verschiedenen Fällen als Hintergrundfarbe zum Tragen wie z.B. für Events ohne ein Hauptbild oder auf der Community-Profilseite. Eine angepasste Version der Hintergrundfarbe mit einem höheren Kontrast wird als Hintergrund für das Clan-Tag verwendet. Helle Farben werden dabei heller und dunkle Farben dunkler. Behalte dies im Hinterkopf und wähle eine Hintergrundfarbe die am Besten zu deinen Bedürfnissen passt.
 
-![Community Colors](../images/communities/community-colors.png "Community Colors")
+![Community-Farben](../images/communities/community-colors.png "Community-Farben")

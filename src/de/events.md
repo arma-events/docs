@@ -1,37 +1,38 @@
 ---
 outline: deep
+cSpell: locale de
 ---
 
 # Events
 
-## Create Event
+## Event erstellen
 
-You can create an event for your community at any time by pressing the `+` symbol next to your profile avatar and selecting **Create Event**.
+Du kannst jederzeit ein Event für deine Community erstellen indem du das `+` Symbol neben deinem Profil-Avatar anklickst und **Event erstellen** auswählst.
 
-![Create Event](../images/events/create-event.png "Create Event")
+![Event erstellen](../images/events/create-event.png "Event erstellen")
 
-Creating a community event is done in four simple steps. Everything you setup here can be changed later except the chosen game.
+Ein Community-Event zu erstellen benötigt nur 4 einfache Schritte. Alles, was du hier einstellst, mit Ausnahme des gewählten Spiels, kann später geändert werden.
 
-First select the game that is played in the event. Currently supported is **Arma 3** and **Arma Reforger**. When released this list will be expanded to include **Arma 4**.
+Wähle zuerst das Spiel aus, das in dem Event gespielt wird. Aktuell werden **Arma 3** und **Arma Reforger** unterstützt. Nach Veröffentlichung wird diese Liste auch **Arma 4** umfassen.
 
-Next select the community for the event. You get a list of all communities you are member of to choose from.
+Wähle als nächstes die Community für dein Event. Du kannst aus einer Liste aller Communities wählen deren Mitglied du bist.
 
-Now choose an event title or generate a title randomly by pressing the dice icon.
+Nun wähle einen Event-Titel oder generiere einen Zufallstitel durch klicken auf das Würfel-Symbol.
 
 > [!CAUTION]
-> Event title length currently not restricted. Please keep the length shorter then 32 unicode characters.
+> Die Länge des Event-Titels ist aktuell nicht beschränkt. Bitte beschränke dich auf eine Länge von weniger als 32 Unicode-Zeichen.
 
-The last step is to choose a date and time for your event to start. You can setup date and time manually or use the platform dependant date and time dialog to choose the start of your event. You can't choose a date and time that is in the past.
+Der letzte Schritt ist die Auswahl von Datum und Uhrzeit, an der dein Event beginnt. Du kannst Datum und Uhrzeit manuell angeben oder den plattformabhängigen Dialog für Datum und Uhrzeit verwenden, um den Start deines Events festzulegen. Du kannst kein vergangenes Datum oder vergangene Uhrzeit wählen.
 
-![Create Event Workflow](../images/events/create-event-workflow.png "Create Event Workflow")
+![Assistent Event erstellen](../images/events/create-event-workflow.png "Assistent Event erstellen")
 
-After finishing the workflow your event is in **draft** state. Now you can setup your event details. While in draft state the event is not listed or visible anywhere. Only the authors can access the event.
+Nach Abschluss des Assistenten befindet sich dein Event im **Entwurfsstatus**. Nun kannst du die Details deines Events festlegen. Im Entwurfsstatus wird dein Event nicht gelistet oder ist irgendwo sichtbar. Nur Autoren können auf das Event zugreifen.
 
-You can close your draft any time by pressing the `X` button or publish your event by pressing the **Publish** button. By that your event leaves the draft state and is visible to all **arma.events** users and especially to your community and your guests.
+Du kannst jederzeit deinen Entwurf schließen durch klicken auf die `X` Schaltfläche oder dein Event veröffentlichen durch klicken auf die **Veröffentlichen** Schaltfläche. Dadurch verlässt dein Event den Entwurfsstatus und ist für alle **arma.events** Benutzer und insbesondere für deine Community und für deine Gäste sichtbar.
 
-Save your changes by pressing the **Save Draft** button and see your changes in preview mode by pressing the **Preview** button.
+Speichere deine Änderungen durch klicken auf die **Entwurf speichern** Schaltfläche und schau dir deine Änderungen im Vorschaumodus an durch klicken auf die **Vorschau** Schaltfläche.
 
-![Preview Toggle](../images/events/preview-toggle.png "Preview Toggle")
+![Preview-Wechsel](../images/events/preview-toggle.png "Preview-Wechsel")
 
 ### Event Details
 

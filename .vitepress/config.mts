@@ -1,3 +1,5 @@
+// cSpell: disable
+
 import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
@@ -160,7 +162,7 @@ export default defineConfig({
           { text: 'FAQ', link: '/de/faq' },
           { text: 'Support', link: '/de/support' },
           { text: 'Feedback', link: '/de/feedback' },
-          { text: 'Mitmachen', link: '/de/contribution' }
+          { text: 'Mitwirkung', link: '/de/contribution' }
         ],
         sidebar: [
           {
