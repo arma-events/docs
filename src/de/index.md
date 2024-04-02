@@ -1,7 +1,6 @@
 ---
 
-outline: deep
-cSpell: locale de
+cSpell: disable
 
 # https://vitepress.dev/reference/default-theme-home-page
 layout: home
@@ -33,7 +32,7 @@ hero:
 features:
   - title: Eventerstellung
     details: Briefe dein Team mit unserem WYSIWYG Block Editor, lade Karten und Bilder hoch und erstelle schöne ORBAT Slotlisten.
-  - title: Multi Community Events
+  - title: Multi-Community-Events
     details: Lade andere Communities ein mit dir zu spielen. Teile individuelle Slots oder ganze Teams mit ihnen um sich einzuslotten.
   - title: Steam SSO
     details: Logge dich einfach mit Steam ein und du bist startklar. Es wird kein zusätzlicher Account benötigt.

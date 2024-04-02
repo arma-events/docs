@@ -3,36 +3,36 @@ outline: deep
 cSpell: locale de
 ---
 
-# Overview
+# Überblick
 
-## Global Search Bar
+## Globale Suchleiste
 
-Our global search bar is accessable on every page on the very top. There you can seach for events, communities and users.
+Auf unsere globale Suchleiste kann auf jeder Seite ganz oben zugegriffen werden. Darin kannst du nach Events, Communities und Benutzern suchen.
 
-![Global Search Bar](../images/overview/global-search-bar.png "Global Search Bar")
+![Globale Suchleiste](../images/overview/global-search-bar.png "Globale Suchleiste")
 
-While typing you get quick search results. You can **filter** (1) the results directly, access the **results** (2) or go to the **full results page** (3).
+Während des Tippens erhältst du schnelle Suchergebnisse. Du kannst diese Ergebnisse direkt **filtern** (1), auf die **Ergebnisse** (2) zugreifen oder dir die **vollständige Suchergebnisseite** (3) anzeigen lassen.
 
-![Quick Search Results](../images/overview/quick-search-results.png "Quick Search Results")
+![Schnelle Suchergebnisse](../images/overview/quick-search-results.png "Schnelle Suchergebnisse")
 
-The full search results page gives you access to **all search results** (2) and also allows you to **filter** (1) the results for events, communities or users. The results have a more detailed preview then the quick search results. Click on a result to jump directly to the corresponding page.
+Die vollständige Suchergebnisseite erlaubt dir Zugriff auf **alle Suchergebnisse** (2) und erlaubt dir zudem die **Filterung** (1) der Ergebnisse für Events, Communities und Benutzer. Diese Ergebnisse haben eine detailliertere Vorschau als die schnellen Suchergebnisse. Klicke auf ein Suchergebnis um direkt zur entsprechenden Seite zu gelangen.
 
-![Full Search Results](../images/overview/full-search-results.png "Full Search Results")
+![Vollständige Suchergebnisse](../images/overview/full-search-results.png "Vollständige Suchergebnisse")
 
-## User Profile Pages
+## Benutzerprofilseiten
 
-Every user has a globally visible profile page containing the avatar, the display name and the handle of the user as well as a list of communities the user is a member of and lists of the events in which the user took part or of which the user was an author. You can directly access the communities or events from these lists. See [users](./users "Users") for more details.
+Jeder Benutzer hat eine global sichtbare Profilseite, die den Avatar, den Anzeigenamen und den Handle des Nutzers sowie eine Liste der Communities, deren Mitglied der Benutzer ist, und eine Liste der Events, an deren der Benutzer teilgenommen hat oder von denen er Autor war, enthält. You kannst direkt auf die Communities oder Events über diese Listen zugreifen. Siehe [Benutzer](./users "Benutzer") für weitere Details.
 
-![User Profile Page](../images/overview/user-profile-page.png "User Profile Page")
+![Benutzerprofilseite](../images/overview/user-profile-page.png "Benutzerprofilseite")
 
-## Community Profile Pages
+## Community-Profilseite
 
-Every community has a globally visible profile page containing the logo, the name, the tag, the member count and an introduction as well as a searchable list of all members (including avatar, name, handle and a crown if the member is an administrator of this community) and lists of past and upcoming events. You can directly access the users (WIP) or events from these lists. See [communities](./communities "Communities") for more details.
+Jede Community hat eine global sichtbare Profilseite, die das Logo, den Namen, das Clan-Tag, die Mitgliederanzahl und eine Vorstellung sowie eine durchsuchbare Liste aller Mitglieder (inklusive Avatar, Name, Handle und einem Kronensymbol falls das Mitglied ein Administrator dieser Community ist) und Listen der vergangenen und zukünftigen Events enthält. Du kannst direkt auf die Benutzer (WIP) oder Events über diese Listen Zugreifen. Siehe [Communities](./communities "Communities") für weitere Details.
 
-![Community Profile Page](../images/overview/community-profile-page.png "Community Profile Page")
+![CommunityProfilseite](../images/overview/community-profile-page.png "CommunityProfilseite")
 
-## Event Pages
+## Event-Seiten
 
-Every event if not set to private has a globally visible profile page containing the name, the main image, the start date and time, the hosting community and the guest communities, the list of authors, the game and the required DLCs, the tags, the slotlist (WIP) and perhaps multiple text and image boxes containing the event briefing. See [events](./events "Events") for more details.
+Jedes Event, falls es nicht auf privat gesetzt wurde, hat eine global sichtbare Profilseite, die den Namen, das Teaser-Bild, Startdatum und Uhrzeit, die gastgebende Community und Gast-Communities, eine Liste der Autoren, das Spiel und die benötigten DLCs, Tags, die Slotliste (WIP) und möglicherweise mehrere Text- und Bildboxen enthält, die das Event-Briefing darstellen. Siehe [events](./events "Events") für weitere Details.
 
-![Event Profile Page](../images/overview/event-profile-page.png "Event Profile Page")
+![Event-Seite](../images/overview/event-profile-page.png "Event-Seite")

@@ -1,6 +1,6 @@
 ---
 
-cSpell: locale en
+cSpell: disable
 
 # https://vitepress.dev/reference/default-theme-home-page
 layout: home

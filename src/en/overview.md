@@ -15,7 +15,7 @@ While typing you get quick search results. You can **filter** (1) the results di
 
 ![Quick Search Results](../images/overview/quick-search-results.png "Quick Search Results")
 
-The full search results page gives you access to **all search results** (2) and also allows you to **filter** (1) the results for events, communities or users. The results have a more detailed preview then the quick search results. Click on a result to jump directly to the corresponding page.
+The full search results page gives you access to **all search results** (2) and also allows you to **filter** (1) the results for events, communities or users. These results have a more detailed preview then the quick search results. Click on a result to jump directly to the corresponding page.
 
 ![Full Search Results](../images/overview/full-search-results.png "Full Search Results")
 
@@ -33,6 +33,6 @@ Every community has a globally visible profile page containing the logo, the nam
 
 ## Event Pages
 
-Every event if not set to private has a globally visible profile page containing the name, the main image, the start date and time, the hosting community and the guest communities, the list of authors, the game and the required DLCs, the tags, the slotlist (WIP) and perhaps multiple text and image boxes containing the event briefing. See [events](./events "Events") for more details.
+Every event if not set to private has a globally visible profile page containing the name, the teaser image, the start date and time, the hosting community and the guest communities, the list of authors, the game and the required DLCs, the tags, the slotlist (WIP) and perhaps multiple text and image boxes containing the event briefing. See [events](./events "Events") for more details.
 
-![Event Profile Page](../images/overview/event-profile-page.png "Event Profile Page")
+![Event Page](../images/overview/event-profile-page.png "Event Page")

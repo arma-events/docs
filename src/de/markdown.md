@@ -5,106 +5,106 @@ cSpell: locale de
 
 # Markdown
 
-Markdown is a plain text lightweight markup language for creating formatted text and structured documents. **arma.events** supports Markdown for structuring your event texts. Using Markdown is completely optional. You can simply write your texts and structure them by creating separate text boxes with headlines and without using Markdown at all. If you intend to use Markdown see the list of the supported text markups below.
+Markdown ist eine einfach Textauszeichnungssprache um formatierten Text und strukturierte Dokumente zu erstellen. **arma.events** unterstützt Markdown zur Strukturierung der Event-Texte. Die Benutzung von Markdown ist vollständig optional. Du kannst einfach deine Texte schreiben und sie durch Erstellung separater Textboxen mit Überschriften strukturieren, ohne dabei Markdown zu verwenden. Wenn du beabsichtigst Markdown zu verwenden, dann sieh dir die folgende Liste unterstützter Textauszeichnungen an.
 
-![Markdown vs. No Markdown](../images/markdown/markdown-vs-no-markdown.png "Markdown vs. No Markdown")
+![Markdown vs. Kein Markdown](../images/markdown/markdown-vs-no-markdown.png "Markdown vs. Kein Markdown")
 
-## Paragraphs and Line Breaks
+## Absätze und Zeilenumbrüche
 
-Each return in your text will create a manual line break. Each blank line will create a new paragraph.
+Jedes Return in deinem Text erzeugt einen manuellen Zeilenumbruch. Jede leere Zeile erzeugt einen neuen Absatz.
 
-![Paragraphs and Line Breaks](../images/markdown/paragraphs-and-line-breaks.png "Paragraphs and Line Breaks")
+![Absätze und Zeilenumbrüche](../images/markdown/paragraphs-and-line-breaks.png "Absätze und Zeilenumbrüche")
 
-## Heading
+## Überschriften
 
-With the #-based syntax you can create up to 4 headline hierarchies. With `=====` and `-----` you can create only 2 hierarchies.
+Mit der #-basierenden Schreibweise kannst du bis zu 4 Abstufungen für Überschriften erzeugen. Mit `=====` und `-----` lassen sich nur 2 Abstufungen erzeugen.
 
-![Headlines](../images/markdown/headlines.png "Headlines")
+![Überschriften](../images/markdown/headlines.png "Überschriften")
 
-![Headlines - Alternative Syntax](../images/markdown/alt-headlines.png "Headlines - Alternative Syntax")
+![Überschriften - Alternative Schreibweise](../images/markdown/alt-headlines.png "Überschriften - Alternative Schreibweise")
 
-## Text Attributes
+## Textauszeichnungen
 
-\**italic*\* or \__italic_\_ (Alternative Syntax)
+\**kursiv*\* or \kursiv\_ (Alternative Schreibweise)
 
-\*\***bold**\*\* or \_\___bold__\_\_ (Alternative Syntax)
+\*\***fett**\*\* or \_\___fett__\_\_ (Alternative Schreibweise)
 
-\*\*\****bold italic***\*\*\* or \_\_\____bold italic___\_\_\_ (Alternative Syntax)
+\*\*\****fett kursiv***\*\*\* oder \_\_\____fett kursiv___\_\_\_ (Alternative Schreibweise)
 
-\``monospaced`\`
+\``Nichtproportional`\`
 
-\~\~~~strikethrough~~\~\~
+\~\~~~durchgestrichen~~\~\~
 
-![Text Attributes](../images/markdown/text-attributes.png "Text Attributes")
+![Textauszeichnungen](../images/markdown/text-attributes.png "Textauszeichnungen")
 
-![Text Attributes - Alternative  Syntax](../images/markdown/alt-text-attributes.png "Text Attributes - Alternative Syntax")
+![Textauszeichnungen - Alternative  Schreibweise](../images/markdown/alt-text-attributes.png "Textauszeichnungen - Alternative Schreibweise")
 
-## Horizontal Rule
+## Horizontale Linie
 
-With three dashes `---` you can create a horizontal line. Keep a blank line before and after to prevent formatting issues.
+Mit drei Strichen `---` kannst du eine horizontale Linie erzeugen. Um Formatierungsprobleme zu vermeiden, setze eine Leerzeile über und unter der horizontalen Linie.
 
-![Horizontal Rule](../images/markdown/horizontal-rule.png "Horizontal Rule")
+![Horizontale Linie](../images/markdown/horizontal-rule.png "Horizontale Linie")
 
-## Unsorted Lists
+## Unsortierte Listen
 
-Add two blank spaces in front of your list item for intendation. You can use `-`,`+` or `*` as a list sign.
+Füge zwei Leerzeichen vor deinem Listenelement ein um es einzurücken. Du kannst  `-`,`+` oder `*` als Listensymbol verwenden.
 
-![Unsorted Lists](../images/markdown/unsorted-lists.png "Unsorted Lists")
+![Unsortierte Listen](../images/markdown/unsorted-lists.png "Unsortierte Listen")
 
-![Unsorted Lists - Alternative Syntax 1](../images/markdown/alt-unsorted-lists.png "Unsorted Lists - Alternative Syntax 1")
+![Unsortierte Listen - Alternative Schreibweise 1](../images/markdown/alt-unsorted-lists.png "Unsortierte Listen - Alternative Schreibweise 1")
 
-![Unsorted Lists - Alternative Syntax 2](../images/markdown/alt2-unsorted-lists.png "Unsorted Lists - Alternative Syntax 2")
+![Unsortierte Listen - Alternative Schreibweise 2](../images/markdown/alt2-unsorted-lists.png "Unsortierte Listen - Alternative Schreibweise 2")
 
-## Sorted Lists
+## Sortierte Listen
 
-Add two blank spaces in front of your list item for intendation.
+Füge zwei Leerzeichen vor deinem Listenelement ein um es einzurücken.
 
-![Sorted Lists](../images/markdown/sorted-lists.png "Sorted Lists")
+![Sortierte Listen](../images/markdown/sorted-lists.png "Sortierte Listen")
 
 ## Links
 
-Format `[LINKED TEXT] (URL "MOUSEOVER TEXT")`
+Format `[VERLINKTER TEXT] (URL "MOUSEOVER-TEXT")`
 
 ![Links](../images/markdown/links.png "Links")
 
-## Images
+## Bilder
 
-Format `![ALTERNATIVE TEXT] (URL "MOUSEOVER TEXT")`
+Format `![ALTERNATIVER TEXT] (URL "MOUSEOVER-TEXT")`
 
-![Images](../images/markdown/images.png "Images")
+![Bilder](../images/markdown/images.png "Bilder")
 
-## Autolinks and Email Addresses
+## Autolinks and E-Mail-Adressen
 
-Enclose your URL or email address in `<` and `>` to create an automatic link with the URI as the link text.
+Umschließe deine URL or E-Mail-Adresse mit `<` und `>` um einen automatischen Link mit dem URI als Link-Text zu erzeugen.
 
 ![Autolinks](../images/markdown/autolinks.png "Autolinks")
 
-## Code Block
+## Code-Block
 
-Beginn every line with ` ` 4 blank spaces to create a code block. Alternatively, enclose the text in ` ``` ` to create a code block. No support for syntax highlighting.
+Beginne jede Zeile mit ` ` 4 Leerzeichen um einen Code-Block zu erzeugen. Alternativ umschließe den Text mit ` ``` ` um einen Code-Block zu erzeugen. Syntax-Highlighting wird nicht unterstützt.
 
-![Code Block](../images/markdown/code-block.png "Code Block")
+![Code-Block](../images/markdown/code-block.png "Code-Block")
 
-![Code Block Alternative](../images/markdown/alt-code-block.png "Code Block Alternative")
+![Code-Block Alternative](../images/markdown/alt-code-block.png "Code-Block Alternative")
 
-## Blockquote
+## Zitat-Block
 
-Beginn every line or your paragraph with `>` and a ` ` blank space to create a blockquote.
+Beginne jede Zeile or deinen Absatz mit `>` und einem ` ` Leerzeichen um einen Zitat-Block zu erstellen.
 
-![Blockquote](../images/markdown/blockquote.png "Blockquote")
+![Zitat-Block](../images/markdown/blockquote.png "Zitat-Block")
 
-## Alerts
+## Warnungen
 
-Markdown alerts are created like blockquotes but the first line contains a keyword like `[!NOTE]` or `[!WARNING]`.
+Markdown Warnungen werden wie Zitat-Blöcke erzeugt, jedoch enthält die erste Zeile ein Schlüsselwort wie `[!NOTE]` oder `[!WARNING]`.
 
-![Alerts 1](../images/markdown/alerts-1.png "Alerts 1")
+![Warnungen 1](../images/markdown/alerts-1.png "Warnungen 1")
 
-![Alerts 2](../images/markdown/alerts-2.png "Alerts 2")
+![Warnungen 2](../images/markdown/alerts-2.png "Warnungen 2")
 
-![Alerts 3](../images/markdown/alerts-3.png "Alerts 3")
+![Warnungen 3](../images/markdown/alerts-3.png "Warnungen 3")
 
-## Escape Markdown Characters
+## Markdown Zeichen maskieren
 
-If you want to treat Markdown characters as normal text then you can escape these characters with the `\` prefix.
+Wenn du Markdown Zeichen wie normalen Text behandelt wissen möchtest dann musst du diese Zeichen mit dem `\` Prefix maskieren.
 
-![Escaping](../images/markdown/escaping.png "Escaping")
+![Maskierung](../images/markdown/escaping.png "Maskierung")
