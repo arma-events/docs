@@ -3,62 +3,62 @@ outline: deep
 cSpell: locale de
 ---
 
-# Users
+# Benutzer
 
-## Login with Steam SSO
+## Per Steam SSO einloggen
 
-It is very likely that every player that wants to use our platform has a Steam account. That is why we decided to link accounts on **arma.events** to the players Steam account. You simply need to login with your Steam account. That's all it takes. There is currently no way to create an account based on email address and password. Steam takes care of the login process for us. We can neither see your passord nor access your steam account.
+Es ist sehr wahrscheinlich, dass jeder Spieler, der unsere Plattform nutzen möchte, einen Steam Account hat. Aus diesem Grund entschieden wir uns Accounts auf **arma.events** mit dem Steam Account des Spielers zu verknüpfen. Du musst dich nur mit deinem Steam Account einloggen. Das ist alles, was nötig ist. Aktuell gibt es keine Möglichkeit einen Account basierend auf Benutzername und Passwort zu erzeugen. Steam kümmert sich für uns um den Login-Vorgang. Wir können weder dein Passwort sehen noch auf deinen Steam Account zugreifen.
 
-## Create User Account
+## Account erstellen
 
-It takes only three simple assistant-driven steps to create an **arma.events** user account. First, login with your existing Steam account. You will be redirected automatically to Steam and back whithin this process. Second, confirm or change your display name. Third, choose your avatar or leave it blank.
+Es braucht nur drei einfache Assistent-geführte Schritte, um einen **arma.events** Benutzer-Account zu erstellen. Als Erstes log dich mit deinem bestehenden Steam Account ein. Du wirst automatisch zu Steam und wieder zurück geleitet während dieses Vorgangs. Als Zweites bestätige oder ändere deinen Anzeigenamen. Als Drittes wähle deinen Avatar oder lass ihn leer.
 
-![Create Account](../images/users/create-account.png "Create Account")
+![Account erstellen](../images/users/create-account.png "Account erstellen")
 
-That's it. You are now succcessfully logged into **arma.events** with your Steam account. You can change everything later in your profile settings. Now you can create your own community or ask your community manager to send you an invite to your community. As a member of a community you can join the events of that community. See [Communities](./communities "Communities") for more information.
+Das war's. Du bist nun erfolgreich bei **arma.events** mit deinem Steam Account eingeloggt. Du kannst alles später in deinen Profileinstellungen ändern. Nun kannst du deine eigene Community erstellen oder deinen Community Manager bitten dir eine Einladung für deine Community zu senden. Als Mitglied einer Community kannst du an Events dieser Community teilnehmen. Siehe [Communities](./communities "Communities") für weitere Informationen.
 
-![User Profile](../images/users/user-profile.png "User Profile")
+![Benutzerprofil](../images/users/user-profile.png "Benutzerprofil")
 
-## Delete User Account
+## Account löschen
 
 ***WIP***
 
-## Edit User Profile
+## Benutzerprofil bearbeiten
 
 ### Avatar
 
-Various image file formats are supported. You can zoom into your image with the **scroll wheel** of your mouse and move the image while holding the **left mouse button**. The avatar is always displayed in a circle. We store your image with a resolution of 256x256 pixels. Using a very low-res image or zooming in can lead to a blurry image.
+Zahlreiche Bilddateiformate werden unterstützt. Du kannst mithilfe des **Scrollrades** deiner Maus in das Bild hineinzoomen und es bewegen während du die **linke Maustaste** gedrückt hältst. Der Avatar wird stets in einem Kreis dargestellt. Wir speichern dein Bild mit einer Auflösung von 256x256 Pixeln. Die Verwendung von niedrig aufgelösten Bildern oder das Hineinzoomen können zu einem verschwommenen Bild führen.
 
 ![Avatar](../images/users/avatar.png "Avatar")
 
-### Naming
+### Benennung
 
-The **display name** and the **handle** are mostly identical after first login. Not allowed characters have been removed or replaced in the handle and the length has been limited. Both the display name and the handle can be changed later individually.
+Der **Anzeigename** und der **Handle** sind meistens identisch nach dem ersten Login. Nicht erlaubte sind Zeichen werden im Handle entfernt oder ersetzt und die Länge wird begrenzt. Beide, der Anzeigename und der Handle, können später unabhängig voneinander geändert werden.
 
-Set your **display name** to any string that is less or equal 50 unicode characters. The display name is the one that is displayed on **arma.events** most of the time. You can share the same display name with other users.
+Nutze eine beliebige Zeichenkette für deinen **Anzeigenamen**, die kleiner gleich 50 Unicode-Zeichen ist. Der Anzeigename ist derjenige der die meiste Zeit auf **arma.events** zur Anzeige kommt. Mehrere Benutzer können den identischen Anzeigenamen haben.
 
-The **handle** is a string with 32 or less web-safe characters that has to be unique on our platform. The availability of the handle is checked every time you try to change it. The handle is mostly used in URLs. In all other cases the display name is shown.
+Der **Handle** ist eine auf unserer Plattform einmalige Zeichenkette bestehend aus 32 oder weniger Web-freundlichen Zeichen. Die Verfügbarkeit des Handles wird bei jedem Änderungsversuch geprüft. Der Handle wird überwiegend in URLs genutzt. In allen sonstigen Fällen wird der Anzeigename verwendet.
 
-![Naming](../images/users/naming.png "Naming")
+![Benennung](../images/users/naming.png "Benennung")
 
 ### Communities
 
-Your user profile contains a list of all communities you are a member of. You can use this overview to quickly jump to the community or to leave the communities you no longer want to be part of by using the 3 dots context menu.
+Dein Benutzerprofil enthält eine Liste aller Communities, deren Mitglied du bist. Du kannst diesen Überblick verwenden um zu einer Community zu springen oder über das Drei-Punkte-Kontextmenü Communities zu verlassen, deren Mitglied du nicht mehr sein möchtest.
 
-Keep in mind that the community will be deleted if you are the only/last member. If there are other members but you are the only administrator of this community then you need to transfer your admin rights to another member. See [communities](./communities "Communities") for more information about community management.
+Bedenke, dass die Community gelöscht wird, falls du das einzige/letzte Mitglied bist. Falls noch andere Mitglieder vorhanden sind aber du der einzige Administrator dieser Community bist, dann musst du deine Admin-Rechte vor der Löschung auf ein anderes Mitglied übertragen. Siehe [Communities](./communities "Communities") für weitere Informationen zum Community-Management.
 
 ![Sessions](../images/users/user-profile-communities-overview.png "Sessions")
 
 ### Sessions
 
-Session management is a security feature. It lists every active browser session on your devices. Feel free to close/revoke all sessions you no longer need or all sessions at once. A revoked session means that you need to login again on that specific device/browser combination.
+Das Session-Management ist ein Sicherheits-Feature. Es listet alle aktiven Browser-Sessions auf deinen Geräten. Fühl dich frei alle Sessions, die du nicht mehr benötigst, oder alle Sessions gleichzeitig zu löschen/widerrufen. Eine widerrufene Session bedeutet, dass du dich auf der bestimmten Gerät-Browser-Kombination erneut einloggen musst.
 
 ![Sessions](../images/users/sessions.png "Sessions")
 
-### Games and DLCs
+### Spiele und DLCs
 
-In your profile you can setup which games you own. Currently supported are **Arma 3** and **Arma Reforger**. When released **Arma 4** will be added. Contact our [Support](./support "Support") if you are interested in adding more games. If the game supports DLCs then please specify which DLCs you own.
+In deinem Profil kannst du definieren welche Spiele du besitzt. Aktuell unterstützt werden **Arma 3** und **Arma Reforger**. Wenn veröffentlicht wird auch **Arma 4** hinzugefügt. Kontaktiere unseren [Support](./support "Support") wenn du daran interessiert bist weitere Spiele hinzuzufügen. Falls das Spiel DLCs unterstützt dann gib bitte zusätzlich an, welche du davon besitzt.
 
-Your owned DLCs will be matched against the DLC requirements that a mission creator has defined for a specific event. In case of a missing DLC you will get a warning.
+Die in deinem Besitz befindlichen DLCs werden gegen die vom Missionsersteller für ein bestimmtes Event festgelegten DLC-Anforderungen abgeglichen. Im Falle eines fehlenden DLCs erhältst du eine Warnung.
 
-![Games and DLCs](../images/users/games-and-dlcs.png "Games and DLCs")
+![Spiele und DLCs](../images/users/games-and-dlcs.png "Spiele und DLCs")

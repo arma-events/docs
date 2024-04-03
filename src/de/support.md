@@ -5,8 +5,8 @@ cSpell: locale de
 
 # Support
 
-If you experience any problems when using **arma.events** or you have any questions, suggestions or offers then please get in touch with us and we will try to fix your issue, answer your question, discuss your suggestion or check your offer.
+Wenn du auf irgendwelche Schwierigkeiten bei der Benutzung von **arma.events** stößt oder wenn du irgendwelche Fragen, Vorschläge oder Angebote hast, dann zögere nicht uns zu kontaktieren und wir werden versuchen dein Problem zu lösen, deine Fragen beantworten, deine Vorschläge diskutieren und deine Angebote prüfen.
 
-The easiest method is to join our [Discord](https://discord.gg/b2aABzh8xJ "Discord invite"). But you can also get in touch with us via [X](https://x.com/arma_events "arma.events on X").
+Die einfachste Methode ist unserem [Discord](https://discord.gg/b2aABzh8xJ "Discord Einladung") Server beizutreten. Du kannst jedoch auch über [X](https://x.com/arma_events "arma.events auf X") mit uns in Kontakt treten.
 
-While it's technically possible to leave comments on videos of our [YouTube](https://www.youtube.com/@arma.events "YouTube Channel") channel please don't expect very fast reactions.
+Obwohl es möglich ist Kommentare unter unseren Videos auf [YouTube](https://www.youtube.com/@arma.events "YouTube-Kanal") zu hinterlassen, solltest du jedoch keine sehr schnellen Reaktionen erwarten.

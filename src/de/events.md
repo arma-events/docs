@@ -7,7 +7,7 @@ cSpell: locale de
 
 ## Event erstellen
 
-Du kannst jederzeit ein Event für deine Community erstellen indem du das `+` Symbol neben deinem Profil-Avatar anklickst und **Event erstellen** auswählst.
+Du kannst jederzeit ein Event für deine Community erstellen indem du das `+` Symbol neben deinem Avatar anklickst und **Event erstellen** auswählst.
 
 ![Event erstellen](../images/events/create-event.png "Event erstellen")
 
@@ -36,11 +36,11 @@ Speichere deine Änderungen durch klicken auf die **Entwurf speichern** Schaltfl
 
 ### Event-Details
 
-Der von dir angegebene **Event-Name** (1) wurde während des Event-Erstellungsprozesses verwendet um ein **Event-Handle** (2) zu erzeugen, das auf min. 5 und max. 32 web-freundliche Zeichen begrenzt ist. Beides kann geändert werden aber der Event-Handle muss einmalig sein. Du bekommst bei jedem Änderungsversuch ein Feedback über die Verfügbarkeit des Event-Handle.
+Der von dir angegebene **Event-Name** (1) wurde während des Event-Erstellungsprozesses verwendet um ein **Event-Handle** (2) zu erzeugen, das auf min. 5 und max. 32 Web-freundliche Zeichen begrenzt ist. Beides kann geändert werden aber der Event-Handle muss einmalig sein. Du bekommst bei jedem Änderungsversuch ein Feedback über die Verfügbarkeit des Event-Handle.
 
 Die **Zusammenfassung** (3) ist eine max. 280 Unicode-Zeichen lange Beschreibung deines Events. Sie wird in Übersichten verwendet ist aber in der Detailansicht deines Events nicht sichtbar.
 
-Jedes Event kann einen oder mehrere **Autoren** (4) haben. Nur Autoren und Admins können die Event-Einstellungen ändern/verwalten. Füge weitere Autoren durch anklicken der `+` Schaltfläche hinzu oder entferne existierende Autoren, dich selbst eingeschlossen, indem du mit der Maus über das Avatar-Bild eines Autors fährst und das Mülleimer-Symbol anklickst.
+Jedes Event kann einen oder mehrere **Autoren** (4) haben. Nur Autoren und Admins können die Event-Einstellungen ändern/verwalten. Füge weitere Autoren durch anklicken der `+` Schaltfläche hinzu oder entferne existierende Autoren, dich selbst eingeschlossen, indem du mit der Maus über den Avatar eines Autors fährst und das Mülleimer-Symbol anklickst.
 
 Standardmäßig können nur Mitglieder deiner Community an deinem Event teilnehmen aber du kannst weitere **Communities** (5) erlauben/einladen indem du auf das Community-Ausklappmenü klickst und die Schaltfläche **Community hinzufügen** anwählst. Du erhältst ein Suchfeld um nach der einzuladenden Community zu suchen. Mitglieder einer Gast-Community können genauso wie deine eigentlichen Community-Mitglieder an dem Event teilnehmen.
 

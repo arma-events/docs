@@ -5,34 +5,34 @@ cSpell: locale de
 
 # Roadmap
 
-## Event Commentary
+## Event-Kommentare
 
-Chat about your event. Collect screenshots and link videos.
+Chatte über dein Event. Sammle Screenshots und verlinke Videos.
 
-## Notifications
+## Benachrichtigungen
 
-Send reminders for your own event participants and stay on track on events you are invited to.
+Sende Erinnerungen an deine Event-Teilnehmer und bleibe auf dem Laufenden bei Events zu denen du eingeladen wurdest.
 
 ## Private Events
 
-Remove your events from the public eye, only for your community to see.
+Deaktiviere die öffentliche Sichtbarkeit deiner Events, damit sie nur von deiner Community gesehen werden können.
 
-## Slots Management
+## Slot-Management
 
-Automatic unlocking of slots after time or player count reached. Manual locking for individuals or groups.
+Automatische Entsperrung von Slots über Zeit oder nachdem ein Grenzwert erreicht wurde. Manuelle Sperrung für einzelne Spieler oder Gruppen.
 
-## Discord Support
+## Discord-Support
 
-Automatic Discord events, reminders, synced posts and maybe event attendance.
+Automatische Discord Events, Erinnerungen, synchronisierte Posts und möglicherweise Event-Teilnahme.
 
-## Mission Evaluation
+## Missionsauswertung
 
-Collect mission feedback and receive stats about member activity, role picking and more.
+Sammle Missionsrückmeldungen und erhalte Statistiken über Mitgliederaktivität, Rollenwahl und mehr.
 
-## Role Management
+## Rollenmanagement
 
-Lock slots for individual roles, manage your roles and ranks inside your community.
+Sperre Slots für individuelle Rollen, verwalte deine Rollen und Ränge innerhalb deiner Community.
 
-## Integrated Maps
+## Integrierte Karten
 
-Add an interactive map to your briefing. Visualize objectives directly in your browser.
+Füge interaktive Karten zu deinem Briefing hinzu. Visualisiere Objectives direkt in deinem Browser.

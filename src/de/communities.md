@@ -7,7 +7,7 @@ cSpell: locale de
 
 ## Community erstellen
 
-Du kannst jederzeit deine eigene Community erstellen indem du auf das `+` Symbol neben deinem Profil-Avatar klickst und **Community erstellen** auswählst.
+Du kannst jederzeit deine eigene Community erstellen indem du auf das `+` Symbol neben deinem Avatar klickst und **Community erstellen** auswählst.
 
 ![Community erstellen](../images/communities/create-community.png "Community erstellen")
 
@@ -19,7 +19,7 @@ Der nächste Schritt ist das Erstellen des Logos deiner Community. Die ideale Gr
 
 Nun kannst du die Grundfarbe deiner Community wählen. Transparente Teile deines Logos werden mit dieser Farbe gefüllt. Sie wird außerdem an verschiedenen Stellen verwendet wie z.B. als Hintergrundfarbe auf der Community-Profilseite oder als Community-Farbe um Mitglieder verschiedener Communities innerhalb einer Slotliste zu unterscheiden.
 
-Der letzte Schritt ist das auswählen/bestätigen deines Community-Handle. Dieser ist eine aus max. 32 web-freundlichen Zeichen bestehende Zeichenkette die überwiegend in URLs verwendet wird. Halte das Handle einfach und kurz. Da diese Zeichenkette einmalig sein muss, werden wir dich informieren falls sie bereits von einer anderen Community verwendet wird.
+Der letzte Schritt ist das auswählen/bestätigen deines Community-Handle. Dieser ist eine aus max. 32 Web-freundlichen Zeichen bestehende Zeichenkette die überwiegend in URLs verwendet wird. Halte das Handle einfach und kurz. Da diese Zeichenkette einmalig sein muss, werden wir dich informieren falls sie bereits von einer anderen Community verwendet wird.
 
 ![Workflow Community erstellen](../images/communities/create-community-workflow.png "Workflow Community erstellen")
 

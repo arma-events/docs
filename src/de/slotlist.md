@@ -5,74 +5,76 @@ cSpell: locale de
 
 # Slotlist
 
-![Slotlist Overview](../images/slotlist/slotlist-overview.png "Slotlist Overview")
+![Slotliste Überblick](../images/slotlist/slotlist-overview.png "Slotliste Überblick")
 
-Every new slotlist starts with a faction and a company in it. This is the required minimum. As long as you do not set the name of the dummy faction and the dummy company they will be hidden in the slotlist. You can't delete the dummy faction and the dummy company or move them around. They are always the last items. The dummy faction and the dummy company are always indicated by a grey heading. All other factions and companies are deleteable and moveable.
+Jede neue Slotliste beginnt mit einer Fraktion und einer darin enthaltenen Kompanie. Dies ist das benötige Minimum. Solang du keinen Namen für die Dummy-Fraktion oder die Dummy-Kompanie vergibst werden sie in der Slotliste versteckt. Du kannst die Dummy-Fraktion und die Dummy-Kompanie nicht verschieben. Sie sind stets die letzten Elemente. Die Dummy-Fraktion und die Dummy-Kompanie werden durch eine graue Überschrift gekennzeichnet. Alle anderen Fraktionen und Kompanien sind lösch- und verschiebbar.
 
-You can **undo or redo** (1) every change inside the slotlist editor. The history has a limit of 20 steps. You can **add more factions, companies or groups** by pressing the `+` button. You can **change the order** (4) of factions, companies inside factions, groups inside companies and groups inside groups by using the four dots handle. As long as the **names** (5) are not set (grey heading) they will be hidden in the final slotlist. Every round `+` button in the slotlist indicates a position where **player slots can be added** (6).
+Jede Änderung innerhalb des Slotlist-Editors lässt sich **rückgängig machen oder wiederherstellen** (1). Die Historie hat ein Limit von 20 Schritten. Du kannst **weitere Fraktionen, Kompanien und Gruppen hinzufügen** (3) durch anklicken der `+` Schaltfläche. Du kannst bei Fraktionen, Kompanien innerhalb von Fraktionen, Gruppen innerhalb von Kompanien und Gruppen innerhalb von Gruppen die **Reihefolge ändern** (4) indem du den Vier-Punkte-Anfasser verwendest. Solang die **Namen** (5) nicht gesetzt sind (graue Überschrift), bleiben sie in der endgültigen Slotliste versteckt. Jede runde `+` Schaltfläche in der Slotliste zeigt eine Position an, wo **Spieler-Slots** (6) hinzugefügt werden können.
 
-## Organisational Units
+## Organisationseinheiten
 
-| OU       | Parent                     | Children       | Slots | Properties   | Characteristics |
-| ---      | ------                     | --------       | ----- | ----------   | --------------- |
-| Faction* | none                       | Company        | no    | Color, Name  | Parties that are part of the conflict like OPFOR, BLUFOR, Independant |
-| Company* | Faction                    | Group or Slot  | yes   | Name, Symbol | Highest organisational unit in a faction; can be Company, Platoon, Squad, Group or anything else |
-| Group    | Company or Group           | Group or Slot  | yes   | Name, Symbol | Lower/Middle organisational unit; can host other groups; can be Platoon, Squad, Group or anything else |
-| Fireteam | Group                      | Slot           | yes   | none         | Smallest organisational unit |
-| Slot     | Company, Group or Fireteam | none           | no    | Name         | The player's slot |
+| OU        | Elternelement               | Kindelemente     | Slots | Eigenschaften   | Charakteristiken |
+| ---       | ------                      | --------         | ----- | ----------      | --------------- |
+| Fraktion* | keins                       | Kompanie         | nein  | Farbe, Name     | Parteien, die Teil des Konflikts sind, wie OPFOR, BLUFOR, Independant |
+| Kompanie* | Fraktion                    | Gruppe oder Slot | ja    | Name, Symbol    | Höchste Organisationseinheit innerhalb einer Fraktion; kann Kompanie, Zug, Gruppe, Trupp oder Sonstiges sein |
+| Gruppe**  | Kompanie oder Gruppe        | Gruppe oder Slot | ja    | Name, Symbol    | Kleinere/Mittlere Organisationseinheit; kann weitere Gruppen beinhalten; kann Zug, Gruppe, Trupp oder Sonstiges sein |
+| Trupp     | Gruppe                      | Slot             | ja    | keine           | Kleinste Organisationseinheit |
+| Slot      | Kompanie, Gruppe oder Trupp | keine            | nein  | Name            | Der Slot des Spielers |
 
-\**There is always one dummy faction and one dummy company*
+\**Es gibt stets eine Dummy-Fraktion und eine Dummy-Kompanie*
 
-## Create Factions, Companies and Groups
+\*\**Zur deutschen Übersetzung: Gruppe meint hier nicht ausschließlich die militärische Einheit sondern ist ein Überbegriff für verschiedene Einheitstypen, einschließlich einer militärischen Gruppe, könnte also auch mit 'Einheit' übersetzt werden*
 
-You can create factions, companies and groups by clicking the square `+` button in the lower menu bar and then dragging and dropping the dedicated item onto one of the possible drop zones indicated by a grey bar. The currently active drop zone gets bigger and the color changes to a darker grey to indicate current selection. You can create groups inside of groups.
+## Fraktionen, Kompanien, Gruppen erstellen
 
-![Create Factions, Companies and Groups](../videos/slotlist/create-factions-companies-groups.gif "Create Factions, Companies and Groups")
+Du kannst Fraktionen, Kompanien und Gruppen durch klicken auf die quadratische `+` Schaltfläche in der unteren Menüleiste und anschließendem ziehen auf eine der durch einen grauen Balken markierten, möglichen Ablagefläche erstellen. Die aktuell aktive Ablagefläche wird größer und die Farbe ändert sich zu einem dunkleren Grau, um die aktuelle Auswahl anzuzeigen. Du kannst Gruppen innerhalb von Gruppen erstellen.
 
-## Create Slots
+![Fraktionen, Kompanien, Gruppen erstellen](../videos/slotlist/create-factions-companies-groups.gif "Fraktionen, Kompanien, Gruppen erstellen")
 
-Slots are created by pressing the round `+` symbol one or multiple times. There is no natural slot limit but keep your slotlist organized by creating not too big units. The first slot in a company or in a group is always a leader slot. The icon is bigger and the default name is **CL** (Company Lead) or **SQL** (Squad Lead). You can change the slot names later. The first slot inside a fireteam is called **FTL** (Fireteam Lead) but the icon size is not increased.
+## Slots erstellen
 
-![Create Slots](../videos/slotlist/create-slots.gif "Create Slots")
+Slots werden durch einmaliges oder mehrfaches Klicken auf die runde `+` Schaltfläche erzeugt. Es gibt keine natürliche Slot-Begrenzung aber organisiere dich mit deiner Slotliste, indem du nicht zu große Einheiten erstellst. Der erste Slot innerhalb einer Kompanie oder innerhalb einer Gruppe ist stets ein Führungs-Slot. Der Avatar ist größer und der Standardname ist **CL** (Company Lead = Kompanieführung) oder **SQL** (Squad Lead = Gruppenführer). Du kannst die Slot-Namen später anpassen. Der erste Slot innerhalb eines Trupps heißt **FTL** (Fireteam Lead = Truppführer) aber der Avatar wird nicht vergrößert.
 
-## Create Fireteams
+![Slots erstellen](../videos/slotlist/create-slots.gif "Slots erstellen")
 
-Fireteams are a special type of unit. You can create fireteams only inside of groups by dragging existing slots at the bottom drop zone. One group can devide into multiple fireteams.
+## Trupps erstellen
 
-![Create Fireteams](../videos/slotlist/create-fireteams.gif "Create Fireteams")
+Trupps sind ein Spezialfall bei den Einheiten. Du kannst den ersten Trupp nur innerhalb einer Gruppe durch Ziehen eines existierenden Slots auf die untere Ablagefläche erstellen. Eine Gruppe kann sich in mehrere Trupps aufteilen. Erstelle weitere Trupps durch klicken auf die Drei-Punkte-Schaltfläche.
 
-## Move Factions, Companies, Groups
+![Trupps erstellen](../videos/slotlist/create-fireteams.gif "Trupps erstellen")
 
-You can move factions, companies and groups by using the four dots icons. Grey drop zone bars indicate the valid positions where you can move the items to. The currently selected drop zone is rendered darker and bigger then the not selected ones.
+## Fraktionen, Kompanien, Gruppen verschieben
 
-![Move Factions, Companies and Groups](../videos/slotlist/move-factions-companies-groups.gif "Move Factions, Companies and Groups")
+Du kannst Fraktionen, Kompanien und Gruppen mithilfe des Vier-Punkte-Anfassers verschieben. Graue Ablageflächen zeigen gültige Positionen an, an die du Elemente verschieben kannst. Die aktuell ausgewählte Ablagefläche wird dunkler und größer als die nicht Ausgewählten dargestellt.
 
-## Move Slots
+![Fraktionen, Kompanien, Gruppen verschieben](../videos/slotlist/move-factions-companies-groups.gif "Fraktionen, Kompanien, Gruppen verschieben")
 
-You can move slots around by dragging and dropping them onto the highlighted drop zones. The currently selected drop zone is rendered darker and bigger then the not selected ones.
+## Slots verschieben
 
-![Move Slots](../videos/slotlist/move-slots.gif "Move Slots")
+Du kannst Slots per Drag-And-Drop auf die hervorgehobenen Ablagezonen verschieben. Die aktuell ausgewählte Ablagezone wird dunkler und größer als die nicht Ausgewählten dargestellt.
 
-> [!IMPORTANT]
-> You can't move fireteams around. If you want to move a fireteam then you need to swap slots.
-
-## Rename Factions, Companies and Groups
-
-WIP
-
-## Rename Slots
-
-WIP
-
-## Delete Factions, Companies and Groups
-
-You can delete factions, companies and groups by dragging and dropping them on the trash can symbol. Child elements will be deleted as well. If you for example delete a faction then all companies and groups in that faction will be deleted accordingly.
-
-![Delete Factions, Companies and Groups](../videos/slotlist/delete-factions-companies-groups.gif "Delete Factions, Companies and Groups")
-
-## Delete Slots
-
-WIP
+![Slots verschieben](../videos/slotlist/move-slots.gif "Slots verschieben")
 
 > [!IMPORTANT]
-> You can't delete fireteams. If you want to delete a fireteam then you need to delete it's slots.
+> Du kannst Trupps nicht verschieben. Wenn du einen Trupp verschieben willst, musst du die einzelnen Slots durchwechseln.
+
+## Fraktionen, Kompanien, Gruppen umbenennen
+
+WIP
+
+## Slots umbenennen
+
+WIP
+
+## Fraktionen, Kompanien, Gruppen löschen
+
+Du kannst Fraktionen, Kompanien und Gruppen per Drag-And-Drop auf das Mülleimersymbol löschen. Kindelemente werden dadurch auch gelöscht. Wenn du zum Beispiel eine Fraktion löschst, dann werden alle Kompanien und Gruppen innerhalb dieser Fraktion gleichermaßen gelöscht.
+
+![Fraktionen, Kompanien, Gruppen löschen](../videos/slotlist/delete-factions-companies-groups.gif "Fraktionen, Kompanien, Gruppen löschen")
+
+## Slots löschen
+
+WIP
+
+> [!IMPORTANT]
+> Du kannst keine Trupps löschen. Wenn du einen Trupp löschen möchtest dann musst du seine Slots löschen.

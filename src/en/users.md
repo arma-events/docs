@@ -33,7 +33,7 @@ Various image file formats are supported. You can zoom into your image with the 
 
 ### Naming
 
-The **display name** and the **handle** are mostly identical after first login. Not allowed characters have been removed or replaced in the handle and the length has been limited. Both the display name and the handle can be changed later individually.
+The **display name** and the **handle** are mostly identical after first login. Not allowed characters have been removed or replaced in the handle and the length has been limited. Both the display name and the handle can be changed later independently.
 
 Set your **display name** to any string that is less or equal 50 unicode characters. The display name is the one that is displayed on **arma.events** most of the time. You can share the same display name with other users.
 
@@ -45,7 +45,7 @@ The **handle** is a string with 32 or less web-safe characters that has to be un
 
 Your user profile contains a list of all communities you are a member of. You can use this overview to quickly jump to the community or to leave the communities you no longer want to be part of by using the 3 dots context menu.
 
-Keep in mind that the community will be deleted if you are the only/last member. If there are other members but you are the only administrator of this community then you need to transfer your admin rights to another member. See [communities](./communities "Communities") for more information about community management.
+Keep in mind that the community will be deleted if you are the only/last member. If there are other members but you are the only administrator of this community then you need to transfer your admin rights to another member before deletion. See [communities](./communities "Communities") for more information about community management.
 
 ![Sessions](../images/users/user-profile-communities-overview.png "Sessions")
 
@@ -57,7 +57,7 @@ Session management is a security feature. It lists every active browser session 
 
 ### Games and DLCs
 
-In your profile you can setup which games you own. Currently supported are **Arma 3** and **Arma Reforger**. When released **Arma 4** will be added. Contact our [Support](./support "Support") if you are interested in adding more games. If the game supports DLCs then please specify which DLCs you own.
+In your profile you can setup which games you own. Currently supported are **Arma 3** and **Arma Reforger**. When released **Arma 4** will be added as well. Contact our [Support](./support "Support") if you are interested in adding more games. If the game supports DLCs then please specify which DLCs you own.
 
 Your owned DLCs will be matched against the DLC requirements that a mission creator has defined for a specific event. In case of a missing DLC you will get a warning.
 
