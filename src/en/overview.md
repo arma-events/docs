@@ -27,7 +27,7 @@ Every user has a globally visible profile page containing the avatar, the displa
 
 ## Community Profile Pages
 
-Every community has a globally visible profile page containing the logo, the name, the tag, the member count and an introduction as well as a searchable list of all members (including avatar, name, handle and a crown if the member is an administrator of this community) and lists of past and upcoming events. You can directly access the users (WIP) or events from these lists. See [communities](./communities "Communities") for more details.
+Every community has a globally visible profile page containing the logo, the name, the tag, the member count and an introduction as well as a searchable list of all members (including avatar, name, handle and a <img src="../images/general/crown-text-color-2.svg" style="display:inline" width="16" height="16" alt="Crown"> crown symbol if the member is an administrator of this community) and lists of past and upcoming events. You can directly access the users (WIP) or events from these lists. See [communities](./communities "Communities") for more details.
 
 ![Community Profile Page](../images/overview/community-profile-page.webp "Community Profile Page")
 

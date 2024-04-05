@@ -76,7 +76,7 @@ On the community profile page you can search/manage members, see events and mana
 
 ### Members
 
-In the members tab you can search for members in the members list (1), grant/revoke admin rights to a member or remove a member from the community (2). Only admins can remove members or other admins. Only admins can promote members to admins. If you create a community you are automatically the first admin. Every admin has a crown symbol right next to his name. See [Roles](#roles) for more information.
+In the members tab you can search for members in the members list (1), grant/revoke admin rights to a member or remove a member from the community (2). Only admins can remove members or other admins. Only admins can promote members to admins. If you create a community you are automatically the first admin. Every admin has a <img src="../images/general/crown-text-color-2.svg" style="display:inline" width="16" height="16" alt="Crown"> crown symbol right next to his name. See [Roles](#roles) for more information.
 
 ### Roles
 
@@ -86,7 +86,7 @@ In the members tab you can search for members in the members list (1), grant/rev
 | Guest      | Guests (single users or whole communities) can join events of foreign communities if invited. Needs to be configured in event settings. |
 | Member     | Default role for all members of a community. Members can create events, join events and leave the community. |
 | Author     | If you created an event or have been invited for co-authoring then you can manage this specific event. |
-| Admin      | (Crown Symbol) Admins can delete the community, change community settings, remove members and admins from community, manage all community events, manage community invitations and grant or revoke admin rights. |
+| Admin <img src="../images/general/crown-text-color-2.svg" style="display:inline" width="16" height="16" alt="Crown"> | Admins can delete the community, change community settings, remove members and admins from community, manage all community events, manage community invitations and grant or revoke admin rights. |
 
 ### Events
 

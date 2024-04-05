@@ -27,7 +27,7 @@ Jeder Benutzer hat eine global sichtbare Profilseite, die den Avatar, den Anzeig
 
 ## Community-Profilseite
 
-Jede Community hat eine global sichtbare Profilseite, die das Logo, den Namen, das Clan-Tag, die Mitgliederanzahl und eine Vorstellung sowie eine durchsuchbare Liste aller Mitglieder (inklusive Avatar, Name, Handle und einem Kronensymbol falls das Mitglied ein Administrator dieser Community ist) und Listen der vergangenen und zukünftigen Events enthält. Du kannst direkt auf die Benutzer (WIP) oder Events über diese Listen Zugreifen. Siehe [Communities](./communities "Communities") für weitere Details.
+Jede Community hat eine global sichtbare Profilseite, die das Logo, den Namen, das Clan-Tag, die Mitgliederanzahl und eine Vorstellung sowie eine durchsuchbare Liste aller Mitglieder (inklusive Avatar, Name, Handle und einem <img src="../images/general/crown-text-color-2.svg" style="display:inline" width="16" height="16" alt="Krone"> Kronensymbol falls das Mitglied ein Administrator dieser Community ist) und Listen der vergangenen und zukünftigen Events enthält. Du kannst direkt auf die Benutzer (WIP) oder Events über diese Listen Zugreifen. Siehe [Communities](./communities "Communities") für weitere Details.
 
 ![CommunityProfilseite](../images/overview/community-profile-page.webp "CommunityProfilseite")
 
