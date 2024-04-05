@@ -10,6 +10,11 @@ export default defineConfig({
   cleanUrls: true, // without extension like .html
   lastUpdated: true,
   head: [['link', { rel: 'icon', href: '/favicon.ico' }]],
+  markdown: {
+    image: {
+      lazyLoading: true
+    }
+  },
   themeConfig: {
     search: {
       provider: 'local'
