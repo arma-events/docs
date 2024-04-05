@@ -9,7 +9,7 @@ cSpell: locale de
 
 Du kannst jederzeit deine eigene Community erstellen indem du auf das `+` Symbol neben deinem Avatar klickst und **Community erstellen** auswählst.
 
-![Community erstellen](../images/communities/create-community.png "Community erstellen")
+![Community erstellen](../images/communities/create-community.webp "Community erstellen")
 
 Eine Community erstellst du in vier einfachen Schritten. Alles, was du hier einstellst, kann später geändert werden.
 
@@ -21,22 +21,22 @@ Nun kannst du die Grundfarbe deiner Community wählen. Transparente Teile deines
 
 Der letzte Schritt ist das auswählen/bestätigen deines Community-Handle. Dieser ist eine aus max. 32 Web-freundlichen Zeichen bestehende Zeichenkette die überwiegend in URLs verwendet wird. Halte das Handle einfach und kurz. Da diese Zeichenkette einmalig sein muss, werden wir dich informieren falls sie bereits von einer anderen Community verwendet wird.
 
-![Workflow Community erstellen](../images/communities/create-community-workflow.png "Workflow Community erstellen")
+![Workflow Community erstellen](../images/communities/create-community-workflow.webp "Workflow Community erstellen")
 
 Schlussendlich wirst du auf die Profilseite deiner Community weitergeleitet. Hier kannst du alles ändern, eine Vorstellung hinzufügen und deine Community verwalten. Ein Einladungs-Link wird automatisch für dich erstellt um ihn mit deinen Community-Mitgliedern zu teilen. Siehe [Mitglieder einladen](#mitglieder-einladen) für weitere Informationen zu Mitgliedereinladungen.
 
 > [!IMPORTANT]
 > Du brauchst eine Einladung (Link) um einer Community beizutreten. Es gibt keinen anderen Weg für den Beitritt.
 
-![Gerade erstellte Community](../images/communities/fresh-community.png "Gerade erstellte Community")
+![Gerade erstellte Community](../images/communities/fresh-community.webp "Gerade erstellte Community")
 
 ## Mitglieder einladen
 
-![Überblick Einladungen](../images/communities/invites-overview.png "Überblick Einladungen")
+![Überblick Einladungen](../images/communities/invites-overview.webp "Überblick Einladungen")
 
 Spieler können deiner Community nur mit einer gültigen Einladung betreten. Eine Einladung ist ein Link, kombiniert mit einem Ablaufdatum und einer Höchstanzahl an Verwendungen. Standardmäßig ist eine Einladung für 7 Tage gültig und unbegrenzt nutzbar. Du kannst diese Einstellungen ändern durch klicken auf **Einladungs-Link bearbeiten** in dem Fenster das erscheint wenn du auf **+ Einladung erstellen** klickst.
 
-![Einladungs-Links bearbeiten](../images/communities/edit-invite-links.png "Einladungs-Links bearbeiten")
+![Einladungs-Links bearbeiten](../images/communities/edit-invite-links.webp "Einladungs-Links bearbeiten")
 
 Die verbleibende Zeit und die Anzahl der Verwendungen wird in der Einladungsübersicht angezeigt. Über das Drei-Punkte-Symbol kannst du das plattformabhängige **Teilen**-Menü öffnen, eine aktive Einladung **löschen** oder **Link kopieren** benutzen. Außerdem kannst du den Link schnell kopieren indem du auf den Einladungs-Code klickst.
 
@@ -44,7 +44,7 @@ Sende nun den erstellten Link über deine bevorzugte Methode an deine Community-
 
 Der Empfänger muss nur die URL öffnen, sich per Steam SSO einloggen und die Einladung akzeptieren.
 
-![Einladung benutzen](../images/communities/use-invite.png "Einladung benutzen")
+![Einladung benutzen](../images/communities/use-invite.webp "Einladung benutzen")
 
 ## Community löschen
 
@@ -55,24 +55,24 @@ Du kannst deine Community einfach löschen indem du in den Einstellungen deiner 
 - Einladungen für diese Community werden storniert.
 - Für diese Community reservierte Slots werden geöffnet.
 
-![Community löschen](../images/communities/delete-community.png "Community löschen")
+![Community löschen](../images/communities/delete-community.webp "Community löschen")
 
 ## Community-Einstellungen bearbeiten
 
 Du kannst über den Punkt **Communities** in deinem Avatar-Menü auf die Communities, deren Mitglied du bist, zugreifen.
 
-![Auf Communities zugreifen](../images/communities/access-communities.png "Auf Communities zugreifen")
+![Auf Communities zugreifen](../images/communities/access-communities.webp "Auf Communities zugreifen")
 
 Du wirst auf die Communities-Liste in deinem Benutzerprofil weitergeleitet. Hier kannst du die Community auswählen, die du verwalten möchtest.
 
-![Community-Liste](../images/communities/communities-list.png "Community-Liste")
+![Community-Liste](../images/communities/communities-list.webp "Community-Liste")
 
 Auf der Community-Profilseite kannst du Mitglieder suchen/verwalten, Events einsehen und deine Community verwalten.
 
 > [!IMPORTANT]
 > Du benötigst Admin-Rechte um Mitglieder, Events und die Community-Einstellungen zu verwalten.
 
-![Community verwalten](../images/communities/manage-community.png "Community verwalten")
+![Community verwalten](../images/communities/manage-community.webp "Community verwalten")
 
 ### Mitglieder
 
@@ -92,7 +92,7 @@ Im Mitglieder-Tab kannst du nach Mitgliedern in der Mitgliederliste suchen (1), 
 
 Im Events-Tab befindet sich eine Liste der vergangenen und anstehenden Community Events für den direkten Zugriff.
 
-![Community Events](../images/communities/community-events.png "Community Events")
+![Community Events](../images/communities/community-events.webp "Community Events")
 
 ### Benennung
 
@@ -102,7 +102,7 @@ Der **Handle** ist eine Zeichenkette mit 32 oder weniger web-sicheren Zeichen, d
 
 Der **Clan-Tag** deiner Community ist eine Zeichenkette mit 10 oder weniger Zeichen. Aktuell wird der Clan-Tag noch nicht verwendet aber in der Zukunft.
 
-![Community-Benennung](../images/communities/community-naming.png "Community-Benennung")
+![Community-Benennung](../images/communities/community-naming.webp "Community-Benennung")
 
 ### Vorstellung
 
@@ -112,10 +112,10 @@ Die Community-Vorstellung ist ein 280 Zeichen umfassendes Textfeld. Nutze es um 
 
 Verschiedene Bilddateiformate werden unterstützt. Du kannst in dein Bild mit dem **Scrollrad** deiner Maus hineinzoomen und dein Bild verschieben während du die **linke Maustaste** gedrückt hältst. Meist wird das Logo in einem Kreis dargestellt jedoch ist es auf der Community-Profilseite ein Quadrat. Wir speichern dein Bild mit einer Auflösung von 256x256 Pixeln. Die Verwendung von niedrig aufgelösten Bildern oder das Hineinzoomen kann zu einem verwaschenen Bild führen.
 
-![Community-Logo](../images/communities/community-logo.png "Community-Logo")
+![Community-Logo](../images/communities/community-logo.webp "Community-Logo")
 
 ### Farbe
 
 Du kannst eine Basisfarbe für deine Community festlegen. Sie kommt in verschiedenen Fällen als Hintergrundfarbe zum Tragen wie z.B. für Events ohne ein Hauptbild oder auf der Community-Profilseite. Eine angepasste Version der Hintergrundfarbe mit einem höheren Kontrast wird als Hintergrund für das Clan-Tag verwendet. Helle Farben werden dabei heller und dunkle Farben dunkler. Behalte dies im Hinterkopf und wähle eine Hintergrundfarbe die am Besten zu deinen Bedürfnissen passt.
 
-![Community-Farben](../images/communities/community-colors.png "Community-Farben")
+![Community-Farben](../images/communities/community-colors.webp "Community-Farben")

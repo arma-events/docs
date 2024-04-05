@@ -5,7 +5,7 @@ cSpell: locale de
 
 # Slotlist
 
-![Slotliste Überblick](../images/slotlist/slotlist-overview.png "Slotliste Überblick")
+![Slotliste Überblick](../images/slotlist/slotlist-overview.webp "Slotliste Überblick")
 
 Jede neue Slotliste beginnt mit einer Fraktion und einer darin enthaltenen Kompanie. Dies ist das benötige Minimum. Solang du keinen Namen für die Dummy-Fraktion oder die Dummy-Kompanie vergibst werden sie in der Slotliste versteckt. Du kannst die Dummy-Fraktion und die Dummy-Kompanie nicht verschieben. Sie sind stets die letzten Elemente. Die Dummy-Fraktion und die Dummy-Kompanie werden durch eine graue Überschrift gekennzeichnet. Alle anderen Fraktionen und Kompanien sind lösch- und verschiebbar.
 

@@ -9,7 +9,7 @@ cSpell: locale en
 
 You can create your own community at any time by pressing the `+` symbol next to your profile avatar and selecting **Create Community**.
 
-![Create Community](../images/communities/create-community.png "Create Community")
+![Create Community](../images/communities/create-community.webp "Create Community")
 
 Creating a community is done in four simple steps. Everything you setup here can be changed later.
 
@@ -21,22 +21,22 @@ Now you choose the base color of the community. Transparent parts of your logo w
 
 The last step is to setup/confirm the handle of your community. This is a max. 32 web-friendly characters long string that is mostly used in URLs. Keep the handle short and easy. Because this string needs to be unique we will tell you if it is already used by another community.
 
-![Create Community Workflow](../images/communities/create-community-workflow.png "Create Community Workflow")
+![Create Community Workflow](../images/communities/create-community-workflow.webp "Create Community Workflow")
 
 Finally, you will be redirected to the profile page of your community. Here you can change everything, add an introduction and manage your community. An invitation link is automatically created for you to share with your community members. See [Invite Members](#invite-members) for more information about member invitations.
 
 > [!IMPORTANT]
 > You need an invitation (link) to join a community. There is no other way of joining.
 
-![Fresh Community](../images/communities/fresh-community.png "Fresh Community")
+![Fresh Community](../images/communities/fresh-community.webp "Fresh Community")
 
 ## Invite Members
 
-![Invites Overview](../images/communities/invites-overview.png "Invites Overview")
+![Invites Overview](../images/communities/invites-overview.webp "Invites Overview")
 
 Players can join your community only with a valid invitation. An invitation is a link combined with an expiration time and a max number of uses. By default the invitation is valid for 7 days and with an unlimited number of uses. You can change these settings by pressing **Edit invite link** in the window that pops up when you hit the **+ Create Invite** button.
 
-![Edit Invite Links](../images/communities/edit-invite-links.png "Edit Invite Links")
+![Edit Invite Links](../images/communities/edit-invite-links.webp "Edit Invite Links")
 
 The remaining time and the number of uses is reported in the invites overview. You can open a platform dependent **Share** menu, **Delete** an active invitation or use **Copy Link** via the three dots symbol. You can also quick copy the link to your clipboard by clicking on the invite code.
 
@@ -44,7 +44,7 @@ Now send the created link to your community members via your preferred sharing m
 
 The recipient only needs to open the URL, login via Steam SSO and accept the invite.
 
-![Use Invite](../images/communities/use-invite.png "Use Invite")
+![Use Invite](../images/communities/use-invite.webp "Use Invite")
 
 ## Delete Community
 
@@ -55,24 +55,24 @@ You can simply delete your community by hitting the **Delete Community** button 
 - Invites for this community will be cancelled.
 - Slots reserved for this community will be opened.
 
-![Delete Community](../images/communities/delete-community.png "Delete Community")
+![Delete Community](../images/communities/delete-community.webp "Delete Community")
 
 ## Edit Community Settings
 
 You can access the communities you are member of by choosing **Communities** from your avatar menu.
 
-![Access Communities](../images/communities/access-communities.png "Access Communities")
+![Access Communities](../images/communities/access-communities.webp "Access Communities")
 
 You will be redirected to the communities list in your user profile. Here you can select the community you want to manage.
 
-![Communities List](../images/communities/communities-list.png "Communities List")
+![Communities List](../images/communities/communities-list.webp "Communities List")
 
 On the community profile page you can search/manage members, see events and manage your community.
 
 > [!IMPORTANT]
 > You need admin rights to manage members, events and community settings.
 
-![Manage Community](../images/communities/manage-community.png "Manage Community")
+![Manage Community](../images/communities/manage-community.webp "Manage Community")
 
 ### Members
 
@@ -92,7 +92,7 @@ In the members tab you can search for members in the members list (1), grant/rev
 
 In the events tab you get lists of your past and upcoming community events for direct access.
 
-![Community Events](../images/communities/community-events.png "Community Events")
+![Community Events](../images/communities/community-events.webp "Community Events")
 
 ### Naming
 
@@ -102,7 +102,7 @@ The **handle** is a string with 32 or less web-safe characters that has to be un
 
 The **tag** of your community is a string that is 10 or less characters long. It's currently not used but will be in the future.
 
-![Community Naming](../images/communities/community-naming.png "Community Naming")
+![Community Naming](../images/communities/community-naming.webp "Community Naming")
 
 ### Description
 
@@ -112,10 +112,10 @@ The community description is a 280 characters long text field. Use it to introdu
 
 Various image file formats are supported. You can zoom into your image with the **scroll wheel** of your mouse and move the image while holding the **left mouse button**. The logo is mostly displayed in a circle but on your community profile page it's a square. We store your image with a resolution of 256x256 pixels. Using a very low-res image or zooming in can lead to a blurry image.
 
-![Community Logo](../images/communities/community-logo.png "Community Logo")
+![Community Logo](../images/communities/community-logo.webp "Community Logo")
 
 ### Color
 
 You can define a base color for your community. It is used in various cases as a background color like for events without that have no main image or on the community profile page. A modified version of your background color with a higher text contrast is used as a background for the community tag. Light colors will get lighter and dark colors will get darker. Keep that in mind and choose a background color that fits best your needs.
 
-![Community Colors](../images/communities/community-colors.png "Community Colors")
+![Community Colors](../images/communities/community-colors.webp "Community Colors")

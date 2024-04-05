@@ -5,7 +5,7 @@ cSpell: locale en
 
 # Slotlist
 
-![Slotlist Overview](../images/slotlist/slotlist-overview.png "Slotlist Overview")
+![Slotlist Overview](../images/slotlist/slotlist-overview.webp "Slotlist Overview")
 
 Every new slotlist starts with a faction and a company in it. This is the required minimum. As long as you do not set the name of the dummy faction and the dummy company they will be hidden in the slotlist. You can't delete the dummy faction and the dummy company or move them around. They are always the last items. The dummy faction and the dummy company are indicated by a grey heading. All other factions and companies are deletable and moveable.
 

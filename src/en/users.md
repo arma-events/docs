@@ -13,11 +13,11 @@ It is very likely that every player that wants to use our platform has a Steam a
 
 It takes only three simple assistant-driven steps to create an **arma.events** user account. First, login with your existing Steam account. You will be redirected automatically to Steam and back within this process. Second, confirm or change your display name. Third, choose your avatar or leave it blank.
 
-![Create Account](../images/users/create-account.png "Create Account")
+![Create Account](../images/users/create-account.webp "Create Account")
 
 That's it. You are now successfully logged into **arma.events** with your Steam account. You can change everything later in your profile settings. Now you can create your own community or ask your community manager to send you an invite to your community. As a member of a community you can join the events of that community. See [Communities](./communities "Communities") for more information.
 
-![User Profile](../images/users/user-profile.png "User Profile")
+![User Profile](../images/users/user-profile.webp "User Profile")
 
 ## Delete User Account
 
@@ -29,7 +29,7 @@ That's it. You are now successfully logged into **arma.events** with your Steam 
 
 Various image file formats are supported. You can zoom into your image with the **scroll wheel** of your mouse and move the image while holding the **left mouse button**. The avatar is always displayed in a circle. We store your image with a resolution of 256x256 pixels. Using a very low-res image or zooming in can lead to a blurry image.
 
-![Avatar](../images/users/avatar.png "Avatar")
+![Avatar](../images/users/avatar.webp "Avatar")
 
 ### Naming
 
@@ -39,7 +39,7 @@ Set your **display name** to any string that is less or equal 50 unicode charact
 
 The **handle** is a string with 32 or less web-safe characters that has to be unique on our platform. The availability of the handle is checked every time you try to change it. The handle is mostly used in URLs. In all other cases the display name is shown.
 
-![Naming](../images/users/naming.png "Naming")
+![Naming](../images/users/naming.webp "Naming")
 
 ### Communities
 
@@ -47,13 +47,13 @@ Your user profile contains a list of all communities you are a member of. You ca
 
 Keep in mind that the community will be deleted if you are the only/last member. If there are other members but you are the only administrator of this community then you need to transfer your admin rights to another member before deletion. See [communities](./communities "Communities") for more information about community management.
 
-![Sessions](../images/users/user-profile-communities-overview.png "Sessions")
+![Sessions](../images/users/user-profile-communities-overview.webp "Sessions")
 
 ### Sessions
 
 Session management is a security feature. It lists every active browser session on your devices. Feel free to close/revoke all sessions you no longer need or all sessions at once. A revoked session means that you need to login again on that specific device/browser combination.
 
-![Sessions](../images/users/sessions.png "Sessions")
+![Sessions](../images/users/sessions.webp "Sessions")
 
 ### Games and DLCs
 
@@ -61,4 +61,4 @@ In your profile you can setup which games you own. Currently supported are **Arm
 
 Your owned DLCs will be matched against the DLC requirements that a mission creator has defined for a specific event. In case of a missing DLC you will get a warning.
 
-![Games and DLCs](../images/users/games-and-dlcs.png "Games and DLCs")
+![Games and DLCs](../images/users/games-and-dlcs.webp "Games and DLCs")
