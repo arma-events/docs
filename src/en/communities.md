@@ -40,7 +40,7 @@ Players can join your community only with a valid invitation. An invitation is a
 
 The remaining time and the number of uses is reported in the invites overview. You can open a platform dependent **Share** menu, **Delete** an active invitation or use **Copy Link** via the three dots symbol. You can also quick copy the link to your clipboard by clicking on the invite code.
 
-Now send the created link to your community members via your preferred sharing method. The format of invitation links is always `https://arma.events/[INVITE-CODE]` like for example `https://arma.events/1YOtETcO`
+Now send the created link to your community members via your preferred sharing method. The format of invitation links is always `https://arma.events/i/[INVITE-CODE]` like for example `https://arma.events/i/1YOtETcO`
 
 The recipient only needs to open the URL, login via Steam SSO and accept the invite.
 

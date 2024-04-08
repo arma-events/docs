@@ -40,7 +40,7 @@ Spieler können deiner Community nur mit einer gültigen Einladung betreten. Ein
 
 Die verbleibende Zeit und die Anzahl der Verwendungen wird in der Einladungsübersicht angezeigt. Über das Drei-Punkte-Symbol kannst du das plattformabhängige **Teilen**-Menü öffnen, eine aktive Einladung **löschen** oder **Link kopieren** benutzen. Außerdem kannst du den Link schnell kopieren indem du auf den Einladungs-Code klickst.
 
-Sende nun den erstellten Link über deine bevorzugte Methode an deine Community-Mitglieder. Das Format eines Einladungslinks ist stets `https://arma.events/[EINLADUNGS-CODE]` also z.B. `https://arma.events/1YOtETcO`
+Sende nun den erstellten Link über deine bevorzugte Methode an deine Community-Mitglieder. Das Format eines Einladungslinks ist stets `https://arma.events/i/[EINLADUNGS-CODE]` also z.B. `https://arma.events/i/1YOtETcO`
 
 Der Empfänger muss nur die URL öffnen, sich per Steam SSO einloggen und die Einladung akzeptieren.
 
