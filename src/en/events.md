@@ -17,6 +17,9 @@ First select the game that is played in the event. Currently supported is **Arma
 
 Next select the community for the event. You get a list of all communities you are member of to choose from.
 
+> [!IMPORTANT]
+> Every event is linked to an existing community. You can't create events without that connection. If you are not part of any community then create your own community first.
+
 Now choose an event title or generate a title randomly by pressing the dice icon.
 
 > [!CAUTION]

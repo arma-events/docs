@@ -17,6 +17,9 @@ Wähle zuerst das Spiel aus, das in dem Event gespielt wird. Aktuell werden **Ar
 
 Wähle als nächstes die Community für dein Event. Du kannst aus einer Liste aller Communities wählen deren Mitglied du bist.
 
+> [!IMPORTANT]
+> Jedes Event is mit einer existierenden Community verbunden. Du kannst keine Events ohne diese Verbindung erstellen. Wenn du nicht Teil einer Community bist dann erstelle dir zuerst eine Eigene.
+
 Nun wähle einen Event-Titel oder generiere einen Zufallstitel durch klicken auf das Würfel-Symbol.
 
 > [!CAUTION]
