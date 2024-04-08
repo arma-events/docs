@@ -83,7 +83,7 @@ Im Mitglieder-Tab kannst du nach Mitgliedern in der Mitgliederliste suchen (1), 
 | Rolle       | Beschreibung |
 | -----       | ------------ |
 | Jedermann   | Standardrolle für alle **arma-events** Benutzer. Jeder kann deine Community- und Benutzer-Profilseiten sowie alle öffentlich einsehbaren Events sehen. |
-| Gast        | Gäste (einzelne Benutzer oder ganze Communities) können Events fremder Communities per Einladung Events beitreten. Muss in den Event-Einstellungen festgelegt werden. |
+| Gast        | Gäste (einzelne Benutzer oder ganze Communities) können Events fremder Communities Events beitreten. Muss in den Event-Einstellungen festgelegt werden. Gäste sehen diese Events auf der Startseite unter **Meine Events**. |
 | Mitglied    | Standardrolle für alle Mitglieder einer Community. Mitglieder können Events erstellen, Events beitreten und die Community verlassen. |
 | Autor       | Wenn du ein Event erstellt hast, order als Co-Autor eingeladen wurdest dann kannst du dieses bestimmte Event verwalten. |
 | Admin <img src="../images/general/crown-text-color-2.svg" style="display:inline" width="16" height="16" alt="Krone"> | Admins können die Community löschen, die Community-Einstellungen ändern, Mitglieder und Admins entfernen aus der Community entfernen, alle Community-Events verwalten, Community-Einladungen verwalten und Admin-Rechte gewähren oder zurückziehen. |

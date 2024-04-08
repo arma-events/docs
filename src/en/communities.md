@@ -83,7 +83,7 @@ In the members tab you can search for members in the members list (1), grant/rev
 | Role       | Description |
 | ----       | ----------  |
 | Everybody  | Default role for all **arma-events** users. Everybody can see your community or user profile page and all your publicly visible events. |
-| Guest      | Guests (single users or whole communities) can join events of foreign communities if invited. Needs to be configured in event settings. |
+| Guest      | Guests (single users or whole communities) can join events of foreign communities. Needs to be configured in event settings. Guests see these events on the landing page under **My Events**. |
 | Member     | Default role for all members of a community. Members can create events, join events and leave the community. |
 | Author     | If you created an event or have been invited for co-authoring then you can manage this specific event. |
 | Admin <img src="../images/general/crown-text-color-2.svg" style="display:inline" width="16" height="16" alt="Crown"> | Admins can delete the community, change community settings, remove members and admins from community, manage all community events, manage community invitations and grant or revoke admin rights. |
