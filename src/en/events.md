@@ -1,6 +1,5 @@
 ---
 outline: deep
-cSpell: locale en
 ---
 
 # Events
@@ -39,21 +38,21 @@ Save your changes by pressing the **Save Draft** button and see your changes in 
 
 ### Event Details
 
-Your given **event name** (1) was used in the event creation process to create an **event handle** (2) that is restricted to min. 5 and max. 32 web-friendly characters. Both can be changed but the event handle needs to be unique. You will get a feedback if the chosen name is available every time you try to change it.
+Your given **event name** was used in the event creation process to create an **event handle** that is restricted to min. 5 and max. 32 web-friendly characters. Both can be changed but the event handle needs to be unique. You will get a feedback if the chosen name is available every time you try to change it.
 
-The **summary** (3) is a max. 280 unicode characters long description of your event. It's used in overviews but not in the detailed view of your event.
+The **summary** is a max. 280 unicode characters long description of your event. It's used in overviews but not in the detailed view of your event.
 
-Every event can have one or more **authors** (4). Only authors and admins can change/manage the event settings. Add more authors by pressing the `+` button or remove existing authors including yourself by hovering with the mouse over the avatar image of an author and pressing the trash can icon.
+Every event can have one or more **authors**. Only authors and admins can change/manage the event settings. Add more authors by pressing the `+` button or remove existing authors including yourself by hovering with the mouse over the avatar image of an author and pressing the trash can icon.
 
-By default only members of your community can join your event but you can allow/invite more **communities** (5) by clicking on the communities fold-out menu and hitting the **Add Community** button. You will get a search field to search for the community you want to invite. Guest community members can join your events like your origin community members.
+By default only members of your community can join your event but you can allow/invite more **communities** by clicking on the communities fold-out menu and hitting the **Add Community** button. You will get a search field to search for the community you want to invite. Guest community members can join your events like your origin community members.
 
-If the chosen game supports DLCs like for example Arma 3 then you can set some or all of them as required for this event by clicking on the **required DLCs** (6) fold-out menu. Only DLCs that need to be purchased will be listed here. For example the Arma 3 Zeus DLC is not listed here because it's free.
+If the chosen game supports DLCs like for example Arma 3 then you can set some or all of them as required for this event by clicking on the **required DLCs** fold-out menu. Only DLCs that need to be purchased will be listed here. For example the Arma 3 Zeus DLC is not listed here because it's free.
 
-The **date & time** (7) your event starts can be changed in the according fold-out menu. Choose a date that is in the future.
+The **date & time** your event starts can be changed in the according fold-out menu. Choose a date that is in the future.
 
-It's a good choice to add a teaser **image** (8). If you leave the image blank then the space is filled with the custom background color of your community.
+It's a good choice to add a teaser **image**. If you leave the image blank then the space is filled with the custom background color of your community.
 
-You can also add **tags** (9) to organize your event. In the future tags will be used as quick search terms.
+You can also add **tags** to organize your event. In the future tags will be used as quick search terms.
 
 ![Event Details](../images/events/event-details.webp "Event Details")
 
@@ -63,7 +62,7 @@ The Block Editor finally allows you to create your event briefing or any kind of
 
 Create text blocks and image blocks by pressing the corresponding buttons **Add Text** and **Add Image**. The buttons are only visible before creating your first block. Later these buttons appear if you hover with your Mouse over the the top or bottom area of an existing block. You can create as much blocks as you want. Use the four dots symbol to move the blocks around and change their order.
 
-![Block Editor Order](../videos/events/block-editor-order.gif "Block Editor Order")
+<video controls autoplay muted><source src="../videos/events/block-editor-order.webm" type="video/webm">Your browser does not support the video tag.</video>
 
 For every block you can decide to collapse or expand it by default. That way you can hide more detailed information and only show the most significant blocks. The user can expand or collapse every block while reading through the event documentation.
 
@@ -88,7 +87,7 @@ Image blocks allow you to embed one or more images. You can setup an image title
 
 You can change the order of your images inside the image block.
 
-![Image Block Order](../videos/events/image-block-order.gif "Image Block Order")
+<video controls autoplay muted><source src="../videos/events/image-block-order.webm" type="video/webm">Your browser does not support the video tag.</video>
 
 ## Manage Slotlist
 

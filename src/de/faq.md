@@ -1,13 +1,12 @@
 ---
 outline: deep
-cSpell: locale de
 ---
 
 # Häufig gestellte Fragen (FAQ)
 
 ## Welche Features habt ihr bereits geplant?
 
-Du findest eine Liste aller geplanten Dinge, zu deren Umsetzung wir noch nicht gekommen sind, auf unserer [roadmap](./roadmap "Roadmap").
+Du findest eine Liste aller geplanten Dinge, zu deren Umsetzung wir noch nicht gekommen sind, auf unserer [Roadmap](./roadmap "Roadmap").
 
 ## Wird es einen dunklen Modus geben?
 

@@ -1,6 +1,5 @@
 ---
 outline: deep
-cSpell: locale en
 ---
 
 # Overview
@@ -11,11 +10,11 @@ Our global search bar is accessible on every page on the very top. There you can
 
 ![Global Search Bar](../images/overview/global-search-bar.webp "Global Search Bar")
 
-While typing you get quick search results. You can **filter** (1) the results directly, access the **results** (2) or go to the **full results page** (3).
+While typing you get quick search results. You can **filter** the results directly, access the **results** or go to the **full results page**.
 
 ![Quick Search Results](../images/overview/quick-search-results.webp "Quick Search Results")
 
-The full search results page gives you access to **all search results** (2) and also allows you to **filter** (1) the results for events, communities or users. These results have a more detailed preview then the quick search results. Click on a result to jump directly to the corresponding page.
+The full search results page gives you access to **all search results** and also allows you to **filter** the results for events, communities or users. These results have a more detailed preview then the quick search results. Click on a result to jump directly to the corresponding page.
 
 ![Full Search Results](../images/overview/full-search-results.webp "Full Search Results")
 

@@ -2,97 +2,105 @@
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg width="100%" height="100%" viewBox="0 0 1920 1080" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
     <rect x="0" y="0" width="1920" height="1080" style="fill:rgb(221,219,197);"/>
-    <g id="Screenshot-2024-03-18-143152.png" serif:id="Screenshot 2024-03-18 143152.png" transform="matrix(0.878904,0,0,0.878904,307.34,80.1168)">
+    <g id="Screenshot-2024-03-18-143152.png" serif:id="Screenshot 2024-03-18 143152.png" transform="matrix(0.878904,0,0,0.878904,307.34,126.117)">
         <use xlink:href="#_Image1" x="0" y="0" width="1180px" height="643px"/>
     </g>
-    <g transform="matrix(0.373486,0,0,0.373486,1329.7,-11.6715)">
-        <circle cx="255" cy="674" r="45" style="fill:none;stroke:rgb(255,0,0);stroke-width:6.04px;"/>
-        <g transform="matrix(7.43669,0,0,7.43669,-1481.9,-4280.93)">
-            <text x="230.163px" y="670.266px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:12px;fill:rgb(255,0,0);">3</text>
+    <g>
+        <g id="Line" transform="matrix(-1,1.22465e-16,-1.22465e-16,-1,901.246,1231.2)">
+            <g transform="matrix(-2.78329e-17,0.454545,0.454545,2.78329e-17,431.636,323.036)">
+                <circle cx="1414" cy="267" r="11"/>
+            </g>
+            <g transform="matrix(0.952039,8.55758e-17,1.49967e-16,0.644118,-816.814,818.904)">
+                <path d="M1438.82,228L1598.74,228" style="fill:none;stroke:black;stroke-width:2.46px;"/>
+            </g>
         </g>
-        <g transform="matrix(7.43669,0,0,7.43669,-1375.63,-4280.93)">
-            <text x="230.163px" y="670.266px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:12px;fill:rgb(255,0,0);">Options (Delete Block)</text>
+        <g id="Line1" serif:id="Line" transform="matrix(6.12323e-17,-1,1,6.12323e-17,-147.763,709.5)">
+            <g transform="matrix(-2.78329e-17,0.454545,0.454545,2.78329e-17,431.636,323.036)">
+                <circle cx="1414" cy="267" r="11"/>
+            </g>
+            <g transform="matrix(0.451605,1.42753e-17,1.34284e-17,0.644118,-96.7794,818.904)">
+                <path d="M1438.82,228L1598.74,228" style="fill:none;stroke:black;stroke-width:3.6px;"/>
+            </g>
         </g>
-    </g>
-    <g transform="matrix(0.373486,0,0,0.373486,1329.7,-60.2817)">
-        <circle cx="255" cy="674" r="45" style="fill:none;stroke:rgb(255,0,0);stroke-width:6.04px;"/>
-        <g transform="matrix(7.43669,0,0,7.43669,-1481.9,-4280.93)">
-            <text x="230.163px" y="670.266px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:12px;fill:rgb(255,0,0);">2</text>
+        <g id="Line2" serif:id="Line" transform="matrix(6.12323e-17,-1,1,6.12323e-17,-585.516,723.781)">
+            <g transform="matrix(-2.78329e-17,0.454545,0.454545,2.78329e-17,431.636,323.036)">
+                <circle cx="1414" cy="267" r="11"/>
+            </g>
+            <g transform="matrix(0.540911,8.80681e-18,8.28438e-18,0.644118,-225.275,818.904)">
+                <path d="M1438.82,228L1598.74,228" style="fill:none;stroke:black;stroke-width:3.36px;"/>
+            </g>
         </g>
-        <g transform="matrix(7.43669,0,0,7.43669,-1375.63,-4280.93)">
-            <text x="230.163px" y="670.266px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:12px;fill:rgb(255,0,0);">Expand/Collapse</text>
+        <g id="Line3" serif:id="Line" transform="matrix(6.12323e-17,-1,1,6.12323e-17,280.124,725.5)">
+            <g transform="matrix(-2.78329e-17,0.454545,0.454545,2.78329e-17,431.636,323.036)">
+                <circle cx="1414" cy="267" r="11"/>
+            </g>
+            <g transform="matrix(0.609698,4.59486e-18,4.32228e-18,0.644118,-324.247,818.904)">
+                <path d="M1438.82,228L1598.74,228" style="fill:none;stroke:black;stroke-width:3.19px;"/>
+            </g>
         </g>
-    </g>
-    <g transform="matrix(0.373486,0,0,0.373486,1329.7,-108.644)">
-        <circle cx="255" cy="674" r="45" style="fill:none;stroke:rgb(255,0,0);stroke-width:6.04px;"/>
-        <g transform="matrix(7.43669,0,0,7.43669,-1481.9,-4278.49)">
-            <text x="230.163px" y="670.266px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:12px;fill:rgb(255,0,0);">1</text>
+        <g id="Line4" serif:id="Line" transform="matrix(1,-2.44929e-16,2.44929e-16,1,711.001,-360.323)">
+            <g transform="matrix(-2.78329e-17,0.454545,0.454545,2.78329e-17,431.636,323.036)">
+                <circle cx="1414" cy="267" r="11"/>
+            </g>
+            <g transform="matrix(1.2444,1.08172e-16,2.13953e-16,0.644118,-1237.47,818.904)">
+                <path d="M1438.82,228L1598.74,228" style="fill:none;stroke:black;stroke-width:2.02px;"/>
+            </g>
         </g>
-        <g transform="matrix(7.43669,0,0,7.43669,-1374.87,-4278.49)">
-            <text x="230.163px" y="670.266px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:12px;fill:rgb(255,0,0);">Change Block Order</text>
+        <g id="Line5" serif:id="Line" transform="matrix(1,-2.44929e-16,2.44929e-16,1,675.001,-491.511)">
+            <g transform="matrix(-2.78329e-17,0.454545,0.454545,2.78329e-17,431.636,323.036)">
+                <circle cx="1414" cy="267" r="11"/>
+            </g>
+            <g transform="matrix(1.2444,1.08172e-16,2.13953e-16,0.644118,-1237.47,818.904)">
+                <path d="M1438.82,228L1598.74,228" style="fill:none;stroke:black;stroke-width:2.02px;"/>
+            </g>
         </g>
-    </g>
-    <g transform="matrix(0.373486,0,0,0.373486,1329.7,134.745)">
-        <circle cx="255" cy="674" r="45" style="fill:none;stroke:rgb(255,0,0);stroke-width:6.04px;"/>
-        <g transform="matrix(7.43669,0,0,7.43669,-1481.9,-4280.93)">
-            <text x="230.163px" y="670.266px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:12px;fill:rgb(255,0,0);">6</text>
+        <g id="Label" transform="matrix(1.59441,0,0,1.63636,-1803.54,-14.1818)">
+            <g transform="matrix(0.510714,0,0,0.532258,661.139,24.6935)">
+                <path d="M1527,56C1527,38.891 1512.14,25 1493.84,25L1280.16,25C1261.86,25 1247,38.891 1247,56C1247,73.109 1261.86,87 1280.16,87L1493.84,87C1512.14,87 1527,73.109 1527,56Z"/>
+            </g>
+            <g transform="matrix(0.627193,0,0,0.611111,482.649,23.9444)">
+                <text x="1314.56px" y="58.544px" style="font-family:'SourceSansPro-Regular', 'Source Sans Pro', sans-serif;font-size:24px;fill:white;">Chang<tspan x="1378.3px " y="58.544px ">e</tspan> Block Or<tspan x="1479.89px " y="58.544px ">d</tspan>er</text>
+            </g>
         </g>
-        <g transform="matrix(7.43669,0,0,7.43669,-1375.63,-4280.93)">
-            <text x="230.163px" y="670.266px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:12px;fill:rgb(255,0,0);">Resize <tspan x="269.96px 275.96px 282.634px " y="670.266px 670.266px 670.266px ">Tex</tspan>t Block</text>
+        <g id="Label1" serif:id="Label" transform="matrix(0.937063,0,0,1.63636,-1084.31,176.258)">
+            <g transform="matrix(0.510714,0,0,0.532258,661.139,24.6935)">
+                <path d="M1527,56C1527,38.891 1501.72,25 1470.58,25L1303.42,25C1272.28,25 1247,38.891 1247,56C1247,73.109 1272.28,87 1303.42,87L1470.58,87C1501.72,87 1527,73.109 1527,56Z"/>
+            </g>
+            <g transform="matrix(1.06716,0,0,0.611111,-89.3134,23.9444)">
+                <text x="1314.12px" y="58.544px" style="font-family:'SourceSansPro-Regular', 'Source Sans Pro', sans-serif;font-size:24px;fill:white;">Block Title</text>
+            </g>
         </g>
-    </g>
-    <g transform="matrix(0.373486,0,0,0.373486,1329.7,85.9395)">
-        <circle cx="255" cy="674" r="45" style="fill:none;stroke:rgb(255,0,0);stroke-width:6.04px;"/>
-        <g transform="matrix(7.43669,0,0,7.43669,-1481.9,-4280.93)">
-            <text x="230.163px" y="670.266px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:12px;fill:rgb(255,0,0);">5</text>
+        <g id="Label2" serif:id="Label" transform="matrix(2.07377,0,0,1.63636,-1318.75,385.07)">
+            <g transform="matrix(0.510714,0,0,0.532258,661.139,24.6935)">
+                <path d="M1527,56C1527,38.891 1515.58,25 1501.51,25L1272.49,25C1258.42,25 1247,38.891 1247,56C1247,73.109 1258.42,87 1272.49,87L1501.51,87C1515.58,87 1527,73.109 1527,56Z"/>
+            </g>
+            <g transform="matrix(0.482214,0,0,0.611111,671.122,23.9444)">
+                <text x="1321.64px" y="58.544px" style="font-family:'SourceSansPro-Regular', 'Source Sans Pro', sans-serif;font-size:24px;fill:white;">T<tspan x="1332.92px 1344.65px 1354.78px " y="58.544px 58.544px 58.544px ">ext</tspan> (Mark<tspan x="1424.29px " y="58.544px ">d</tspan>own Support)</text>
+            </g>
         </g>
-        <g transform="matrix(7.43669,0,0,7.43669,-1375.63,-4280.93)">
-            <text x="230.163px" y="670.266px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:12px;fill:rgb(255,0,0);">T<tspan x="236.163px 242.837px " y="670.266px 670.266px ">ex</tspan>t (Markdown Support)</text>
+        <g id="Label3" serif:id="Label" transform="matrix(1.37063,0,0,1.63636,-1059.08,-14.1818)">
+            <g transform="matrix(0.510714,0,0,0.532258,661.139,24.6935)">
+                <path d="M1527,56C1527,38.891 1509.72,25 1488.43,25L1285.57,25C1264.28,25 1247,38.891 1247,56C1247,73.109 1264.28,87 1285.57,87L1488.43,87C1509.72,87 1527,73.109 1527,56Z"/>
+            </g>
+            <g transform="matrix(0.729592,0,0,0.611111,349.531,23.9444)">
+                <text x="1313.69px" y="58.544px" style="font-family:'SourceSansPro-Regular', 'Source Sans Pro', sans-serif;font-size:24px;fill:white;">E<tspan x="1325.59px 1336.3px 1349.28px " y="58.544px 58.544px 58.544px ">xpa</tspan>nd/<tspan x="1395.98px " y="58.544px ">C</tspan>ollapse</text>
+            </g>
         </g>
-    </g>
-    <g transform="matrix(0.373486,0,0,0.373486,1329.7,37.7725)">
-        <circle cx="255" cy="674" r="45" style="fill:none;stroke:rgb(255,0,0);stroke-width:6.04px;"/>
-        <g transform="matrix(7.43669,0,0,7.43669,-1481.9,-4278.49)">
-            <text x="230.163px" y="670.266px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:12px;fill:rgb(255,0,0);">4</text>
+        <g id="Label4" serif:id="Label" transform="matrix(1.76284,0,0,1.63636,-1168.32,-14.1818)">
+            <g transform="matrix(0.510714,0,0,0.532258,661.139,24.6935)">
+                <path d="M1527,56C1527,38.891 1513.56,25 1497.01,25L1276.99,25C1260.44,25 1247,38.891 1247,56C1247,73.109 1260.44,87 1276.99,87L1497.01,87C1513.56,87 1527,73.109 1527,56Z"/>
+            </g>
+            <g transform="matrix(0.567268,0,0,0.611111,560.552,23.9444)">
+                <text x="1314.35px" y="58.544px" style="font-family:'SourceSansPro-Regular', 'Source Sans Pro', sans-serif;font-size:24px;fill:white;">Op<tspan x="1343.19px " y="58.544px ">t</tspan>ions (Dele<tspan x="1449.92px 1457.7px " y="58.544px 58.544px ">te</tspan> Block)</text>
+            </g>
         </g>
-        <g transform="matrix(7.43669,0,0,7.43669,-1374.87,-4278.49)">
-            <text x="230.163px" y="670.266px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:12px;fill:rgb(255,0,0);">Block <tspan x="262.624px 269.509px 272.175px " y="670.266px 670.266px 670.266px ">Tit</tspan>le</text>
-        </g>
-    </g>
-    <g transform="matrix(0.373486,0,0,0.373486,1249.21,305.077)">
-        <circle cx="255" cy="674" r="45" style="fill:none;stroke:rgb(255,0,0);stroke-width:6.04px;"/>
-        <g transform="matrix(7.43669,0,0,7.43669,-1481.9,-4280.93)">
-            <text x="230.163px" y="670.266px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:12px;fill:rgb(255,0,0);">6</text>
-        </g>
-    </g>
-    <g transform="matrix(0.373486,0,0,0.373486,282.568,-185.644)">
-        <circle cx="255" cy="674" r="45" style="fill:none;stroke:rgb(255,0,0);stroke-width:6.04px;"/>
-        <g transform="matrix(7.43669,0,0,7.43669,-1481.9,-4278.49)">
-            <text x="230.163px" y="670.266px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:12px;fill:rgb(255,0,0);">1</text>
-        </g>
-    </g>
-    <g transform="matrix(0.373486,0,0,0.373486,1150.57,-185.644)">
-        <circle cx="255" cy="674" r="45" style="fill:none;stroke:rgb(255,0,0);stroke-width:6.04px;"/>
-        <g transform="matrix(7.43669,0,0,7.43669,-1481.9,-4280.93)">
-            <text x="230.163px" y="670.266px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:12px;fill:rgb(255,0,0);">3</text>
-        </g>
-    </g>
-    <g transform="matrix(0.373486,0,0,0.373486,715.37,-185.644)">
-        <circle cx="255" cy="674" r="45" style="fill:none;stroke:rgb(255,0,0);stroke-width:6.04px;"/>
-        <g transform="matrix(7.43669,0,0,7.43669,-1481.9,-4280.93)">
-            <text x="230.163px" y="670.266px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:12px;fill:rgb(255,0,0);">2</text>
-        </g>
-    </g>
-    <g transform="matrix(0.373486,0,0,0.373486,208.529,-36.2893)">
-        <circle cx="255" cy="674" r="45" style="fill:none;stroke:rgb(255,0,0);stroke-width:6.04px;"/>
-        <g transform="matrix(7.43669,0,0,7.43669,-1481.9,-4280.93)">
-            <text x="230.163px" y="670.266px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:12px;fill:rgb(255,0,0);">4</text>
-        </g>
-    </g>
-    <g transform="matrix(0.373486,0,0,0.373486,207.774,50.141)">
-        <circle cx="255" cy="674" r="45" style="fill:none;stroke:rgb(255,0,0);stroke-width:6.04px;"/>
-        <g transform="matrix(7.43669,0,0,7.43669,-1481.9,-4280.93)">
-            <text x="230.163px" y="670.266px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:12px;fill:rgb(255,0,0);">5</text>
+        <g id="Label5" serif:id="Label" transform="matrix(1.38845,0,0,1.63636,-429.214,516.258)">
+            <g transform="matrix(0.510714,0,0,0.532258,661.139,24.6935)">
+                <path d="M1527,56C1527,38.891 1509.94,25 1488.92,25L1285.08,25C1264.06,25 1247,38.891 1247,56C1247,73.109 1264.06,87 1285.08,87L1488.92,87C1509.94,87 1527,73.109 1527,56Z"/>
+            </g>
+            <g transform="matrix(0.720225,0,0,0.611111,361.707,23.9444)">
+                <text x="1314.24px" y="58.544px" style="font-family:'SourceSansPro-Regular', 'Source Sans Pro', sans-serif;font-size:24px;fill:white;">R<tspan x="1327.66px " y="58.544px ">e</tspan>siz<tspan x="1365.48px " y="58.544px ">e</tspan> T<tspan x="1393.47px 1405.2px 1415.33px " y="58.544px 58.544px 58.544px ">ext</tspan> Block</text>
+            </g>
         </g>
     </g>
     <defs>

@@ -1,6 +1,5 @@
 ---
 outline: deep
-cSpell: locale de
 ---
 
 # Überblick
@@ -11,11 +10,11 @@ Auf unsere globale Suchleiste kann auf jeder Seite ganz oben zugegriffen werden.
 
 ![Globale Suchleiste](../images/overview/global-search-bar.webp "Globale Suchleiste")
 
-Während des Tippens erhältst du schnelle Suchergebnisse. Du kannst diese Ergebnisse direkt **filtern** (1), auf die **Ergebnisse** (2) zugreifen oder dir die **vollständige Suchergebnisseite** (3) anzeigen lassen.
+Während des Tippens erhältst du schnelle Suchergebnisse. Du kannst diese Ergebnisse direkt **filtern**, auf die **Ergebnisse** zugreifen oder dir die **vollständige Suchergebnisseite** anzeigen lassen.
 
 ![Schnelle Suchergebnisse](../images/overview/quick-search-results.webp "Schnelle Suchergebnisse")
 
-Die vollständige Suchergebnisseite erlaubt dir Zugriff auf **alle Suchergebnisse** (2) und erlaubt dir zudem die **Filterung** (1) der Ergebnisse für Events, Communities und Benutzer. Diese Ergebnisse haben eine detailliertere Vorschau als die schnellen Suchergebnisse. Klicke auf ein Suchergebnis um direkt zur entsprechenden Seite zu gelangen.
+Die vollständige Suchergebnisseite erlaubt dir Zugriff auf **alle Suchergebnisse** und erlaubt dir zudem die **Filterung** der Ergebnisse für Events, Communities und Benutzer. Diese Ergebnisse haben eine detailliertere Vorschau als die schnellen Suchergebnisse. Klicke auf ein Suchergebnis um direkt zur entsprechenden Seite zu gelangen.
 
 ![Vollständige Suchergebnisse](../images/overview/full-search-results.webp "Vollständige Suchergebnisse")
 
@@ -33,6 +32,6 @@ Jede Community hat eine global sichtbare Profilseite, die das Logo, den Namen, d
 
 ## Event-Seiten
 
-Jedes Event, falls es nicht auf privat gesetzt wurde, hat eine global sichtbare Profilseite, die den Namen, das Teaser-Bild, Startdatum und Uhrzeit, die gastgebende Community und Gast-Communities, eine Liste der Autoren, das Spiel und die benötigten DLCs, Tags, die Slotliste (WIP) und möglicherweise mehrere Text- und Bildboxen enthält, die das Event-Briefing darstellen. Siehe [events](./events "Events") für weitere Details.
+Jedes Event, falls es nicht auf privat gesetzt wurde, hat eine global sichtbare Profilseite, die den Namen, das Teaser-Bild, Startdatum und Uhrzeit, die gastgebende Community und Gast-Communities, eine Liste der Autoren, das Spiel und die benötigten DLCs, Tags, die Slotliste (WIP) und möglicherweise mehrere Text- und Bildboxen enthält, die das Event-Briefing darstellen. Siehe [Events](./events "Events") für weitere Details.
 
 ![Event-Seite](../images/overview/event-profile-page.webp "Event-Seite")

@@ -1,6 +1,5 @@
 ---
 outline: deep
-cSpell: locale en
 ---
 
 # Markdown
@@ -37,7 +36,7 @@ With the #-based syntax you can create up to 4 headline hierarchies. With `=====
 
 ![Text Attributes](../images/markdown/text-attributes.webp "Text Attributes")
 
-![Text Attributes - Alternative  Syntax](../images/markdown/alt-text-attributes.webp "Text Attributes - Alternative Syntax")
+![Text Attributes - Alternative Syntax](../images/markdown/alt-text-attributes.webp "Text Attributes - Alternative Syntax")
 
 ## Horizontal Rule
 

@@ -1,6 +1,5 @@
 ---
 outline: deep
-cSpell: locale en
 ---
 
 # Communities
@@ -76,7 +75,7 @@ On the community profile page you can search/manage members, see events and mana
 
 ### Members
 
-In the members tab you can search for members in the members list (1), grant/revoke admin rights to a member or remove a member from the community (2). Only admins can remove members or other admins. Only admins can promote members to admins. If you create a community you are automatically the first admin. Every admin has a <img src="../images/general/crown-text-color-2.svg" style="display:inline" width="16" height="16" alt="Crown"> crown symbol right next to his name. See [Roles](#roles) for more information.
+In the members tab you can search for members in the members list, grant/revoke admin rights to a member or remove a member from the community. Only admins can remove members or other admins. Only admins can promote members to admins. If you create a community you are automatically the first admin. Every admin has a <img src="../images/general/crown-text-color-2.svg" style="display:inline" width="16" height="16" alt="Crown"> crown symbol right next to his name. See [Roles](#roles) for more information.
 
 ### Roles
 

@@ -1,6 +1,5 @@
 ---
 outline: deep
-cSpell: locale de
 ---
 
 # Markdown
@@ -37,7 +36,7 @@ Mit der #-basierenden Schreibweise kannst du bis zu 4 Abstufungen für Überschr
 
 ![Textauszeichnungen](../images/markdown/text-attributes.webp "Textauszeichnungen")
 
-![Textauszeichnungen - Alternative  Schreibweise](../images/markdown/alt-text-attributes.webp "Textauszeichnungen - Alternative Schreibweise")
+![Textauszeichnungen - Alternative Schreibweise](../images/markdown/alt-text-attributes.webp "Textauszeichnungen - Alternative Schreibweise")
 
 ## Horizontale Linie
 
@@ -47,7 +46,7 @@ Mit drei Strichen `---` kannst du eine horizontale Linie erzeugen. Um Formatieru
 
 ## Unsortierte Listen
 
-Füge zwei Leerzeichen vor deinem Listenelement ein um es einzurücken. Du kannst  `-`,`+` oder `*` als Listensymbol verwenden.
+Füge zwei Leerzeichen vor deinem Listenelement ein um es einzurücken. Du kannst `-`,`+` oder `*` als Listensymbol verwenden.
 
 ![Unsortierte Listen](../images/markdown/unsorted-lists.webp "Unsortierte Listen")
 

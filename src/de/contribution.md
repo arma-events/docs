@@ -1,6 +1,5 @@
 ---
 outline: deep
-cSpell: locale de
 ---
 
 # Mitwirkung

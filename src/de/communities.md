@@ -1,6 +1,5 @@
 ---
 outline: deep
-cSpell: locale de
 ---
 
 # Communities
@@ -76,7 +75,7 @@ Auf der Community-Profilseite kannst du Mitglieder suchen/verwalten, Events eins
 
 ### Mitglieder
 
-Im Mitglieder-Tab kannst du nach Mitgliedern in der Mitgliederliste suchen (1), einem Mitglied Admin-Rechte erteilen/entziehen oder ein Mitglied aus der Community entfernen (2). Nur Admins können Mitglieder oder andere Admins entfernen. Nur Admins können Mitglieder zu Admins befördern. Wenn du eine Community erstellst, wirst du automatisch der erste Admin. Jeder Admin hat ein <img src="../images/general/crown-text-color-2.svg" style="display:inline" width="16" height="16" alt="Krone"> Kronensymbol direkt neben seinem Namen. Siehe [Rollen](#rollen) für weitere Informationen.
+Im Mitglieder-Tab kannst du nach Mitgliedern in der Mitgliederliste suchen, einem Mitglied Admin-Rechte erteilen/entziehen oder ein Mitglied aus der Community entfernen. Nur Admins können Mitglieder oder andere Admins entfernen. Nur Admins können Mitglieder zu Admins befördern. Wenn du eine Community erstellst, wirst du automatisch der erste Admin. Jeder Admin hat ein <img src="../images/general/crown-text-color-2.svg" style="display:inline" width="16" height="16" alt="Krone"> Kronensymbol direkt neben seinem Namen. Siehe [Rollen](#rollen) für weitere Informationen.
 
 ### Rollen
 

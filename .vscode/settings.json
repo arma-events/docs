@@ -1,4 +1,11 @@
 {
+    "cSpell.overrides": [
+        {
+            "filename": "**/de/**",
+            "language": "de"
+        }
+    ],
+    "cSpell.language": "en",
     "cSpell.words": [
         "Admins",
         "arma",

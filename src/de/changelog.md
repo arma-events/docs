@@ -1,6 +1,5 @@
 ---
 outline: deep
-cSpell: locale de
 ---
 
 # Changelog
@@ -11,4 +10,4 @@ cSpell: locale de
 
 ## Codename Schema
 
-Einheiten bei der Römischen Armee, siehe [hier](https://en.wikipedia.org/wiki/List_of_Roman_army_unit_types "Einheiten der römischen Armee") for reference.
+Einheiten bei der Römischen Armee, siehe [hier](https://en.wikipedia.org/wiki/List_of_Roman_army_unit_types "Einheiten der römischen Armee") als Referenz.
