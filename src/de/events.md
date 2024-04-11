@@ -62,7 +62,7 @@ Schlussendlich erlaubt dir der Block-Editor dein Event-Briefing oder sonstige Ar
 
 Erstelle Text- und Bildblöcke durch anklicken der entsprechenden Schaltflächen **Text hinzufügen** und **Bild hinzufügen**. Die Schaltflächen sind sind nur vor der Erstellung deines ersten Blocks sichtbar. Später erscheinen diese Schaltflächen wenn du mit der Maus über den Kopf- oder Fußbereich eines existierenden Blocks fährst. Du kannst so viele Blöcke erstellen wie du möchtest. Nutze das Vier-Punkte-Symbol um die Blöcke zu verschieben und ihre Reihenfolge zu ändern.
 
-<video controls autoplay muted><source src="../videos/events/block-editor-order.webm" type="video/webm">Your browser does not support the video tag.</video>
+<video controls autoplay muted><source src="../videos/events/block-editor-order.webm" type="video/webm">Dein Browser unterstützt das Video-Tag nicht.</video>
 
 Du kannst für jeden Block entscheiden ob er standardmäßig ein- oder ausgeklappt sein soll. Auf diese Weise kannst du detailliertere Informationen verbergen und nur die wichtigsten Blöcke anzeigen. Der Nutzer kann jeden Block ein- oder ausklappen während er die Event-Dokumentation liest.
 
@@ -87,7 +87,7 @@ Bildblöcke erlauben dir ein oder mehrere Bilder einzubetten. Du kannst für jed
 
 Du kannst die Reihenfolge deiner Bilder innerhalb eines Bildblocks verändern.
 
-<video controls autoplay muted><source src="../videos/events/image-block-order.webm" type="video/webm">Your browser does not support the video tag.</video>
+<video controls autoplay muted><source src="../videos/events/image-block-order.webm" type="video/webm">Dein Browser unterstützt das Video-Tag nicht.</video>
 
 ## Slotliste verwalten
 

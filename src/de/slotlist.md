@@ -28,31 +28,31 @@ Jede Änderung innerhalb des Slotlist-Editors lässt sich **rückgängig machen 
 
 Du kannst Fraktionen, Kompanien und Gruppen durch klicken auf die quadratische `+` Schaltfläche in der unteren Menüleiste und anschließendem ziehen auf eine der durch einen grauen Balken markierten, möglichen Ablagefläche erstellen. Die aktuell aktive Ablagefläche wird größer und die Farbe ändert sich zu einem dunkleren Grau, um die aktuelle Auswahl anzuzeigen. Du kannst Gruppen innerhalb von Gruppen erstellen.
 
-<video controls autoplay muted><source src="../videos/slotlist/create-factions-companies-groups.webm" type="video/webm">Your browser does not support the video tag.</video>
+<video controls autoplay muted><source src="../videos/slotlist/create-factions-companies-groups.webm" type="video/webm">Dein Browser unterstützt das Video-Tag nicht.</video>
 
 ## Slots erstellen
 
 Slots werden durch einmaliges oder mehrfaches Klicken auf die runde `+` Schaltfläche erzeugt. Es gibt keine natürliche Slot-Begrenzung aber organisiere dich mit deiner Slotliste, indem du nicht zu große Einheiten erstellst. Der erste Slot innerhalb einer Kompanie oder innerhalb einer Gruppe ist stets ein Führungs-Slot. Der Avatar ist größer und der Standardname ist **CL** (Company Lead = Kompanieführung) oder **SQL** (Squad Lead = Gruppenführer). Du kannst die Slot-Namen später anpassen. Der erste Slot innerhalb eines Trupps heißt **FTL** (Fireteam Lead = Truppführer) aber der Avatar wird nicht vergrößert.
 
-<video controls autoplay muted><source src="../videos/slotlist/create-slots.webm" type="video/webm">Your browser does not support the video tag.</video>
+<video controls autoplay muted><source src="../videos/slotlist/create-slots.webm" type="video/webm">Dein Browser unterstützt das Video-Tag nicht.</video>
 
 ## Trupps erstellen
 
 Trupps sind ein Spezialfall bei den Einheiten. Du kannst den ersten Trupp nur innerhalb einer Gruppe durch Ziehen eines existierenden Slots auf die untere Ablagefläche erstellen. Eine Gruppe kann sich in mehrere Trupps aufteilen. Erstelle weitere Trupps durch klicken auf die Drei-Punkte-Schaltfläche.
 
-<video controls autoplay muted><source src="../videos/slotlist/create-fireteams.webm" type="video/webm">Your browser does not support the video tag.</video>
+<video controls autoplay muted><source src="../videos/slotlist/create-fireteams.webm" type="video/webm">Dein Browser unterstützt das Video-Tag nicht.</video>
 
 ## Fraktionen, Kompanien, Gruppen verschieben
 
 Du kannst Fraktionen, Kompanien und Gruppen mithilfe des Vier-Punkte-Anfassers verschieben. Graue Ablageflächen zeigen gültige Positionen an, an die du Elemente verschieben kannst. Die aktuell ausgewählte Ablagefläche wird dunkler und größer als die nicht Ausgewählten dargestellt.
 
-<video controls autoplay muted><source src="../videos/slotlist/move-factions-companies-groups.webm" type="video/webm">Your browser does not support the video tag.</video>
+<video controls autoplay muted><source src="../videos/slotlist/move-factions-companies-groups.webm" type="video/webm">Dein Browser unterstützt das Video-Tag nicht.</video>
 
 ## Slots verschieben
 
 Du kannst Slots per Drag-And-Drop auf die hervorgehobenen Ablagezonen verschieben. Die aktuell ausgewählte Ablagezone wird dunkler und größer als die nicht Ausgewählten dargestellt.
 
-<video controls autoplay muted><source src="../videos/slotlist/move-slots.webm" type="video/webm">Your browser does not support the video tag.</video>
+<video controls autoplay muted><source src="../videos/slotlist/move-slots.webm" type="video/webm">Dein Browser unterstützt das Video-Tag nicht.</video>
 
 > [!IMPORTANT]
 > Du kannst Trupps nicht verschieben. Wenn du einen Trupp verschieben willst, musst du die einzelnen Slots durchwechseln.
@@ -69,7 +69,7 @@ WIP
 
 Du kannst Fraktionen, Kompanien und Gruppen per Drag-And-Drop auf das Mülleimersymbol löschen. Kindelemente werden dadurch auch gelöscht. Wenn du zum Beispiel eine Fraktion löschst, dann werden alle Kompanien und Gruppen innerhalb dieser Fraktion gleichermaßen gelöscht.
 
-<video controls autoplay muted><source src="../videos/slotlist/delete-factions-companies-groups.webm" type="video/webm">Your browser does not support the video tag.</video>
+<video controls autoplay muted><source src="../videos/slotlist/delete-factions-companies-groups.webm" type="video/webm">Dein Browser unterstützt das Video-Tag nicht.</video>
 
 ## Slots löschen
 
