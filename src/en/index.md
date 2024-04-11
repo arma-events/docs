@@ -14,6 +14,9 @@ hero:
     alt: arma.events ORBAT slotlist
   actions:
     - theme: brand
+      text: Overview
+      link: /de/overview
+    - theme: brand
       text: Users
       link: /en/users
     - theme: brand
