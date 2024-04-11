@@ -15,7 +15,7 @@ hero:
   actions:
     - theme: brand
       text: Overview
-      link: /de/overview
+      link: /en/overview
     - theme: brand
       text: Users
       link: /en/users
