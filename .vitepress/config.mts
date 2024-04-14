@@ -181,7 +181,7 @@ export default defineConfig({
                 link: '/de/events', 
                 items: [
                   { text: 'Markdown', link: '/de/markdown' },
-                  { text: 'Slotsliste', link: '/de/slotlist' }
+                  { text: 'Slotliste', link: '/de/slotlist' }
                 ]
               }
             ]

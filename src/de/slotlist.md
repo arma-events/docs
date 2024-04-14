@@ -2,7 +2,7 @@
 outline: deep
 ---
 
-# Slotlist
+# Slotliste
 
 ![Slotliste Überblick](../images/slotlist/slotlist-overview.webp "Slotliste Überblick")
 
