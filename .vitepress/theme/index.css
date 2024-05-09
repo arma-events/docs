@@ -37,6 +37,10 @@
   --vp-local-search-result-border: rgba(0,0,0,0.3);
 }
 
+/* nav line */
+.VPLocalNav {
+  border-bottom: none !important;
+}
 
 
 /* main menu entry */
