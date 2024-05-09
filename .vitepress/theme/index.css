@@ -1,7 +1,70 @@
+:root {
+  --vp-c-brand-1: #4F9D69;
+  --vp-c-brand-2: #488C48;
+  --vp-button-brand-bg: #4F9D69;
+}
+
+:root {
+  --vp-c-bg: #D2D0B9;
+  --vp-c-bg-alt: rgba(0,0,0,0.05);
+  --vp-c-bg-elv: #DDDBC3;
+  --vp-c-bg-soft: #E7E6D5;
+}
+
+:root {
+  --vp-font-family-base: "Raleway", sans-serif;
+  --vp-font-family-mono: "Source Code Pro", monospace;
+}
+
+:root {
+  --vp-c-text-1: rgba(60, 60, 67);
+  --vp-c-text-2: rgba(60, 60, 67, 0.78);
+  --vp-c-text-3: rgba(60, 60, 67, 0.56);
+}
+
+.dark {
+  --vp-c-text-1: rgba(255, 255, 245, 0.86);
+  --vp-c-text-2: rgba(235, 235, 245, 0.6);
+  --vp-c-text-3: rgba(235, 235, 245, 0.38);
+}
+
+:root {
+  --vp-c-divider: rgba(0,0,0,0.1);
+  --vp-c-gutter: rgba(0,0,0,0.1);
+}
+
+/* search suggest entry */
+.result {
+  background: var(--vp-c-bg-alt);
+  border: none !important;
+}
+
+.result[aria-selected:true] {
+  border: rgba(0,0,0,0.2);
+}
+
+/* main menu entry */
+.VPSidebarItem .is-active{
+  border-radius: 0.25rem;
+  background: var(--vp-c-bg-elv);
+  padding-left: 1rem;
+}
+.VPSidebarItem.level-1.is-active > .item .link > .text {
+  color: var(--vp-c-text-1) !important;
+  font-weight: 700;
+}
+
+/* search bar bg */
+.search-bar {
+  background: var(--vp-c-bg-alt);
+  border: none !important;
+}
+
 .medium-zoom-overlay {
     z-index: 30;
   }
   
   .medium-zoom-image {
     z-index: 31;
+    border-radius: 0.5rem;
   }

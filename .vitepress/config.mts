@@ -9,7 +9,7 @@ export default defineConfig({
   srcDir: './src', // all *.md files in a subfolder called 'src'
   cleanUrls: true, // without extension like .html
   lastUpdated: true,
-  head: [['link', { rel: 'icon', href: '/favicon.ico' }]],
+  head: [['link', { rel: 'icon', href: '/favicon.ico' }], ['link', { rel: 'preconnect', href: 'https://fonts.googleapis.com'}], ['link', { rel: 'preconnect', href: 'https://fonts.gstatic.com'}],['link', { rel: 'stylesheet', href: 'https://fonts.googleapis.com/css2?family=Raleway:wght@100..900&family=Source+Code+Pro:ital,wght@0,200..900;1,200..900&display=swap' }]],
   markdown: {
     image: {
       lazyLoading: true
