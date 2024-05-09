@@ -33,15 +33,11 @@
   --vp-c-gutter: rgba(0,0,0,0.1);
 }
 
-/* search suggest entry */
-.result {
-  background: var(--vp-c-bg-alt);
-  border: none !important;
+:root {
+  --vp-local-search-result-border: rgba(0,0,0,0.3);
 }
 
-.result[aria-selected:true] {
-  border: rgba(0,0,0,0.2);
-}
+
 
 /* main menu entry */
 .VPSidebarItem .is-active{
@@ -49,15 +45,33 @@
   background: var(--vp-c-bg-elv);
   padding-left: 1rem;
 }
-.VPSidebarItem.level-1.is-active > .item .link > .text {
+.VPSidebarItem.level-1.is-active > .item .link > .text, .VPSidebarItem.level-2.is-active > .item .link > .text {
   color: var(--vp-c-text-1) !important;
   font-weight: 700;
+}
+
+.VPSidebarItem.level-1.is-active > .item > .indicator , .VPSidebarItem.level-2.is-active > .item > .indicator {
+  display: none;
 }
 
 /* search bar bg */
 .search-bar {
   background: var(--vp-c-bg-alt);
   border: none !important;
+}
+
+/* search suggest entry */
+.result {
+  background: var(--vp-c-bg-alt);
+  border: none !important;
+}
+
+.result.selected {
+  border: solid 2px var(--vp-local-search-result-border) !important;
+}
+
+.result.selected .titles, .result.selected .title-icon {
+  color: var(--vp-c-text-1) !important; /* does not work yet */
 }
 
 .medium-zoom-overlay {
