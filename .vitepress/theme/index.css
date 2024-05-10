@@ -16,7 +16,7 @@
   --vp-c-text-3: rgba(60, 60, 67, 0.56);
 
   /* Overlays and shadows */
-  --vp-c-divider: rgba(0,0,0,0.1);
+  --vp-c-divider: rgba(0,0,0,0.3);
   --vp-c-gutter: rgba(0,0,0,0.3);
   --vp-c-tip-soft: var(--vp-c-bg-soft);
   --vp-c-important-soft: rgba(46,100,153,0.15);
@@ -43,7 +43,7 @@
   /* Borders */
   --vp-local-search-result-border: rgba(0,0,0,0.3);
 
-  --vp-input-switch-bg-color: var(--vp-c-bg-soft);
+  --vp-input-switch-bg-color: var(--vp-c-brand-1);
   --vp-input-border-color: var(-vp-c-bg-alt);
 }
 
@@ -88,6 +88,17 @@ body {
   font-size: 1.2rem;
   color: var(--vp-c-text-2);
   font-family: var(--vp-font-family-base);
+}
+
+.dark .pager-link {
+  background: var(--vp-c-bg-elv);
+  border: none !important;
+}
+
+.VPSwitch  {
+  border: 1px solid var(--vp-input-switch-bg-color) !important;
+  background-color: var(--vp-input-switch-bg-color);
+  transition: border-color 0.25s !important;
 }
 
 .vp-doc .custom-block-title {
@@ -164,4 +175,20 @@ h1, h2, h3, h4, h5, h6 {
   z-index: 31;
   border-radius: 0.5rem;
   box-shadow: 0 0 1rem rgba(0,0,0,0.05), 0 0 0.25rem rgba(0,0,0,0.15);
+  display: inline-block;
+}
+
+.vp-doc p {
+  transition: transform 0.1s ease !important;
+  perspective: 1000px !important;
+  display: inline-block !important;
+}
+
+.vp-doc p > img.medium-zoom-image {
+  transition: transform 0.1s ease !important;  /* Ensure smooth transition */
+  transform-style: preserve-3d;  /* Not typically needed unless 3D effects are nested */
+  display: inline-block !important;  /* This can help with transformations */
+}
+.vp-doc p:hover> img.medium-zoom-image {
+  transform: translateZ(32px) !important;  /* Adding rotate for test */
 }
