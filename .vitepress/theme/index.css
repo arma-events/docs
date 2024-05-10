@@ -5,10 +5,20 @@
 }
 
 :root {
-  --vp-c-bg: #D2D0B9;
+  --vp-c-bg: #DDDBC3;
   --vp-c-bg-alt: rgba(0,0,0,0.05);
-  --vp-c-bg-elv: #DDDBC3;
+  --vp-c-bg-elv: #D2D0B9;
   --vp-c-bg-soft: #E7E6D5;
+
+  --vp-c-tip-soft: rgba(46, 100, 153, 0.15);
+
+  --vp-c-important-soft: rgba(173,153,0,0.15);
+  --vp-c-warning-soft: rgba(173,153,0,0.15);
+
+  --vp-c-danger-soft: rgba(150,3,26,0.15);
+  --vp-c-caution-soft: rgba(150,3,26,0.15);
+
+  --vp-custom-block-font-size: 1.2rem;
 }
 
 .dark {
@@ -113,5 +123,5 @@ h1, h2, h3, h4, h5, h6 {
   .medium-zoom-image, video {
     z-index: 31;
     border-radius: 0.5rem;
-    box-shadow: 0 0 1rem rgba(0,0,0,0.05);
+    box-shadow: 0 0 1rem rgba(0,0,0,0.05), 0 0 0.25rem rgba(0,0,0,0.15);
   }
