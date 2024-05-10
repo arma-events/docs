@@ -17,7 +17,7 @@
 
   /* Overlays and shadows */
   --vp-c-divider: rgba(0,0,0,0.1);
-  --vp-c-gutter: rgba(0,0,0,0.1);
+  --vp-c-gutter: rgba(0,0,0,0.3);
   --vp-c-tip-soft: var(--vp-c-bg-soft);
   --vp-c-important-soft: rgba(46,100,153,0.15);
   --vp-c-warning-soft: rgba(173,153,0,0.15);
@@ -50,7 +50,7 @@
 .dark {
   /* Dark mode background colors */
   --vp-c-bg: #252A2E;
-  --vp-c-bg-alt: #151516;
+  --vp-c-bg-alt: #1C2022;
   --vp-c-bg-elv: #34393D;
   --vp-c-bg-soft: #2F3438;
 
