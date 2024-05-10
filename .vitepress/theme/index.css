@@ -2,6 +2,7 @@
   /* Brand colors */
   --vp-c-brand-1: #4F9D69;
   --vp-c-brand-2: #2E6499;
+  --vp-c-brand-3: #4F9D69;
 
   /* Background colors */
   --vp-c-bg: #DDDBC3;
@@ -63,11 +64,14 @@
   --vp-local-search-result-border: var(--vp-c-bg-soft);
 
   /* Dark mode specific colors */
-  --vpc-c-brand-1: #6EC089;
+  --vp-c-brand-1: #6EC089;
   --vp-c-brand-2: #528ECB;
+  --vp-c-brand-3: #6EC089;
   --vp-c-danger: #C31831;
   --vp-c-warning: #D7B80A;
   --vp-c-caution: rgb(202,111,225);
+
+  --vp-button-brand-text: var(--vp-c-black);
 
   --vp-custom-block-important-border: rgba(82,142,203,0.2);
   --vp-custom-block-tip-border: rgba(255, 255, 255, 0.15);
