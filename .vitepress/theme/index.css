@@ -44,9 +44,30 @@
   --vp-local-search-result-border: rgba(0,0,0,0.3);
 }
 
+.dark {
+  --vp-local-search-result-border: var(--vp-c-bg-soft);
+}
+
 /* nav line */
 .VPLocalNav {
   border-bottom: none !important;
+}
+
+body {
+  font-size: 1.2rem;
+}
+
+body{
+  color: var(--vp-c-text-2);
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: var(--vp-c-text-1);
+}
+
+.vp-doc p {
+  font-family: "Source Sans 3";
+  line-height: 2rem;
 }
 
 
@@ -89,7 +110,8 @@
     z-index: 30;
   }
   
-  .medium-zoom-image {
+  .medium-zoom-image, video {
     z-index: 31;
     border-radius: 0.5rem;
+    box-shadow: 0 0 1rem rgba(0,0,0,0.05);
   }
