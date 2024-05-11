@@ -5,9 +5,9 @@
   --vp-c-brand-3: #4F9D69;
 
   /* Background colors */
-  --vp-c-bg: #DDDBC3;
-  --vp-c-bg-alt: rgba(0,0,0,0.05);
-  --vp-c-bg-elv: #D2D0B9;
+  --vp-c-bg: #E9E8D8;
+  --vp-c-bg-alt: #DDDBC3;
+  --vp-c-bg-elv: #DFDECE;
   --vp-c-bg-soft: #E7E6D5;
 
   /* Text colors */
@@ -133,7 +133,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .VPSidebarItem .is-active {
   border-radius: 0.25rem;
-  background: var(--vp-c-bg-elv);
+  background: var(--vp-c-bg-soft);
   padding-left: 1rem;
 }
 
