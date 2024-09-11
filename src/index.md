@@ -1,10 +1,11 @@
 <script setup>
 import { onMounted } from 'vue'
-import { useRouter } from 'vitepress'
+import { useRouter, useData } from 'vitepress'
 
 const router = useRouter();
 
-const SUPPORTED_LANGS = ['de', 'en']; 
+const { site } = useData()
+const SUPPORTED_LANGS = Object.keys(site.value.locales); 
 
 onMounted(() => {
     const langs = window.navigator.languages.map(x => x.split('-')[0]);
