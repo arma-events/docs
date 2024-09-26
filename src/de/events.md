@@ -24,7 +24,7 @@ Nun wähle einen Event-Titel oder generiere einen Zufallstitel durch klicken auf
 > [!CAUTION]
 > Die Länge des Event-Titels ist aktuell nicht beschränkt. Bitte beschränke dich auf eine Länge von weniger als 32 Unicode-Zeichen.
 
-Der letzte Schritt ist die Auswahl von Datum und Uhrzeit, an der dein Event beginnt. Du kannst Datum und Uhrzeit manuell angeben oder den plattformabhängigen Dialog für Datum und Uhrzeit verwenden, um den Start deines Events festzulegen. Du kannst kein vergangenes Datum oder vergangene Uhrzeit wählen.
+Der letzte Schritt ist die Auswahl von Datum und Uhrzeit, an der dein Event beginnt. Du kannst Datum und Uhrzeit manuell angeben oder den plattformabhängigen Dialog für Datum und Uhrzeit verwenden, um den Start deines Events festzulegen. Du kannst kein vergangenes Datum oder vergangene Uhrzeit wählen. Das Setzen von Datum und Uhrzeit is vollständig optional. Du kannst fortfahren den Entwurf zu erstellen ohne Datum und Uhrzeit zu setzen.
 
 ![Assistent Event erstellen](../images/events/create-event-workflow.webp "Assistent Event erstellen")
 
@@ -35,6 +35,14 @@ Du kannst jederzeit deinen Entwurf schließen durch klicken auf die `X` Schaltfl
 Speichere deine Änderungen durch klicken auf die **Entwurf speichern** Schaltfläche und schau dir deine Änderungen im Vorschaumodus an durch klicken auf die **Vorschau** Schaltfläche.
 
 ![Preview-Wechsel](../images/events/preview-toggle.webp "Preview-Wechsel")
+
+Du kannst auf deine unveröffentlichten Entwürfe über das Entwürfe-Icon direkt neben dem Hinzufügen-Icon in der oberen, rechten Ecke zugreifen. Das Entwürfe-Icon ist nur sichtbar wenn du unveröffentlichte Entwürfe hast.
+
+![Entwürfe-Icon](../images/events/draft-icon.webp "Entwürfe-Icon")
+
+Das Entwürfe-Icon erlaubt dir den Zugriff auf eine Liste all deiner Events im Entwurfsstatus. Von hier aus kannst du das Verfassen deiner existierenden Entwürfe fortsetzen oder neue Entwürfe erstellen. Dies ist die einzige Stelle wo Entwürfe gelistet werden. Nur du, der Autor, kannst auf deine Entwürfe zugreifen.
+
+![Entwurfsliste](../images/events/draft-list.webp "Entwurfsliste")
 
 ### Event-Details
 
