@@ -1,7 +1,7 @@
 :root {
   /* Brand colors */
   --vp-c-brand-1: #4F9D69;
-  --vp-c-brand-2: #4F9D69;
+  --vp-c-brand-2: #10497c;
   --vp-c-brand-3: #4F9D69;
 
   --vp-button-brand-hover-bg: #2e7e4c;
@@ -26,8 +26,9 @@
   --vp-c-important-soft: rgba(46,100,153,0.15);
   --vp-c-warning-soft: rgba(173,153,0,0.15);
   --vp-c-danger-soft: rgba(150,3,26,0.15);
-  --vp-c-caution: #A228C1;
-  --vp-c-danger: #96031A;
+  --vp-c-caution: #8932a4;
+  --vp-c-danger: #ad262d;
+  --vp-c-important: #2e6499;
 
   --vp-c-customblock-opacity: 0.15;
   --vp-c-caution-soft: rgba(132,10,162, var(--vp-c-customblock-opacity));
@@ -69,11 +70,12 @@
 
   /* Dark mode specific colors */
   --vp-c-brand-1: #6EC089;
-  --vp-c-brand-2: #528ECB;
+  --vp-c-brand-2: #9cd3ff;
   --vp-c-brand-3: #6EC089;
-  --vp-c-danger: #C31831;
-  --vp-c-warning: #D7B80A;
-  --vp-c-caution: rgb(202,111,225);
+  --vp-c-danger: #d34c4c;
+  --vp-c-warning: #ceb346;
+  --vp-c-caution: #ab55c7;
+  --vp-c-important: #4e84bb;
 
   --vp-button-brand-text: var(--vp-c-black);
   --vp-button-alt-bg: rgba(255, 255, 255, 0.1);
