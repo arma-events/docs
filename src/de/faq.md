@@ -6,7 +6,7 @@ outline: deep
 
 ## Welche Features habt ihr bereits geplant?
 
-Du findest eine Liste aller geplanten Dinge, zu deren Umsetzung wir noch nicht gekommen sind, auf unserer [Roadmap](./roadmap 'Roadmap').
+Du findest eine Liste aller geplanten Dinge, zu deren Umsetzung wir noch nicht gekommen sind, auf unserer [Roadmap](./roadmap "Roadmap").
 
 ## Wie kann ich in den hellen/dunklen Modus wechseln?
 
