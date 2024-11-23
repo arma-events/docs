@@ -6,11 +6,11 @@ outline: deep
 
 ## Welche Features habt ihr bereits geplant?
 
-Du findest eine Liste aller geplanten Dinge, zu deren Umsetzung wir noch nicht gekommen sind, auf unserer [Roadmap](./roadmap "Roadmap").
+Du findest eine Liste aller geplanten Dinge, zu deren Umsetzung wir noch nicht gekommen sind, auf unserer [Roadmap](./roadmap 'Roadmap').
 
-## Wird es einen dunklen Modus geben?
+## Wie kann ich in den hellen/dunklen Modus wechseln?
 
-Natürlich! Wir haben (nahezu) alles vorbereitet um weitere Themes unterstützen zu können, aber im Moment möchten wir uns auf das Hinzufügen neuer Features konzentrieren ohne uns Sorgen machen zu müssen wie sie in anderen Farben aussehen.
+Momentan ist die Darstellung mit den jeweiligen Systemeinstellungen verknüpft. Wir planen für die Zukunft eine profilgebundene Einstellung.
 
 ## Wird es eine Discord-Integration von **arma.events** geben?
 

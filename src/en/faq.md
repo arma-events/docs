@@ -6,11 +6,11 @@ outline: deep
 
 ## What features do you have planned already?
 
-You can find a list of things we've planned on our [roadmap](./roadmap "Roadmap"), but haven't come around to implement.
+You can find a list of things we've planned on our [roadmap](./roadmap 'Roadmap'), but haven't come around to implement.
 
-## Will there be a dark theme?
+## How to change to light/dark theme?
 
-Of course! We have (almost) everything in place to support adding other themes, but for now we want to focus on adding features without worrying about how they look with different colors.
+For now switching is linked to current system settings. We plan to introduce a profile bound setting in the future.
 
 ## Will there be a Discord integration of **arma.events**?
 
