@@ -8,7 +8,7 @@ outline: deep
 
 Du kannst jederzeit ein Event für deine Community erstellen indem du das `+` Symbol neben deinem Avatar anklickst und **Event erstellen** auswählst.
 
-![Event erstellen](../images/events/create-event.webp "Event erstellen")
+![Event erstellen](../images/events/create-event.webp 'Event erstellen')
 
 Ein Community-Event zu erstellen benötigt nur 4 einfache Schritte. Alles, was du hier einstellst, mit Ausnahme des gewählten Spiels, kann später geändert werden.
 
@@ -24,9 +24,9 @@ Nun wähle einen Event-Titel oder generiere einen Zufallstitel durch klicken auf
 > [!CAUTION]
 > Die Länge des Event-Titels ist aktuell nicht beschränkt. Bitte beschränke dich auf eine Länge von weniger als 32 Unicode-Zeichen.
 
-Der letzte Schritt ist die Auswahl von Datum und Uhrzeit, an der dein Event beginnt. Du kannst Datum und Uhrzeit manuell angeben oder den plattformabhängigen Dialog für Datum und Uhrzeit verwenden, um den Start deines Events festzulegen. Du kannst kein vergangenes Datum oder vergangene Uhrzeit wählen. Das Setzen von Datum und Uhrzeit is vollständig optional. Du kannst fortfahren den Entwurf zu erstellen ohne Datum und Uhrzeit zu setzen.
+Der letzte Schritt ist die Auswahl von Datum und Uhrzeit, an der dein Event beginnt. Du kannst Datum und Uhrzeit manuell angeben oder den plattformabhängigen Dialog für Datum und Uhrzeit verwenden, um den Start deines Events festzulegen. Du kannst kein vergangenes Datum oder vergangene Uhrzeit wählen. Das Setzen von Datum und Uhrzeit ist vollständig optional. Du kannst fortfahren den Entwurf zu erstellen ohne Datum und Uhrzeit zu setzen.
 
-![Assistent Event erstellen](../images/events/create-event-workflow.webp "Assistent Event erstellen")
+![Assistent Event erstellen](../images/events/create-event-workflow.webp 'Assistent Event erstellen')
 
 Nach Abschluss des Assistenten befindet sich dein Event im **Entwurfsstatus**. Nun kannst du die Details deines Events festlegen. Im Entwurfsstatus wird dein Event nicht gelistet oder ist irgendwo sichtbar. Nur Autoren können auf das Event zugreifen.
 
@@ -34,15 +34,15 @@ Du kannst jederzeit deinen Entwurf schließen durch klicken auf die `X` Schaltfl
 
 Speichere deine Änderungen durch klicken auf die **Entwurf speichern** Schaltfläche und schau dir deine Änderungen im Vorschaumodus an durch klicken auf die **Vorschau** Schaltfläche.
 
-![Preview-Wechsel](../images/events/preview-toggle.webp "Preview-Wechsel")
+![Preview-Wechsel](../images/events/preview-toggle.webp 'Preview-Wechsel')
 
 Du kannst auf deine unveröffentlichten Entwürfe über das Entwürfe-Icon direkt neben dem Hinzufügen-Icon in der oberen, rechten Ecke zugreifen. Das Entwürfe-Icon ist nur sichtbar wenn du unveröffentlichte Entwürfe hast.
 
-![Entwürfe-Icon](../images/events/draft-icon.webp "Entwürfe-Icon")
+![Entwürfe-Icon](../images/events/draft-icon.webp 'Entwürfe-Icon')
 
 Das Entwürfe-Icon erlaubt dir den Zugriff auf eine Liste all deiner Events im Entwurfsstatus. Von hier aus kannst du das Verfassen deiner existierenden Entwürfe fortsetzen oder neue Entwürfe erstellen. Dies ist die einzige Stelle wo Entwürfe gelistet werden. Nur du, der Autor, kannst auf deine Entwürfe zugreifen.
 
-![Entwurfsliste](../images/events/draft-list.webp "Entwurfsliste")
+![Entwurfsliste](../images/events/draft-list.webp 'Entwurfsliste')
 
 ### Event-Details
 
@@ -62,7 +62,7 @@ Es ist eine gute Idee ein **Bild** als Teaser hinzuzufügen. Lässt du das Bild 
 
 Außerdem kannst du **Tags** zur Organisation deines Events hinzufügen. Zukünftig werden Tags für die Schnellsuche verwendet.
 
-![Event-Details](../images/events/event-details.webp "Event-Details")
+![Event-Details](../images/events/event-details.webp 'Event-Details')
 
 ### Block-Editor
 
@@ -78,11 +78,11 @@ Jeder Block besteht aus einem Überschrifts- und einem Inhaltsteil. Die Benutzun
 
 #### Textblöcke
 
-In seinem Inhaltsteil unterstützt der Textblock Markdown als Auszeichnungssprache und erlaubt damit die Verwendung von Überschriften, Listen, Links, Bildern, Textattributen und vielem mehr. Sieh dir den [Markdown](./markdown "Markdown") Artikel für weitere Informationen an.
+In seinem Inhaltsteil unterstützt der Textblock Markdown als Auszeichnungssprache und erlaubt damit die Verwendung von Überschriften, Listen, Links, Bildern, Textattributen und vielem mehr. Sieh dir den [Markdown](./markdown 'Markdown') Artikel für weitere Informationen an.
 
 Während der Bearbeitung ist der Textblock in seiner Größe veränderlich, jedoch wird seine Größe in der Vorschau und bei der Veröffentlichung automatisch an die Größe des Inhalts angepasst.
 
-![Textblock](../images/events/text-block.webp "Textblock")
+![Textblock](../images/events/text-block.webp 'Textblock')
 
 #### Bildblöcke
 
@@ -91,7 +91,7 @@ Bildblöcke erlauben dir ein oder mehrere Bilder einzubetten. Du kannst für jed
 > [!IMPORTANT]
 > Das gleichzeitige Hochladen mehrerer Bilder wird aktuell nicht unterstützt. Lade deine Bilder einzeln hoch.
 
-![Bildblock](../images/events/image-block.webp "Bildblock")
+![Bildblock](../images/events/image-block.webp 'Bildblock')
 
 Du kannst die Reihenfolge deiner Bilder innerhalb eines Bildblocks verändern.
 
@@ -105,4 +105,4 @@ WIP
 
 Du kannst dein Event einfach löschen indem du auf die Schaltfläche **Event löschen** klickst. Aus Sicherheitsgründen musst du deine Absicht das Event zu löschen noch einmal bestätigen.
 
-![Event löschen](../images/events/delete-event.webp "Event löschen")
+![Event löschen](../images/events/delete-event.webp 'Event löschen')
