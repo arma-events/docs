@@ -6,7 +6,7 @@ outline: deep
 
 ## What features do you have planned already?
 
-You can find a list of things we've planned on our [roadmap](./roadmap 'Roadmap'), but haven't come around to implement.
+You can find a list of things we've planned on our [roadmap](./roadmap "Roadmap"), but haven't come around to implement.
 
 ## How to change to light/dark theme?
 
