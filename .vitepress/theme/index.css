@@ -50,6 +50,8 @@
 
   --vp-input-switch-bg-color: var(--vp-c-brand-1);
   --vp-input-border-color: var(--vp-c-bg-alt);
+
+  --vp-code-color: var(--vp-c-text-2);
 }
 
 .dark {
