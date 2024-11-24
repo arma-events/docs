@@ -94,6 +94,9 @@
   --vp-c-bg-alt: rgba(0,0,0,0);
   --vp-input-border-color: var(--vp-c-bg-alt);
 
+  --vp-c-divider: rgba(255,255,255,0.15);
+  --vp-c-gutter: rgba(255,255,255,0.07);
+
   .DocSearch-Button .DocSearch-Button-Key {
       background: var(--vp-c-bg-elv);
       border: none;
