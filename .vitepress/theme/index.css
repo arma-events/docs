@@ -179,11 +179,11 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: 550;
 }
 
-.medium-zoom-image, video {
+img:not([src$=".svg"]).medium-zoom-image, video {
   transition: all 0.2s ease-out !important; 
   z-index: 31;
   border-radius: 0.5rem;
-  box-shadow: 0 0 1rem rgba(0,0,0,0.05), 0 0 0.25rem rgba(0,0,0,0.15);
+  box-shadow: 0 0 1rem oklch(25% 0.0213 103.9 / 20%), 0 0 0.25rem oklch(25% 0.0213 103.9 / 15%);
   display: inline-block;
 }
 
@@ -193,14 +193,14 @@ h1, h2, h3, h4, h5, h6 {
   display: inline-block !important;
 }
 
-.vp-doc p > img.medium-zoom-image, .vp-doc p > video {
-  transition: all 0.2s ease-out !important;  /* Ensure smooth transition */
-  transform-style: preserve-3d;  /* Not typically needed unless 3D effects are nested */
-  display: inline-block !important;  /* This can help with transformations */
-  transform: perspective(1000px) rotateY(-1deg);
-}
-.vp-doc p:hover> img.medium-zoom-image{
+.vp-doc p > img:not([src$=".svg"]).medium-zoom-image, .vp-doc p > video {
   transition: all 0.2s ease-out !important;
-  transform: translateZ(32px) !important;  /* Adding rotate for test */
-  box-shadow: 0 0 2rem rgba(0,0,0,0.01), 0 0 0.1rem rgba(0,0,0,0.2);
+  transform-style: preserve-3d;
+  display: inline-block !important;
+  transform: perspective(1000px) rotateY(0deg);
+}
+.vp-doc p:hover> img:not([src$=".svg"]).medium-zoom-image{
+  transition: all 0.2s ease-out !important;
+  transform: translateZ(2px) !important;
+  box-shadow: 0 0 5rem oklch(25% 0.0213 103.9 / 50%), 0 0 0.1rem oklch(25% 0.0213 103.9 / 30%);
 }
