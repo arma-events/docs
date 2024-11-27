@@ -148,7 +148,7 @@ h1, h2, h3, h4, h5, h6 {
   font-variation-settings: "wght" 600;
 }
 
-.vp-doc p {
+.vp-doc p, .vp-doc ul {
   font-family: "Source Sans 3";
   line-height: 2rem;
   /*font-weight: 450;*/
