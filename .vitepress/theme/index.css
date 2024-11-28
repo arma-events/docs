@@ -151,8 +151,13 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .vp-doc strong, .vp-doc b {
-  font-variation-settings: "wght" 600;
+  font-variation-settings: "wght" 700;
 }
+
+.dark .vp-doc strong, .dark .vp-doc b {
+  font-variation-settings: "wght" 650;
+}
+
 
 .vp-doc p, .vp-doc ul {
   font-family: "Source Sans 3";
