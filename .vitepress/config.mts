@@ -1,35 +1,36 @@
 // cSpell: disable
 
-import { defineConfig } from 'vitepress'
+import { defineConfig } from 'vitepress';
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "docs.arma.events",
-  description: "arma.events Documentation",
+  title: 'docs.arma.events',
+  description: 'arma.events Documentation',
   srcDir: './src', // all *.md files in a subfolder called 'src'
   cleanUrls: true, // without extension like .html
   lastUpdated: true,
   head: [['link', { rel: 'icon', href: '/favicon.ico' }]],
   markdown: {
     image: {
-      lazyLoading: true
-    }
+      lazyLoading: true,
+    },
   },
   themeConfig: {
     search: {
-      provider: 'local'
+      provider: 'local',
     },
     externalLinkIcon: true,
-    logo: "/ae-logo.svg",
+    logo: '/ae-logo.svg',
     footer: {
-      message: "This website is not affiliated or authorized by Bohemia Interactive a.s. Bohemia Interactive, ARMA, DAYZ and all associated logos and designs are trademarks or registered trademarks of Bohemia Interactive a.s.",
-      copyright: "Copyright © 2024-present arma.events",
+      message:
+        'This website is not affiliated or authorized by Bohemia Interactive a.s. Bohemia Interactive, ARMA, DAYZ and all associated logos and designs are trademarks or registered trademarks of Bohemia Interactive a.s.',
+      copyright: 'Copyright © 2024-present arma.events',
     },
     socialLinks: [
       { icon: 'youtube', link: 'https://www.youtube.com/@arma.events' },
       { icon: 'discord', link: 'https://discord.gg/b2aABzh8xJ' },
-      { icon: 'x', link: 'https://x.com/arma_events' }
-    ]
+      { icon: 'x', link: 'https://x.com/arma_events' },
+    ],
   },
   locales: {
     en: {
@@ -44,7 +45,7 @@ export default defineConfig({
               de: {
                 translations: {
                   button: {
-                    buttonText: 'Search'
+                    buttonText: 'Search',
                   },
                   modal: {
                     noResultsText: 'No results for',
@@ -53,13 +54,13 @@ export default defineConfig({
                     footer: {
                       selectText: 'to select',
                       navigateText: 'to navigate',
-                      closeText: 'to close'
-                    }
-                  }
-                }
-              }
-            }
-          }
+                      closeText: 'to close',
+                    },
+                  },
+                },
+              },
+            },
+          },
         },
         darkModeSwitchTitle: 'Switch to dark theme',
         lightModeSwitchTitle: 'Switch to light theme',
@@ -67,22 +68,22 @@ export default defineConfig({
           text: 'Updated at',
           formatOptions: {
             dateStyle: 'full',
-            timeStyle: 'medium'
-          }
+            timeStyle: 'medium',
+          },
         },
         editLink: {
           pattern: 'https://github.com/arma-events/docs/edit/main/src/:path',
-          text: 'Edit this page on GitHub'
+          text: 'Edit this page on GitHub',
         },
         docFooter: {
           prev: 'Previous page',
-          next: 'Next page'
+          next: 'Next page',
         },
         nav: [
           { text: 'FAQ', link: '/en/faq' },
           { text: 'Support', link: '/en/support' },
           { text: 'Feedback', link: '/en/feedback' },
-          { text: 'Contribution', link: '/en/contribution' }
+          { text: 'Contribution', link: '/en/contribution' },
         ],
         sidebar: [
           {
@@ -92,14 +93,15 @@ export default defineConfig({
               { text: 'Users', link: '/en/users' },
               { text: 'Communities', link: '/en/communities' },
               {
-                text: 'Events', 
-                link: '/en/events', 
+                text: 'Events',
+                link: '/en/events',
                 items: [
                   { text: 'Markdown', link: '/en/markdown' },
-                  { text: 'Slotslist', link: '/en/slotlist' }
-                ]
-              }
-            ]
+                  { text: 'Slotslist', link: '/en/slotlist' },
+                ],
+              },
+              { text: 'Custom Experience', link: '/en/custom-experience' },
+            ],
           },
           {
             text: 'Other Stuff',
@@ -111,11 +113,12 @@ export default defineConfig({
               { text: 'Contribution', link: '/en/contribution' },
               { text: 'Roadmap', link: '/en/roadmap' },
               { text: 'Changelog', link: '/en/changelog' },
-              { text: 'Tech Stack', link: '/en/tech-stack' }
-            ]
-          }
-        ]
-      }
+              { text: 'Tech Stack', link: '/en/tech-stack' },
+              { text: 'Legal', link: '/en/legal' },
+            ],
+          },
+        ],
+      },
     },
     de: {
       label: 'Deutsch',
@@ -129,7 +132,7 @@ export default defineConfig({
               de: {
                 translations: {
                   button: {
-                    buttonText: 'Suchen'
+                    buttonText: 'Suchen',
                   },
                   modal: {
                     noResultsText: 'Keine Ergebnisse für',
@@ -138,13 +141,13 @@ export default defineConfig({
                     footer: {
                       selectText: 'um auszuwählen',
                       navigateText: 'um zu navigieren',
-                      closeText: 'zum schließen'
-                    }
-                  }
-                }
-              }
-            }
-          }
+                      closeText: 'zum schließen',
+                    },
+                  },
+                },
+              },
+            },
+          },
         },
         darkModeSwitchTitle: 'Wechsle zum Dark Theme',
         lightModeSwitchTitle: 'Wechsle zum Light Theme',
@@ -152,22 +155,22 @@ export default defineConfig({
           text: 'Aktualisiert am',
           formatOptions: {
             dateStyle: 'full',
-            timeStyle: 'medium'
-          }
+            timeStyle: 'medium',
+          },
         },
         editLink: {
           pattern: 'https://github.com/arma-events/docs/edit/main/src/:path',
-          text: 'Bearbeite diese Seite auf GitHub'
+          text: 'Bearbeite diese Seite auf GitHub',
         },
         docFooter: {
           prev: 'vorherige Seite',
-          next: 'nächste Seite'
+          next: 'nächste Seite',
         },
         nav: [
           { text: 'FAQ', link: '/de/faq' },
           { text: 'Support', link: '/de/support' },
           { text: 'Feedback', link: '/de/feedback' },
-          { text: 'Mitwirkung', link: '/de/contribution' }
+          { text: 'Mitwirkung', link: '/de/contribution' },
         ],
         sidebar: [
           {
@@ -177,14 +180,15 @@ export default defineConfig({
               { text: 'Benutzer', link: '/de/users' },
               { text: 'Communities', link: '/de/communities' },
               {
-                text: 'Events', 
-                link: '/de/events', 
+                text: 'Events',
+                link: '/de/events',
                 items: [
                   { text: 'Markdown', link: '/de/markdown' },
-                  { text: 'Slotliste', link: '/de/slotlist' }
-                ]
-              }
-            ]
+                  { text: 'Slotliste', link: '/de/slotlist' },
+                ],
+              },
+              { text: 'Custom Experience', link: '/de/custom-experience' },
+            ],
           },
           {
             text: 'Anderes Zeug',
@@ -196,11 +200,12 @@ export default defineConfig({
               { text: 'Mitmachen', link: '/de/contribution' },
               { text: 'Roadmap', link: '/de/roadmap' },
               { text: 'Changelog', link: '/de/changelog' },
-              { text: 'Tech Stack', link: '/de/tech-stack' }
-            ]
-          }
-        ]
-      }
-    }
-  }
-})
+              { text: 'Tech Stack', link: '/de/tech-stack' },
+              { text: 'Rechtliches', link: '/de/legal' },
+            ],
+          },
+        ],
+      },
+    },
+  },
+});
