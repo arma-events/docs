@@ -4,13 +4,15 @@ outline: deep
 
 # Changelog
 
-| Version/Date                            | Codename | Milestone            |
-| --------------------------------------- | -------- | -------------------- |
-| [2024-10-10](./2024-10-10 '2024-10-10') | Decurion | Internal Release/MVP |
-|                                         |          | Closed Beta          |
-|                                         |          | Open Beta            |
-|                                         |          | Public Release       |
-|                                         |          | Post Public Release  |
+| Version/Date                            | Codename  | Milestone            |
+| --------------------------------------- | --------- | -------------------- |
+| [2024-10-10](./2024-10-10 '2024-10-10') | Decurion  | Internal Release/MVP |
+| [2024-11-23](./2024-11-23 '2024-11-23') | Alaris    |                      |
+| [2024-11-27](./2024-11-27 '2024-11-27') | Bucinator |                      |
+|                                         |           | Closed Beta          |
+|                                         |           | Open Beta            |
+|                                         |           | Public Release       |
+|                                         |           | Post Public Release  |
 
 ## Codename Scheme
 
