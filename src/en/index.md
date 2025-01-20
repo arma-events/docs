@@ -1,13 +1,12 @@
 ---
-
 cSpell: disable
 
 # https://vitepress.dev/reference/default-theme-home-page
 layout: home
 
 hero:
-  name: "docs.arma.events"
-  text: "Slotlists made easy"
+  name: 'docs.arma.events'
+  text: 'Slotlists made easy'
   tagline: Keep your community events organized
   image:
     src: /landing-page-image.webp
