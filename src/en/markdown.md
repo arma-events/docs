@@ -62,13 +62,13 @@ Add two blank spaces in front of your list item for intendation.
 
 ## Links
 
-Format `[LINKED TEXT] (URL "MOUSEOVER TEXT")`
+Format `[LINKED TEXT](URL "MOUSEOVER TEXT")`
 
 ![Links](../images/markdown/links.webp "Links")
 
 ## Images
 
-Format `![ALTERNATIVE TEXT] (URL "MOUSEOVER TEXT")`
+Format `![ALTERNATIVE TEXT](URL "MOUSEOVER TEXT")`
 
 ![Images](../images/markdown/images.webp "Images")
 
