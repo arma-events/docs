@@ -1,5 +1,3 @@
-// cSpell: disable
-
 import { defineConfig } from 'vitepress';
 
 // https://vitepress.dev/reference/site-config
