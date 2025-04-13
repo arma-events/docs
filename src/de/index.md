@@ -5,7 +5,7 @@ cSpell: disable
 layout: home
 
 hero:
-  name: 'docs.arma.events'
+  name: 'arma.events'
   text: 'Slotlisten einfach erstellt'
   tagline: Bleibe mit deinen Community Events organisiert
   image:
