@@ -9,6 +9,7 @@ outline: deep
 | [2024-10-10](./2024-10-10 '2024-10-10') | Decurion  | Internal Release/MVP |
 | [2024-11-23](./2024-11-23 '2024-11-23') | Alaris    |                      |
 | [2024-11-27](./2024-11-27 '2024-11-27') | Bucinator |                      |
+| [2025-04-08](./2025-04-08 '2025-04-08') | Hastatus  |                      |
 |                                         |           | Closed Beta          |
 |                                         |           | Open Beta            |
 |                                         |           | Public Release       |
