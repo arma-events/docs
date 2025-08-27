@@ -24,7 +24,7 @@ Now choose an event title or generate a title randomly by pressing the dice icon
 > [!CAUTION]
 > Event title length currently not restricted. Please keep the length shorter then 32 unicode characters.
 
-The last step is to choose a date and time for your event to start. You can setup date and time manually or use the platform dependant date and time dialog to choose the start of your event. You can't choose a date and time that is in the past.
+The last step is to choose a date and time for your event to start. You can setup date and time manually or use the platform dependant date and time dialog to choose the start of your event. You can't choose a date and time that is in the past. Setting date and time is completely optional. You can continue authoring the draft without setting date and time.
 
 ![Create Event Workflow](../images/events/create-event-workflow.webp "Create Event Workflow")
 
@@ -35,6 +35,14 @@ You can close your draft any time by pressing the `X` button or publish your eve
 Save your changes by pressing the **Save Draft** button and see your changes in preview mode by pressing the **Preview** button.
 
 ![Preview Toggle](../images/events/preview-toggle.webp "Preview Toggle")
+
+If you have unpublished draft events you can access them via the draft icon right next to the add menu in the upper right corner. The draft icon is only visible if you have unpublished drafts.
+
+![Draft Icon](../images/events/draft-icon.webp "Draft Icon")
+
+The draft icon allows you to access a list of all your draft events. From there you can continue to author an existing draft or create a new draft. This is the only place where drafts will be listed. Only you as the author can access your drafts.
+
+![Draft List](../images/events/draft-list.webp "Draft List")
 
 ### Event Details
 
